@@ -1,0 +1,147 @@
+import pandas as pd
+from datetime import datetime
+import re
+
+# entrada de datos
+print("")
+dia_cita = input("Ingrese el dia de la cita (eje. 9): ").strip()
+mes_cita = input("Ingrese el mes de la cita (eje. Agosto): ").strip()
+hora = input("Ingrese la hora de la cita (eje. 9 am): ").strip()
+lugar = input("Ingrese el lugar de la cita : ").strip()
+
+
+input_columns =[0,2,5,7,22]
+archivo = pd.read_excel('./data_sep.xls', usecols=input_columns)
+df = pd.DataFrame(archivo)
+
+# input_columns_global_cpcs = 
+
+input_columns_global = [6,55,57,58,59,61]
+data_global_cpcs = pd.read_excel('./Estudiantes__Informacion_familiar.xlsx', usecols=input_columns_global)
+df_global = pd.DataFrame(data_global_cpcs)
+ 
+
+
+# Cortar filas desde la 16 en adelante
+df = df.iloc[16:].reset_index(drop=True)
+
+ 
+ 
+
+
+# Eliminar filas con NaN en la columna 'Unnamed: 7'
+df = df.dropna(subset=['Unnamed: 7']).reset_index(drop=True)
+
+# llenar hacia abajo
+pd.set_option('future.no_silent_downcasting', True)
+df = df.ffill().infer_objects(copy=False)
+
+ 
+
+
+# limpiar columas y extraer solo el nombre 
+df['Nombre estudiante'] = df['Unnamed: 0'].astype(str).str.split("\n").str[0]
+df['acudiente'] = df['Unnamed: 2'].astype(str).str.split("\n").str[0]
+df['grado'] = df['Unnamed: 5'].astype(str).str.split(" ").str[0]
+df['identificacion'] = df['Unnamed: 0'].astype(str).str.extract(r"(\d{8,12})")
+
+ 
+# Renombrar columna
+df['deuda total'] = df['Unnamed: 22']
+df['pensiones pendientes'] = df['Unnamed: 7']
+
+# configurar la fecha actual 
+meses = {
+    1: "enero",2: "febrero",3: "marzo",4: "abril",5: "mayo",6: "junio",
+    7: "julio",8: "agosto",9: "septiembre",10: "octubre",11: "noviembre",12: "diciembre"
+}
+
+hoy = datetime.now()
+fecha_actual = f"{hoy.day} {meses[hoy.month]} de {hoy.year}"
+
+# columnas adicionales 
+df['dia_cita'] = dia_cita
+df['mes_cita'] = mes_cita
+df['año_cita'] = 2025
+df['administrador'] = "Geovanny Callejas Acevedo"
+df['fecha actual'] = fecha_actual
+df['lugar'] = lugar
+df['hora'] = hora 
+
+
+# df_filtrado_global = df_global[df_global['Número de identificación'].isin(df['identificacion'])]9
+
+df_global['Número de identificación'] = (
+    df_global['Número de identificación']
+    .astype('Int64')   # permite enteros con NaN
+    .astype(str)       # convertir a texto
+)
+
+ 
+
+# --- Convertir identificaciones a string ---
+df_global['Número de identificación'] = df_global['Número de identificación'].astype(str)
+df['identificacion'] = df['identificacion'].astype(str)
+
+# --- Merge con df_global (si no encuentra datos o están vacíos, igual conserva la fila) ---
+df_merged = df.merge(
+    df_global[['Número de identificación',
+               'Nombre completo acudiente',
+               'Celular acudiente',
+               'Correo electrónico acudiente']],
+    left_on='identificacion',
+    right_on='Número de identificación',
+    how='left'   # 🔑 mantiene todas las filas de df aunque no haya info en df_global
+)
+
+# --- Seleccionar columnas finales ---
+df = df_merged[[
+    'dia_cita', 'mes_cita','año_cita','administrador','fecha actual','lugar','hora',
+    'Nombre estudiante','identificacion','acudiente','grado',
+    'pensiones pendientes','deuda total',
+    'Nombre completo acudiente','Celular acudiente','Correo electrónico acudiente'
+]]
+
+
+# Limpiar columna grado 
+df = df[df['grado'] != 'Grado']
+
+# ✅ Filtro: solo registros con deuda > 800.000
+df['deuda total'] = pd.to_numeric(df['deuda total'], errors='coerce')
+df = df[df['deuda total'] > 800000].reset_index(drop=True)
+
+# --- Listado de grupo (con las nuevas columnas disponibles si quieres incluirlas) ---
+df_listado_grupo = (
+    df[['Nombre estudiante','acudiente','grado']]
+    .drop_duplicates(subset=['Nombre estudiante'])
+    .sort_values(by='grado')
+    .reset_index(drop=True)
+)
+
+# --- Agrupar ---
+df_final = df.groupby(
+    ['dia_cita','mes_cita','año_cita','administrador','fecha actual','lugar','hora',
+     'Nombre estudiante','identificacion','acudiente','grado','deuda total',
+     'Nombre completo acudiente','Celular acudiente','Correo electrónico acudiente'], 
+    as_index=False
+).agg({
+    'pensiones pendientes': lambda x: " - ".join(sorted(set(x), key=list(x).index))
+})
+
+
+
+
+# Exportar a Excel
+print("")
+ruta_salida = "./morosos_cartas_y_junta.xlsx"
+df_final.to_excel(ruta_salida, index=False)
+print(f"Archivo Excel creado en: {ruta_salida}")
+# Exportar a Excel
+
+
+print("")
+ruta_salida = "./morosos_listado_citacion.xlsx"
+df_listado_grupo.to_excel(ruta_salida, index=False)
+print(f"Archivo Excel creado en: {ruta_salida}")
+
+ 
