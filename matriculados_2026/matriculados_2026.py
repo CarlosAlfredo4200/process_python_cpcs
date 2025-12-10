@@ -2,7 +2,7 @@ import pandas as pd
 
 # Columnas a usar
 input_columns = [0,2,5,7,16,18]
-data = pd.read_excel('./data/19c517a9d3e44d4a92bfa65a82c201db.xlsx', usecols=input_columns)
+data = pd.read_excel('./data/3eb0d84e7ef447a4a7b0a5f0402fb1be.xlsx', usecols=input_columns)
 
 # --- Elimina primeras filas no útiles ---
 data_ed = data.iloc[16:].reset_index(drop=True)
