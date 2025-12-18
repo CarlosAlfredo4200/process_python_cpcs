@@ -1,7 +1,17 @@
 import pandas as pd
 import json
+import os
 from pymongo import MongoClient
+from dotenv import load_dotenv
 
+# ===============================
+# CARGAR VARIABLES DE ENTORNO
+# ===============================
+load_dotenv()
+
+# ===============================
+# FUNCIÓN PARA CONVERTIR NÚMEROS
+# ===============================
 def convert_to_number(value):
     if isinstance(value, str):
         try:
@@ -14,9 +24,13 @@ try:
     # ===============================
     # 1. CARGAR EXCEL
     # ===============================
-    df = pd.read_excel('./data_certificados.xlsx', sheet_name=0, dtype={'Num Documento': str})
-    df.columns = df.columns.str.strip()
+    df = pd.read_excel(
+        './data_certificados.xlsx',
+        sheet_name=0,
+        dtype={'Num Documento': str}
+    )
 
+    df.columns = df.columns.str.strip()
     print("Columnas detectadas:", df.columns.tolist())
 
     # ===============================
@@ -33,6 +47,7 @@ try:
         'Promovido': 'promovido',
         'Observación': 'observacion',
         'PROMEDIO': 'promedio',
+
         'C.NATURALES Y EDUCACION AMBIENTAL': 'naturalesYEducacionAmbiental',
         'Fisica': 'Fisica',
         'Quimica': 'Quimica',
@@ -89,14 +104,23 @@ try:
     # 4. CONVERTIR NÚMEROS
     # ===============================
     columnas_numericas = [
-        'promedio', 'naturalesYEducacionAmbiental', 'cienciasPoliticasYEconomicas',
-        'cienciasSociales', 'civicaYConstitucion', 'educacionArtisticaYCultural',
-        'educacionCristiana', 'educacionEticaYValores',
+        'promedio',
+        'naturalesYEducacionAmbiental',
+        'cienciasPoliticasYEconomicas',
+        'cienciasSociales',
+        'civicaYConstitucion',
+        'educacionArtisticaYCultural',
+        'educacionCristiana',
+        'educacionEticaYValores',
         'educacionFisicaYRecreacionYDeportes',
         'humanidadesLenguaCastellanaEIdiomaExtranjero',
-        'idiomaExtranjeroIngles', 'lenguaCastellana',
-        'matematicas', 'tecnologiaEInformatica',
-        'Fisica', 'Quimica', 'Filosofia'
+        'idiomaExtranjeroIngles',
+        'lenguaCastellana',
+        'matematicas',
+        'tecnologiaEInformatica',
+        'Fisica',
+        'Quimica',
+        'Filosofia'
     ]
 
     for col in columnas_numericas:
@@ -114,14 +138,18 @@ try:
     print(f"✅ JSON generado con {len(data)} registros.")
 
     # ===============================
-    # 6. CONEXIÓN A MONGODB
+    # 6. CONEXIÓN A MONGODB (SEGURA)
     # ===============================
-    client = MongoClient(
-        "mongodb+srv://alfredomontoyacorreo2:dbcpcs2024@cluster0.wu0k7uf.mongodb.net/"
-    )
+    MONGO_URI = os.getenv("MONGO_URI")
+    MONGO_DB = os.getenv("MONGO_DB")
+    MONGO_COLLECTION = os.getenv("MONGO_COLLECTION")
 
-    db = client["test"]
-    collection = db["studentgraduates"]
+    if not MONGO_URI:
+        raise ValueError("❌ No se encontró MONGO_URI en el archivo .env")
+
+    client = MongoClient(MONGO_URI)
+    db = client[MONGO_DB]
+    collection = db[MONGO_COLLECTION]
 
     print("✅ Conectado a MongoDB")
 
