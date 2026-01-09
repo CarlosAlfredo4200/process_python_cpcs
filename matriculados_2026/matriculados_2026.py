@@ -7,8 +7,8 @@ from openpyxl.styles import Font, PatternFill, Alignment
 # --------------------------------------------------------------------
 input_columns = [0, 2, 5, 7, 16, 18]
 
-ruta_pre_jardin = "./data/DATA_PRE-JARDIN_JARDIN_TRANSICION/9cfaff7ac5da498197681cfc45a739dd.xlsx"
-ruta_primero_once = "./data/DATA_1_11/562c565b08ca4680ac8ca12e2a87f5db.xlsx"
+ruta_pre_jardin = "./data/DATA_PRE-JARDIN_JARDIN_TRANSICION/fe58cda5a0f94e5db6b8dd1bae842c3e.xlsx"
+ruta_primero_once = "./data/DATA_1_11/a15f00b5121f43848cd233857e916b21.xlsx"
 
 # --------------------------------------------------------------------
 # 2️⃣ FUNCIÓN DE LIMPIEZA (REUTILIZABLE)
