@@ -1,0 +1,14 @@
+1. Descargar los datos de comunidad excel de estudiantes de comunidad
+Con esta forma:
+
+codigo	nombre	                documento	grupo	    grado	    apellidos - Copia
+226153	COSSIO LOPEZ JULIETA	1034929374	JARDIN	    JARDIN	    COSSIO LOPEZ
+217055	ECHEVERRI LEON PABLO	1025899198	SEPTIMO A	SEPTIMO	    ECHEVERRI LEON
+218073	MONTAGUT IBAÑEZ SARA	1022007379	SEXTO A	    SEXTO	    MONTAGUT IBAÑEZ
+
+
+2.Cargar el archivo en E:\dev\process_python_cpcs\EscuelaDePadres\dataEstudianteEP
+
+3.Reemplazar en el fichero : dataEstudiantesEP.py    la linea 5  "./dataEstudiantesEP.xlsx", por el archivo actual de excel
+
+4. eliminar en mongo el documento :estudianteepadres y cargar el json estudiantes_con_hermanos.json

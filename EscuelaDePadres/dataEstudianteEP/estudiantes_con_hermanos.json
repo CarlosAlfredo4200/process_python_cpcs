@@ -1,0 +1,5162 @@
+[
+    {
+        "codigo":"226153",
+        "nombre":"COSSIO LOPEZ JULIETA",
+        "documento":"1034929374",
+        "grupo":"JARDIN",
+        "grado":"JARDIN",
+        "hermanos":false
+    },
+    {
+        "codigo":"217055",
+        "nombre":"ECHEVERRI LEON PABLO",
+        "documento":"1025899198",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"218073",
+        "nombre":"MONTAGUT IBAÑEZ SARA",
+        "documento":"1022007379",
+        "grupo":"SEXTO A",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225041",
+        "nombre":"GRANDA JARAMILLO AGUSTIN",
+        "documento":"1033204959",
+        "grupo":"PRIMERO A",
+        "grado":"PRIMERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224055",
+        "nombre":"ALVAREZ CANO ELIZABETH",
+        "documento":"1031942599",
+        "grupo":"OCTAVO A",
+        "grado":"OCTAVO",
+        "hermanos":true
+    },
+    {
+        "codigo":"223019",
+        "nombre":"VELASQUEZ OQUENDO LUCIANA",
+        "documento":"1023544888",
+        "grupo":"TERCERO A",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223034",
+        "nombre":"CHICA MARTINEZ MARIA ANTONIA",
+        "documento":"1020234259",
+        "grupo":"CUARTO A",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"218044",
+        "nombre":"DE LA OSSA MEJIA MICAIAS",
+        "documento":"1021933529",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"216040",
+        "nombre":"ROJAS PALACIOS MIGUEL ANGEL",
+        "documento":"1020117709",
+        "grupo":"ONCE B",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"223022",
+        "nombre":"GAVIRIA ZAPATA MARIA JOSÉ",
+        "documento":"1023545352",
+        "grupo":"TERCERO A",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"214082",
+        "nombre":"ARANGO MONSALVE ESTEBAN",
+        "documento":"1013346917",
+        "grupo":"ONCE A",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"223107",
+        "nombre":"PANIAGUA MARIN EMILY VIVIANA",
+        "documento":"1025897110",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"219080",
+        "nombre":"JARAMILLO CARRANZA SANTIAGO",
+        "documento":"1018248468",
+        "grupo":"ONCE B",
+        "grado":"ONCE",
+        "hermanos":true
+    },
+    {
+        "codigo":"225026",
+        "nombre":"DIEZ ORTEGA ISAAC",
+        "documento":"1018275537",
+        "grupo":"TRANSICION A",
+        "grado":"TRANSICIÓN",
+        "hermanos":false
+    },
+    {
+        "codigo":"224007",
+        "nombre":"GALLEGO VELASQUEZ CELESTE",
+        "documento":"1023551022",
+        "grupo":"SEGUNDO B",
+        "grado":"SEGUNDO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223003",
+        "nombre":"ORTIZ CANO SARA",
+        "documento":"1020239882",
+        "grupo":"PRIMERO A",
+        "grado":"PRIMERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226146",
+        "nombre":"MARTINEZ NARVAEZ MARIA JOSE",
+        "documento":"1011408658",
+        "grupo":"SEPTIMO B",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"216076",
+        "nombre":"GONZALEZ BEDOYA GRACIA",
+        "documento":"1020228417",
+        "grupo":"OCTAVO B",
+        "grado":"OCTAVO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224071",
+        "nombre":"KRIM GOMEZ SUSANA SOFIA",
+        "documento":"1023543254",
+        "grupo":"TERCERO B",
+        "grado":"TERCERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224015",
+        "nombre":"CASTRO CAMERO SCARLETT",
+        "documento":"1013366647",
+        "grupo":"SEGUNDO A",
+        "grado":"SEGUNDO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224036",
+        "nombre":"GIRALDO CASTRILLÓN GUADALUPE",
+        "documento":"1020236092",
+        "grupo":"TERCERO B",
+        "grado":"TERCERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"226120",
+        "nombre":"MONSALVE ARANGO HELENA",
+        "documento":"1011416997",
+        "grupo":"PRIMERO A",
+        "grado":"PRIMERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223007",
+        "nombre":"CARDONA CAICEDO MATEO",
+        "documento":"1023550159",
+        "grupo":"SEGUNDO B",
+        "grado":"SEGUNDO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223030",
+        "nombre":"GIL BETANCUR TOMAS",
+        "documento":"1021939602",
+        "grupo":"CUARTO A",
+        "grado":"CUARTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"223048",
+        "nombre":"CANO SEGURA ANTONIA",
+        "documento":"1035002463",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"215002",
+        "nombre":"MORCILLO VELASQUEZ SOFIA",
+        "documento":"1020306631",
+        "grupo":"ONCE A",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"224093",
+        "nombre":"POTES RIOS FARAKH SHELEE",
+        "documento":"1076333131",
+        "grupo":"SEPTIMO B",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226106",
+        "nombre":"CORDOBA VELASQUEZ EMMA",
+        "documento":"1031947374",
+        "grupo":"TRANSICION A",
+        "grado":"TRANSICIÓN",
+        "hermanos":false
+    },
+    {
+        "codigo":"222015",
+        "nombre":"CHAVARRIA OSORIO LUNA CELESTE",
+        "documento":"1013358746",
+        "grupo":"CUARTO B",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222045",
+        "nombre":"CARDONA MOSQUERA ROXANA",
+        "documento":"1013466654",
+        "grupo":"SEGUNDO B",
+        "grado":"SEGUNDO",
+        "hermanos":true
+    },
+    {
+        "codigo":"220022",
+        "nombre":"RUGE MORERA GABRIELA",
+        "documento":"1020235328",
+        "grupo":"CUARTO A",
+        "grado":"CUARTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224067",
+        "nombre":"JIMENEZ RESTREPO MIGUEL ÁNGEL",
+        "documento":"1039760353",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221018",
+        "nombre":"ORTIZ PIZARRO JUAN PABLO",
+        "documento":"1033188147",
+        "grupo":"ONCE B",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"223047",
+        "nombre":"SANCHEZ ZULETA MARIA ANTONIA",
+        "documento":"1011516692",
+        "grupo":"SEXTO B",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225067",
+        "nombre":"TORRES GAITAN JOSABETH",
+        "documento":"1025676306",
+        "grupo":"PRIMERO B",
+        "grado":"PRIMERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"218034",
+        "nombre":"RUIZ ARISTIZABAL NICOLAS",
+        "documento":"1025895823",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222013",
+        "nombre":"USMA JARAMILLO MARIA CELESTE",
+        "documento":"1033200952",
+        "grupo":"CUARTO A",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"220067",
+        "nombre":"RINCON MEDINA EMANUEL",
+        "documento":"1015077478",
+        "grupo":"OCTAVO B",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"220057",
+        "nombre":"RUIZ ESTRADA SOFIA CAMILA",
+        "documento":"1013368945",
+        "grupo":"ONCE B",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"226133",
+        "nombre":"MOLINA VARGAS ALAN",
+        "documento":"1020242156",
+        "grupo":"PRE-JARDIN",
+        "grado":"PRE-JARDIN",
+        "hermanos":false
+    },
+    {
+        "codigo":"224050",
+        "nombre":"RESTREPO CORTES JUAN MANUEL",
+        "documento":"1015077703",
+        "grupo":"OCTAVO B",
+        "grado":"OCTAVO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224006",
+        "nombre":"ZAPATA GIL SAMUEL DAVID",
+        "documento":"1011417543",
+        "grupo":"PRIMERO B",
+        "grado":"PRIMERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"225064",
+        "nombre":"TABORDA REYES SAMUEL ESTEBAN",
+        "documento":"1011330426",
+        "grupo":"SEGUNDO A",
+        "grado":"SEGUNDO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222077",
+        "nombre":"VANEGAS PULGARIN SHERAY",
+        "documento":"1034925183",
+        "grupo":"QUINTO C",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225057",
+        "nombre":"SOLER SEGURA MOISES VALENTIN",
+        "documento":"5157331",
+        "grupo":"DECIMO A",
+        "grado":"DÉCIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"220039",
+        "nombre":"VANEGAS CANO LUCIANA",
+        "documento":"1025899839",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"219008",
+        "nombre":"HENAO ZAPATA MIGUEL ANGEL",
+        "documento":"1022150345",
+        "grupo":"ONCE A",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"223076",
+        "nombre":"PEREZ PINO SUSANA",
+        "documento":"1020323103",
+        "grupo":"CUARTO A",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226118",
+        "nombre":"ALVAREZ PINEDA SIMON",
+        "documento":"1023657953",
+        "grupo":"PRIMERO B",
+        "grado":"PRIMERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226103",
+        "nombre":"MIRANDA CARDENAS JUAN ALEJANDRO",
+        "documento":"1023595858",
+        "grupo":"TRANSICION A",
+        "grado":"TRANSICIÓN",
+        "hermanos":false
+    },
+    {
+        "codigo":"222036",
+        "nombre":"GIRALDO CUELLO JUAN ALEJANDRO",
+        "documento":"1020317316",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223039",
+        "nombre":"SUAREZ GUTIERREZ MARIA ANTONIA",
+        "documento":"1021941267",
+        "grupo":"CUARTO B",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224044",
+        "nombre":"GARZON HERRERA JOEL",
+        "documento":"1011410413",
+        "grupo":"SEXTO B",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"217086",
+        "nombre":"JIMENEZ MORENO NICOLAS",
+        "documento":"1072104526",
+        "grupo":"DECIMO A",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221059",
+        "nombre":"OSORIO CONTRERAS SOFIA",
+        "documento":"1021937401",
+        "grupo":"QUINTO B",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225063",
+        "nombre":"LONDOÑO JARAMILLO SAMUEL",
+        "documento":"1013369943",
+        "grupo":"PRIMERO A",
+        "grado":"PRIMERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"215065",
+        "nombre":"AGUIRRE GOMEZ SUSANA",
+        "documento":"1192466240",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224133",
+        "nombre":"FLOREZ ALVAREZ JUAN DAVID",
+        "documento":"1023554520",
+        "grupo":"PRIMERO B",
+        "grado":"PRIMERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225066",
+        "nombre":"ZABALA MONTOYA EMILIANO",
+        "documento":"1025769353",
+        "grupo":"OCTAVO B",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"219068",
+        "nombre":"CLAVIJO CORTES SANTIAGO",
+        "documento":"1019908651",
+        "grupo":"SEPTIMO B",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222018",
+        "nombre":"ZAPATA BECERRA ELIZABETH",
+        "documento":"1021939636",
+        "grupo":"CUARTO B",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"217128",
+        "nombre":"SUAREZ BAYONA MARTINA",
+        "documento":"1011106856",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"219081",
+        "nombre":"CASTAÑO PATIÑO JUAN JOSE",
+        "documento":"1023165980",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226117",
+        "nombre":"CADAVID PULGARIN LUIS MIGUEL",
+        "documento":"1036460396",
+        "grupo":"PRIMERO A",
+        "grado":"PRIMERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"220027",
+        "nombre":"VELEZ ORTIZ SIMON",
+        "documento":"1025900606",
+        "grupo":"SEXTO A",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225037",
+        "nombre":"HIGUITA NIÑO VALERIA",
+        "documento":"1035013499",
+        "grupo":"SEGUNDO A",
+        "grado":"SEGUNDO",
+        "hermanos":true
+    },
+    {
+        "codigo":"221078",
+        "nombre":"POSADA ALZATE ABRAHAM",
+        "documento":"1020321827",
+        "grupo":"QUINTO C",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"217063",
+        "nombre":"CORREA CASTAÑEDA LAURA",
+        "documento":"1025659461",
+        "grupo":"DECIMO A",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"213045",
+        "nombre":"COLORADO FONSECA DANIEL FELIPE",
+        "documento":"1023638281",
+        "grupo":"ONCE A",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"221046",
+        "nombre":"PEREZ TAMAYO SOFIA",
+        "documento":"1025900115",
+        "grupo":"SEXTO A",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"218030",
+        "nombre":"RUIZ ROMAN EMANUEL",
+        "documento":"1027662886",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"217012",
+        "nombre":"MARIACA MONTAGUT MARIA CLARA",
+        "documento":"1020228828",
+        "grupo":"OCTAVO B",
+        "grado":"OCTAVO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224011",
+        "nombre":"ESTRADA ARANGO EMANUEL",
+        "documento":"1033204705",
+        "grupo":"SEGUNDO A",
+        "grado":"SEGUNDO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222073",
+        "nombre":"ESCALANTE MARTINEZ SAMUEL",
+        "documento":"1038872200",
+        "grupo":"NOVENO B",
+        "grado":"NOVENO",
+        "hermanos":true
+    },
+    {
+        "codigo":"215117",
+        "nombre":"RUGE MORERA ISABELLA",
+        "documento":"1020228755",
+        "grupo":"NOVENO B",
+        "grado":"NOVENO",
+        "hermanos":true
+    },
+    {
+        "codigo":"226143",
+        "nombre":"LONDOÑO BERTHI ANTONELLA",
+        "documento":"1029862845",
+        "grupo":"NOVENO B",
+        "grado":"NOVENO",
+        "hermanos":true
+    },
+    {
+        "codigo":"216105",
+        "nombre":"ESPINAL GIRALDO BENJAMIN",
+        "documento":"1020228343",
+        "grupo":"OCTAVO B",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221071",
+        "nombre":"FORONDA CARO JERONIMO",
+        "documento":"1018257398",
+        "grupo":"SEPTIMO B",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222002",
+        "nombre":"PAYARES AGUSTIN BENJAMIN",
+        "documento":"1020238267",
+        "grupo":"SEGUNDO B",
+        "grado":"SEGUNDO",
+        "hermanos":true
+    },
+    {
+        "codigo":"226168",
+        "nombre":"VANEGAS OLAYA SIMON",
+        "documento":"1025901666",
+        "grupo":"QUINTO A",
+        "grado":"QUINTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"215018",
+        "nombre":"HERNANDEZ MONTAÑO MARIANA",
+        "documento":"1020304860",
+        "grupo":"ONCE A",
+        "grado":"ONCE",
+        "hermanos":true
+    },
+    {
+        "codigo":"218108",
+        "nombre":"CARVAJAL GOMEZ SHARI LINED",
+        "documento":"1025657990",
+        "grupo":"ONCE B",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"225055",
+        "nombre":"SOLER SEGURA AARON JEREMIAS",
+        "documento":"6761912",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"222038",
+        "nombre":"CARMONA GARCIA SALOME",
+        "documento":"1032024722",
+        "grupo":"OCTAVO B",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221083",
+        "nombre":"NARVAEZ MARTINEZ SAMUEL",
+        "documento":"1029301914",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222029",
+        "nombre":"ALARCON ALZATE SIMON",
+        "documento":"1021938249",
+        "grupo":"QUINTO A",
+        "grado":"QUINTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"220024",
+        "nombre":"RIOS HURTADO MIGUEL ANGEL",
+        "documento":"1011517041",
+        "grupo":"SEPTIMO B",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"214114",
+        "nombre":"CABALLERO HENAO JOSE DAVID",
+        "documento":"1013463701",
+        "grupo":"DECIMO A",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221016",
+        "nombre":"HERNANDEZ MUÑOZ CELESTE",
+        "documento":"1035006736",
+        "grupo":"QUINTO C",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223027",
+        "nombre":"BOHÓRQUEZ ISAZA ISABELLA",
+        "documento":"1033202718",
+        "grupo":"TERCERO B",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"215111",
+        "nombre":"RIOS SALAZAR SANTIAGO",
+        "documento":"1020311102",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224092",
+        "nombre":"MONTERO BERRIO VALERIE",
+        "documento":"1023646449",
+        "grupo":"SEPTIMO B",
+        "grado":"SEPTIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"225032",
+        "nombre":"QUIROGA LOPEZ ANDRES JUAN",
+        "documento":"1020229178",
+        "grupo":"OCTAVO B",
+        "grado":"OCTAVO",
+        "hermanos":true
+    },
+    {
+        "codigo":"223222",
+        "nombre":"GRANDA JARAMILLO BENJAMIN",
+        "documento":"1033198863",
+        "grupo":"QUINTO C",
+        "grado":"QUINTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"225056",
+        "nombre":"PIEDRAHITA RESTREPO MARIANA",
+        "documento":"1025897300",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223066",
+        "nombre":"ARANGO SALAZAR LUCIANA",
+        "documento":"1025661559",
+        "grupo":"DECIMO A",
+        "grado":"DÉCIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"225039",
+        "nombre":"MASSO BLANDON SOFIA",
+        "documento":"1023564448",
+        "grupo":"JARDIN",
+        "grado":"JARDIN",
+        "hermanos":true
+    },
+    {
+        "codigo":"221082",
+        "nombre":"VARGAS RENDON SARA",
+        "documento":"1033268323",
+        "grupo":"TERCERO A",
+        "grado":"TERCERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"220017",
+        "nombre":"MARIN OROZCO MATIAS",
+        "documento":"1025902754",
+        "grupo":"QUINTO B",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"216032",
+        "nombre":"HENAO YEPES SAMUEL",
+        "documento":"1021933088",
+        "grupo":"OCTAVO B",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"216028",
+        "nombre":"RUIZ RODAS JACOBO",
+        "documento":"1015075125",
+        "grupo":"ONCE A",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"224091",
+        "nombre":"POSADA COLORADO MIGUEL ANGEL",
+        "documento":"1025898790",
+        "grupo":"SEPTIMO B",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"214071",
+        "nombre":"SUESCUN YEPES LUCIANA",
+        "documento":"1023638076",
+        "grupo":"ONCE A",
+        "grado":"ONCE",
+        "hermanos":true
+    },
+    {
+        "codigo":"226150",
+        "nombre":"BALLADARES LOAYZA MATHIAS ALEJANDRO",
+        "documento":"7718937",
+        "grupo":"SEXTO A",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"217127",
+        "nombre":"CORTES CORREA SALOME",
+        "documento":"1025895387",
+        "grupo":"ONCE A",
+        "grado":"ONCE",
+        "hermanos":true
+    },
+    {
+        "codigo":"226137",
+        "nombre":"GARCIA DIAZ SAMUEL",
+        "documento":"1018272478",
+        "grupo":"PRIMERO B",
+        "grado":"PRIMERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"216072",
+        "nombre":"ECHEVERRI AGUDELO SAMUEL",
+        "documento":"1011515086",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"216094",
+        "nombre":"AGUDELO SALAZAR SAMANTHA",
+        "documento":"1192464285",
+        "grupo":"ONCE B",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"224090",
+        "nombre":"PRIETO ALBÁN MATHÍAS",
+        "documento":"1027663704",
+        "grupo":"SEXTO A",
+        "grado":"SEXTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"218087",
+        "nombre":"CALLE URIBE ANA SOFIA",
+        "documento":"1034995223",
+        "grupo":"ONCE B",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"221081",
+        "nombre":"BRAN ARRIETA SARAY",
+        "documento":"1033198496",
+        "grupo":"QUINTO C",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"214036",
+        "nombre":"GUZMAN HERRERA EMANUEL",
+        "documento":"1022152321",
+        "grupo":"DECIMO A",
+        "grado":"DÉCIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"220099",
+        "nombre":"JARAMILLO AGUDELO ANA SOFIA",
+        "documento":"1041634370",
+        "grupo":"DECIMO A",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"218110",
+        "nombre":"GARCIA PINZON ANA LUCIA",
+        "documento":"1141338696",
+        "grupo":"OCTAVO B",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"214148",
+        "nombre":"CASTAÑO VILORIA SARA",
+        "documento":"1011514095",
+        "grupo":"ONCE A",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"226115",
+        "nombre":"CIFUENTES VERGARA GABRIELA",
+        "documento":"1023557572",
+        "grupo":"PRIMERO B",
+        "grado":"PRIMERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"220031",
+        "nombre":"URIBE PINEDA REBECCA",
+        "documento":"1020319585",
+        "grupo":"SEXTO A",
+        "grado":"SEXTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"221049",
+        "nombre":"RESTREPO MARQUEZ MATEO",
+        "documento":"1011408434",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225045",
+        "nombre":"LONDOÑO JARAMILLO EZEQUIEL",
+        "documento":"1023538982",
+        "grupo":"TERCERO B",
+        "grado":"TERCERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"226165",
+        "nombre":"MONTOYA ECHAVARRIA SALVADOR",
+        "documento":"1025909412",
+        "grupo":"TRANSICION A",
+        "grado":"TRANSICIÓN",
+        "hermanos":false
+    },
+    {
+        "codigo":"223055",
+        "nombre":"ECHAVARRIA MUÑOZ ISABELLA",
+        "documento":"1020228180",
+        "grupo":"OCTAVO B",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226159",
+        "nombre":"DIAZ GAMBOA ISAAC",
+        "documento":"1025678788",
+        "grupo":"PRE-JARDIN",
+        "grado":"PRE-JARDIN",
+        "hermanos":true
+    },
+    {
+        "codigo":"218113",
+        "nombre":"SAYAGO ACEVEDO SAMUEL",
+        "documento":"1018254757",
+        "grupo":"OCTAVO B",
+        "grado":"OCTAVO",
+        "hermanos":true
+    },
+    {
+        "codigo":"215019",
+        "nombre":"GONZALEZ BEDOYA JUANITA",
+        "documento":"1020226198",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"217041",
+        "nombre":"RAMIREZ AVILA SARA",
+        "documento":"1016601695",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"222046",
+        "nombre":"GARCIA CARMONA LUCAS",
+        "documento":"1020234393",
+        "grupo":"CUARTO A",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223059",
+        "nombre":"RIVERA LOPEZ LUCIANA",
+        "documento":"1036454797",
+        "grupo":"NOVENO B",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221097",
+        "nombre":"AGUIRRE GOMEZ ARIANA",
+        "documento":"1192469248",
+        "grupo":"SEGUNDO A",
+        "grado":"SEGUNDO",
+        "hermanos":true
+    },
+    {
+        "codigo":"226101",
+        "nombre":"BENITEZ ZAPATA ABIGAIL",
+        "documento":"1020241729",
+        "grupo":"PRE-JARDIN",
+        "grado":"PRE-JARDIN",
+        "hermanos":true
+    },
+    {
+        "codigo":"217025",
+        "nombre":"VELEZ MEDINA DANIELA",
+        "documento":"1034924334",
+        "grupo":"SEPTIMO B",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226186",
+        "nombre":"BETANCUR HENAO PABLO JOSE",
+        "documento":"1025905107",
+        "grupo":"TERCERO B",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"213065",
+        "nombre":"MARTINEZ CORREA TOMAS",
+        "documento":"1020225476",
+        "grupo":"ONCE B",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"224023",
+        "nombre":"MEJIA ALVAREZ ISABELLA",
+        "documento":"1023544303",
+        "grupo":"TERCERO A",
+        "grado":"TERCERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"225073",
+        "nombre":"HERRERA CORREA NICOLAS",
+        "documento":"1020326263",
+        "grupo":"SEGUNDO B",
+        "grado":"SEGUNDO",
+        "hermanos":false
+    },
+    {
+        "codigo":"218070",
+        "nombre":"SANCHEZ ORTEGA SUSANA",
+        "documento":"1021930658",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"217056",
+        "nombre":"CANO SIERRA ISAAC",
+        "documento":"1023641376",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225031",
+        "nombre":"PEREZ CORTES SARA",
+        "documento":"1023648346",
+        "grupo":"SEXTO B",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223106",
+        "nombre":"BUSTOS SEPULVEDA EMANUEL",
+        "documento":"1022155649",
+        "grupo":"OCTAVO A",
+        "grado":"OCTAVO",
+        "hermanos":true
+    },
+    {
+        "codigo":"216010",
+        "nombre":"ORTIZ MONSALVE SEBASTIAN",
+        "documento":"1022150058",
+        "grupo":"ONCE A",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"226138",
+        "nombre":"ASPRILLA ESCOBAR VALERY NAHIARA",
+        "documento":"1025908078",
+        "grupo":"PRIMERO A",
+        "grado":"PRIMERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223070",
+        "nombre":"ARANGO SALAZAR XIMENA",
+        "documento":"1035424821",
+        "grupo":"ONCE A",
+        "grado":"ONCE",
+        "hermanos":true
+    },
+    {
+        "codigo":"223116",
+        "nombre":"ORTEGA ZABALA ABIGAIL",
+        "documento":"1011518615",
+        "grupo":"CUARTO B",
+        "grado":"CUARTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"221072",
+        "nombre":"MENDOZA ALVAREZ ABIGAIL",
+        "documento":"1018253841",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226144",
+        "nombre":"FLOREZ PUERTA SOFIA",
+        "documento":"1011412933",
+        "grupo":"CUARTO A",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"217004",
+        "nombre":"ZULETA HENAO FEBE",
+        "documento":"1025899794",
+        "grupo":"SEPTIMO B",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"215006",
+        "nombre":"RESTREPO CADAVID EMANUEL",
+        "documento":"1195213635",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":true
+    },
+    {
+        "codigo":"213055",
+        "nombre":"GARCIA VELEZ ISABELLA",
+        "documento":"1020225453",
+        "grupo":"ONCE A",
+        "grado":"ONCE",
+        "hermanos":true
+    },
+    {
+        "codigo":"218017",
+        "nombre":"MARIN DURANGO EMMANUEL",
+        "documento":"1025896216",
+        "grupo":"DECIMO A",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226104",
+        "nombre":"LOPEZ MARROQUIN JOAQUIN",
+        "documento":"1023561258",
+        "grupo":"TRANSICION A",
+        "grado":"TRANSICIÓN",
+        "hermanos":false
+    },
+    {
+        "codigo":"220040",
+        "nombre":"ARTUNDUAGA BURGOS SARAHY",
+        "documento":"1020317655",
+        "grupo":"SEPTIMO B",
+        "grado":"SEPTIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"221007",
+        "nombre":"CALLE RAMIREZ ANA SOFIA",
+        "documento":"1018247480",
+        "grupo":"ONCE A",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"215023",
+        "nombre":"CORTES MARIN ISABELLA",
+        "documento":"1032018082",
+        "grupo":"ONCE B",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"223225",
+        "nombre":"LOPEZ GALVIS SAMUEL DE JESUS",
+        "documento":"1011413620",
+        "grupo":"CUARTO A",
+        "grado":"CUARTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"221022",
+        "nombre":"PINEDA ALARCON ISMAEL",
+        "documento":"1021937032",
+        "grupo":"QUINTO C",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222067",
+        "nombre":"GONZALEZ GAMBOA JULIETA",
+        "documento":"1020321633",
+        "grupo":"QUINTO C",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225009",
+        "nombre":"PELAEZ ECHAVARRIA VALERY",
+        "documento":"1035013843",
+        "grupo":"SEGUNDO B",
+        "grado":"SEGUNDO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221054",
+        "nombre":"CORENA CORRALES ISAIAS",
+        "documento":"1021932885",
+        "grupo":"OCTAVO A",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226151",
+        "nombre":"GARRO CUARTAS JERONIMO",
+        "documento":"1036950965",
+        "grupo":"OCTAVO A",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223103",
+        "nombre":"SAYAGO ACEVEDO ISABELLA",
+        "documento":"1018271176",
+        "grupo":"SEGUNDO B",
+        "grado":"SEGUNDO",
+        "hermanos":true
+    },
+    {
+        "codigo":"221024",
+        "nombre":"PEREZ BOTERO MARIANGEL",
+        "documento":"1033266227",
+        "grupo":"QUINTO B",
+        "grado":"QUINTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"226135",
+        "nombre":"RAMIREZ PINZÓN JERONIMO",
+        "documento":"1020239311",
+        "grupo":"PRIMERO B",
+        "grado":"PRIMERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226107",
+        "nombre":"HENAO CESPEDES ANA SOFIA",
+        "documento":"1021948318",
+        "grupo":"TRANSICION A",
+        "grado":"TRANSICIÓN",
+        "hermanos":false
+    },
+    {
+        "codigo":"222049",
+        "nombre":"ARTUNDUAGA BURGOS EMMANUEL",
+        "documento":"1020322501",
+        "grupo":"QUINTO C",
+        "grado":"QUINTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"226105",
+        "nombre":"PEREZ RAIGOZA ELENA",
+        "documento":"1192469988",
+        "grupo":"TRANSICION A",
+        "grado":"TRANSICIÓN",
+        "hermanos":false
+    },
+    {
+        "codigo":"217065",
+        "nombre":"TORRES VALENCIA EMILIANO",
+        "documento":"1023646368",
+        "grupo":"SEPTIMO B",
+        "grado":"SEPTIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224040",
+        "nombre":"MORENO CARDOZO LUCIANA",
+        "documento":"1032028527",
+        "grupo":"QUINTO C",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"214062",
+        "nombre":"OSPINA TUBERQUIA MIGUEL ANGEL",
+        "documento":"1038871132",
+        "grupo":"ONCE A",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"224126",
+        "nombre":"BETANCUR BUENAÑO VALERIA",
+        "documento":"1032187811",
+        "grupo":"SEXTO A",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"219017",
+        "nombre":"PATIÑO CASTRILLON DIEGO",
+        "documento":"1033494734",
+        "grupo":"OCTAVO B",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225012",
+        "nombre":"MARIN MARIN MIKE",
+        "documento":"1017941668",
+        "grupo":"SEGUNDO A",
+        "grado":"SEGUNDO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225087",
+        "nombre":"CHAVARRIAGA QUINTERO SALOME",
+        "documento":"1023548780",
+        "grupo":"PRIMERO B",
+        "grado":"PRIMERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223119",
+        "nombre":"GOMEZ CASTIBLANCO MATIAS",
+        "documento":"1022161347",
+        "grupo":"CUARTO A",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222004",
+        "nombre":"CUARTAS OSORIO ISAAC",
+        "documento":"1023550065",
+        "grupo":"SEGUNDO B",
+        "grado":"SEGUNDO",
+        "hermanos":false
+    },
+    {
+        "codigo":"217049",
+        "nombre":"CUERVO CONSUEGRA TAMARA",
+        "documento":"1035003747",
+        "grupo":"SEPTIMO B",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"220016",
+        "nombre":"CHICA DIAZ ANA SOFIA",
+        "documento":"1129585316",
+        "grupo":"SEPTIMO B",
+        "grado":"SEPTIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"215038",
+        "nombre":"MEDINA ALZATE EMMANUEL",
+        "documento":"1027810014",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223099",
+        "nombre":"SULBARAN VILORIA ANA SOFIA",
+        "documento":"1032021599",
+        "grupo":"DECIMO A",
+        "grado":"DÉCIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"223084",
+        "nombre":"JARAMILLO CARRANZA CAMILA",
+        "documento":"1018258929",
+        "grupo":"SEXTO B",
+        "grado":"SEXTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"223078",
+        "nombre":"CALLE ORTIZ DANYA",
+        "documento":"1011515041",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221091",
+        "nombre":"MARTINEZ ALVAREZ DANIELLA",
+        "documento":"1025901451",
+        "grupo":"SEXTO B",
+        "grado":"SEXTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"226155",
+        "nombre":"SANTA CUSPOCA SAMUEL",
+        "documento":"1023566001",
+        "grupo":"PRE-JARDIN",
+        "grado":"PRE-JARDIN",
+        "hermanos":false
+    },
+    {
+        "codigo":"225043",
+        "nombre":"QUINTERO CAMARGO MARÍA JOSÉ",
+        "documento":"1025906625",
+        "grupo":"SEGUNDO A",
+        "grado":"SEGUNDO",
+        "hermanos":true
+    },
+    {
+        "codigo":"225014",
+        "nombre":"RUIZ URQUIJO VIOLETA",
+        "documento":"1031943917",
+        "grupo":"SEGUNDO A",
+        "grado":"SEGUNDO",
+        "hermanos":true
+    },
+    {
+        "codigo":"225085",
+        "nombre":"MARQUEZ MORA EMILIA",
+        "documento":"1192469448",
+        "grupo":"SEGUNDO B",
+        "grado":"SEGUNDO",
+        "hermanos":false
+    },
+    {
+        "codigo":"218027",
+        "nombre":"RUEDA ALVAREZ JULIETA",
+        "documento":"1035001646",
+        "grupo":"OCTAVO B",
+        "grado":"OCTAVO",
+        "hermanos":true
+    },
+    {
+        "codigo":"225054",
+        "nombre":"MONTOYA SERRANO ANDRES",
+        "documento":"1023542563",
+        "grupo":"TERCERO A",
+        "grado":"TERCERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"217064",
+        "nombre":"NORIEGA GIL SUSANA",
+        "documento":"1023642025",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226187",
+        "nombre":"FABIAN JIMENEZ MELANY PATRICIA",
+        "documento":"1050921406",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"220002",
+        "nombre":"RIZO PAEZ DAVID ARMANDO",
+        "documento":"1096705038",
+        "grupo":"QUINTO A",
+        "grado":"QUINTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"216086",
+        "nombre":"GUTIERREZ CIRO SEBASTIAN",
+        "documento":"1025894243",
+        "grupo":"ONCE A",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"222001",
+        "nombre":"GUETTE ORTIZ NORAH ISABELLA",
+        "documento":"1018269052",
+        "grupo":"TERCERO B",
+        "grado":"TERCERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224065",
+        "nombre":"ZAPATA OCHOA MARIANGEL",
+        "documento":"1042153354",
+        "grupo":"DECIMO A",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"217092",
+        "nombre":"OSPINA ARISTIZABAL SANTIAGO",
+        "documento":"1020118802",
+        "grupo":"NOVENO B",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"216026",
+        "nombre":"MORALES GARCIA JHONATAN",
+        "documento":"1027662364",
+        "grupo":"ONCE B",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"223057",
+        "nombre":"CASTAÑEDA GIL VALERIA",
+        "documento":"1020227680",
+        "grupo":"NOVENO B",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226123",
+        "nombre":"CARTAGENA ALVAREZ NICOLAS",
+        "documento":"1035008064",
+        "grupo":"CUARTO A",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224003",
+        "nombre":"GOMEZ ACOSTA EMILY",
+        "documento":"1031944120",
+        "grupo":"PRIMERO B",
+        "grado":"PRIMERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"221017",
+        "nombre":"OCHOA HERRERA MICHELLE",
+        "documento":"1013356816",
+        "grupo":"QUINTO C",
+        "grado":"QUINTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"225058",
+        "nombre":"LUJAN GARCIA MATHIAS",
+        "documento":"1011594330",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"216091",
+        "nombre":"RODRIGUEZ BOLIVAR IAN SANTIAGO",
+        "documento":"1032023061",
+        "grupo":"NOVENO B",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"216067",
+        "nombre":"LUNA RINCON JUAN SEBASTIAN",
+        "documento":"1013350043",
+        "grupo":"NOVENO B",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226113",
+        "nombre":"VANEGAS CANO MATIAS",
+        "documento":"1025908734",
+        "grupo":"PRIMERO B",
+        "grado":"PRIMERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"225080",
+        "nombre":"HINCAPIE ROSALES JOSE RICARDO",
+        "documento":"1025906150",
+        "grupo":"SEGUNDO B",
+        "grado":"SEGUNDO",
+        "hermanos":false
+    },
+    {
+        "codigo":"217088",
+        "nombre":"GOMEZ BUITRAGO MARIANGEL",
+        "documento":"1018248214",
+        "grupo":"ONCE A",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"225072",
+        "nombre":"ZAPATA ECHEVERRY ABIGAIL",
+        "documento":"1023655835",
+        "grupo":"SEGUNDO A",
+        "grado":"SEGUNDO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224082",
+        "nombre":"PRIETO ALBÁN ISAAC",
+        "documento":"1027664379",
+        "grupo":"TERCERO B",
+        "grado":"TERCERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"225007",
+        "nombre":"ZAPATA MARIN ANTHONY",
+        "documento":"1031945501",
+        "grupo":"PRIMERO B",
+        "grado":"PRIMERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222072",
+        "nombre":"ESCALANTE MARTINEZ SARA",
+        "documento":"1038873057",
+        "grupo":"SEPTIMO B",
+        "grado":"SEPTIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"218100",
+        "nombre":"RUIZ HERRERA MARIA ANTONIA",
+        "documento":"1017935529",
+        "grupo":"OCTAVO A",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225078",
+        "nombre":"FUERTE SANCHEZ LAURA GIANELLA",
+        "documento":"1041534963",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221047",
+        "nombre":"MANCO FONNEGRA SAMUEL",
+        "documento":"1020308169",
+        "grupo":"DECIMO A",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221025",
+        "nombre":"CARDENAS MARTINEZ CRISTIAN MATHIAS",
+        "documento":"1037130310",
+        "grupo":"QUINTO A",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224022",
+        "nombre":"MEJIA ALVAREZ JOSÚE",
+        "documento":"1023544302",
+        "grupo":"TERCERO A",
+        "grado":"TERCERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"217044",
+        "nombre":"ZULUAGA JARAMILLO SAMUEL",
+        "documento":"1034998992",
+        "grupo":"NOVENO B",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221079",
+        "nombre":"MUNERA CEBALLOS ISABEL",
+        "documento":"1036457845",
+        "grupo":"QUINTO A",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"217118",
+        "nombre":"MENESES JIMENEZ MARIANGEL",
+        "documento":"1032020916",
+        "grupo":"DECIMO A",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"213072",
+        "nombre":"CIFUENTES RIASCO DANNA",
+        "documento":"1033491959",
+        "grupo":"ONCE B",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"221032",
+        "nombre":"CARDENAS FRANCO DAVID",
+        "documento":"1025664447",
+        "grupo":"NOVENO B",
+        "grado":"NOVENO",
+        "hermanos":true
+    },
+    {
+        "codigo":"223029",
+        "nombre":"ROJAS JIMENEZ SOFIA",
+        "documento":"1021941636",
+        "grupo":"CUARTO B",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224030",
+        "nombre":"GARCIA RAMIREZ THOMÁS",
+        "documento":"1013362371",
+        "grupo":"TERCERO A",
+        "grado":"TERCERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"225044",
+        "nombre":"CANO MUÑOZ AGUSTIN",
+        "documento":"1035013037",
+        "grupo":"SEGUNDO B",
+        "grado":"SEGUNDO",
+        "hermanos":true
+    },
+    {
+        "codigo":"226124",
+        "nombre":"PEREZ PEÑA DANIEL",
+        "documento":"1020232647",
+        "grupo":"SEXTO A",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221096",
+        "nombre":"OROZCO BUSTAMANTE MARCOS",
+        "documento":"1033204262",
+        "grupo":"SEGUNDO A",
+        "grado":"SEGUNDO",
+        "hermanos":true
+    },
+    {
+        "codigo":"222005",
+        "nombre":"PEREZ BOTERO HELENA",
+        "documento":"1023545013",
+        "grupo":"TERCERO B",
+        "grado":"TERCERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"225048",
+        "nombre":"QUINTERO CAMARGO EMILIANO",
+        "documento":"1025898855",
+        "grupo":"SEPTIMO B",
+        "grado":"SEPTIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224120",
+        "nombre":"RUIZ HINCAPIE GERALDIN",
+        "documento":"1108339053",
+        "grupo":"QUINTO A",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225030",
+        "nombre":"QUIROGA LOPEZ VERONICA",
+        "documento":"1025902148",
+        "grupo":"QUINTO B",
+        "grado":"QUINTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224121",
+        "nombre":"CARO VIDAL ISABELLA",
+        "documento":"1020317267",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226126",
+        "nombre":"QUINTERO YEPES JERONIMO",
+        "documento":"1013354146",
+        "grupo":"SEXTO A",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224077",
+        "nombre":"RUIZ CASTRO JOSUE",
+        "documento":"1020238573",
+        "grupo":"SEGUNDO B",
+        "grado":"SEGUNDO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224032",
+        "nombre":"ALVAREZ CANO YERIK",
+        "documento":"1031943765",
+        "grupo":"TERCERO A",
+        "grado":"TERCERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"225095",
+        "nombre":"QUEZADA HENAO MIGUEL ANGEL",
+        "documento":"1013359929",
+        "grupo":"CUARTO A",
+        "grado":"CUARTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"215053",
+        "nombre":"CALLEJAS TAMAYO LUCIANA",
+        "documento":"1020304197",
+        "grupo":"ONCE A",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"226183",
+        "nombre":"DIAZ DURANGO DOMINICK",
+        "documento":"1032035184",
+        "grupo":"JARDIN",
+        "grado":"JARDIN",
+        "hermanos":true
+    },
+    {
+        "codigo":"226161",
+        "nombre":"JIMENEZ OSORIO KAROLINE LOHANNA",
+        "documento":"1125350283",
+        "grupo":"TERCERO A",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224134",
+        "nombre":"RUIZ JIMENEZ ISABEL",
+        "documento":"1023552404",
+        "grupo":"SEGUNDO A",
+        "grado":"SEGUNDO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226119",
+        "nombre":"TEJADA GARCIA SUSANA",
+        "documento":"1192469644",
+        "grupo":"PRIMERO A",
+        "grado":"PRIMERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222043",
+        "nombre":"DUQUE QUICENO MAHELET",
+        "documento":"1025904915",
+        "grupo":"TERCERO B",
+        "grado":"TERCERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"216075",
+        "nombre":"HERNANDEZ OCAMPO JOSUE",
+        "documento":"1018246935",
+        "grupo":"ONCE B",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"224138",
+        "nombre":"MONTOYA CRUMB AVIVA FAITH",
+        "documento":"1013377365",
+        "grupo":"TRANSICION A",
+        "grado":"TRANSICIÓN",
+        "hermanos":true
+    },
+    {
+        "codigo":"217019",
+        "nombre":"RUIZ CARVAJAL SAMUEL",
+        "documento":"1031942217",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223058",
+        "nombre":"MEZA TOBON DEBANY ITZAYANA",
+        "documento":"1021930946",
+        "grupo":"NOVENO B",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"217007",
+        "nombre":"GUETTE ORTIZ ASHLEY CAROLINA",
+        "documento":"1042587012",
+        "grupo":"ONCE A",
+        "grado":"ONCE",
+        "hermanos":true
+    },
+    {
+        "codigo":"215025",
+        "nombre":"MEJIA DIAZ VALERIA",
+        "documento":"1025895994",
+        "grupo":"DECIMO A",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"218064",
+        "nombre":"GALLO MIRANDA MATHIAS",
+        "documento":"1025896754",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"216025",
+        "nombre":"MAYORGA VALIENTE MIGUEL",
+        "documento":"1020226096",
+        "grupo":"DECIMO A",
+        "grado":"DÉCIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224083",
+        "nombre":"GIRALDO AVENDAÑO SAMUEL",
+        "documento":"1037888238",
+        "grupo":"CUARTO B",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224029",
+        "nombre":"DAVID VARGAS PAULINA",
+        "documento":"1020236262",
+        "grupo":"TERCERO A",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224101",
+        "nombre":"CHAVEZ PUCHE LUISA FERNANDA",
+        "documento":"1055524879",
+        "grupo":"OCTAVO B",
+        "grado":"OCTAVO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224005",
+        "nombre":"GIL BETANCUR MARCOS",
+        "documento":"1021947937",
+        "grupo":"PRIMERO A",
+        "grado":"PRIMERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224109",
+        "nombre":"PINEDA PEREZ EMILY MARIAN",
+        "documento":"1201471037",
+        "grupo":"CUARTO B",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222019",
+        "nombre":"VARGAS BEDOYA JULIETA",
+        "documento":"1020322388",
+        "grupo":"QUINTO A",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223075",
+        "nombre":"MASSO BLANDON PABLO",
+        "documento":"1017942242",
+        "grupo":"PRIMERO A",
+        "grado":"PRIMERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"226136",
+        "nombre":"ACEVEDO JORDAN GABRIELA",
+        "documento":"1027743151",
+        "grupo":"TRANSICION A",
+        "grado":"TRANSICIÓN",
+        "hermanos":false
+    },
+    {
+        "codigo":"225071",
+        "nombre":"MARIN ARIAS JUAN JOSE",
+        "documento":"1018269058",
+        "grupo":"SEGUNDO B",
+        "grado":"SEGUNDO",
+        "hermanos":false
+    },
+    {
+        "codigo":"215029",
+        "nombre":"SIBAJA RICO JOSE DAVID",
+        "documento":"1035978062",
+        "grupo":"ONCE A",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"225019",
+        "nombre":"PEREZ CORONADO DAVID",
+        "documento":"1025898909",
+        "grupo":"SEPTIMO B",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224078",
+        "nombre":"RUEDA ALVAREZ JOSUE",
+        "documento":"1035011673",
+        "grupo":"TERCERO A",
+        "grado":"TERCERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"215106",
+        "nombre":"CONSUEGRA PERUGACHE MATEO",
+        "documento":"1018253851",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222063",
+        "nombre":"SERNA RAMIREZ LUCIANA",
+        "documento":"1035978921",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"215008",
+        "nombre":"RAMIREZ AVILA DANIEL",
+        "documento":"1020226915",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"222078",
+        "nombre":"PEÑA GONZÁLEZ SOPHIA",
+        "documento":"1018261585",
+        "grupo":"QUINTO C",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"214141",
+        "nombre":"VELEZ RAMIREZ ASHLEY NICOLE",
+        "documento":"1025895431",
+        "grupo":"DECIMO A",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224057",
+        "nombre":"CASTAÑO MARTINEZ SALOME",
+        "documento":"1011406383",
+        "grupo":"OCTAVO A",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225011",
+        "nombre":"CHICA DIAZ MARIAH JOSE",
+        "documento":"1129587160",
+        "grupo":"SEGUNDO A",
+        "grado":"SEGUNDO",
+        "hermanos":true
+    },
+    {
+        "codigo":"225020",
+        "nombre":"AGUDELO LONDOÑO SHARON",
+        "documento":"1025900156",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221013",
+        "nombre":"IBARRA VILLAMIL JOSE ALEJANDRO",
+        "documento":"1013355660",
+        "grupo":"QUINTO B",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224075",
+        "nombre":"RODRIGUEZ ORTEGA ARIANA",
+        "documento":"1025903349",
+        "grupo":"CUARTO B",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224100",
+        "nombre":"CHAVEZ PUCHE ANA SOFIA",
+        "documento":"1055525062",
+        "grupo":"SEXTO B",
+        "grado":"SEXTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224048",
+        "nombre":"BRAVO ECHAVARRIA JACOBO",
+        "documento":"1034923818",
+        "grupo":"SEPTIMO B",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224095",
+        "nombre":"MONTOYA CASTAÑEDA JERONIMO",
+        "documento":"1192465118",
+        "grupo":"DECIMO A",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221070",
+        "nombre":"GALLEGO RUIZ MATIAS",
+        "documento":"1017936181",
+        "grupo":"SEPTIMO B",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"215114",
+        "nombre":"CORTES BEDOYA SUSANA",
+        "documento":"1011515364",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224070",
+        "nombre":"SOTO MEJIA RACHEL",
+        "documento":"1033188845",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225004",
+        "nombre":"DELGADO SANCHEZ SADE DAVID",
+        "documento":"1084470762",
+        "grupo":"TRANSICION A",
+        "grado":"TRANSICIÓN",
+        "hermanos":false
+    },
+    {
+        "codigo":"225069",
+        "nombre":"BERNAL MONROY DANIEL MATIAS",
+        "documento":"1031832043",
+        "grupo":"OCTAVO A",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221085",
+        "nombre":"BUITRAGO CAICEDO JUAN SEBASTIAN",
+        "documento":"1011412659",
+        "grupo":"QUINTO A",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"219025",
+        "nombre":"FERRARO GALLEGO SANTIAGO",
+        "documento":"1020230331",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"217048",
+        "nombre":"ORREGO JIMENEZ BENJAMIN",
+        "documento":"1011516886",
+        "grupo":"SEPTIMO B",
+        "grado":"SEPTIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"222085",
+        "nombre":"SEGURA RIOS SAMUEL FELIPE",
+        "documento":"1141719278",
+        "grupo":"DECIMO A",
+        "grado":"DÉCIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"226132",
+        "nombre":"ECHEVERRI BENT AMANDA",
+        "documento":"1021947459",
+        "grupo":"PRIMERO B",
+        "grado":"PRIMERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221056",
+        "nombre":"GARCIA HERNANDEZ EMILIANO",
+        "documento":"1131226492",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223021",
+        "nombre":"VELEZ ROJAS ISAAC",
+        "documento":"1035012208",
+        "grupo":"TERCERO A",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224137",
+        "nombre":"MONTOYA CRUMB SAMUEL ROBERT",
+        "documento":"1013370057",
+        "grupo":"SEGUNDO B",
+        "grado":"SEGUNDO",
+        "hermanos":true
+    },
+    {
+        "codigo":"216036",
+        "nombre":"VILORIA QUICENO ISAAC",
+        "documento":"1020226620",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222032",
+        "nombre":"PEREA SANCHEZ MAYCOL STIVEN",
+        "documento":"1032028471",
+        "grupo":"QUINTO B",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224118",
+        "nombre":"SANCHEZ JUSTINIANO JOSE DAVID",
+        "documento":"1025904957",
+        "grupo":"TERCERO B",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221045",
+        "nombre":"MARTINEZ CIRO JOSUE",
+        "documento":"1035005666",
+        "grupo":"SEXTO B",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224079",
+        "nombre":"OTALORA RAMIREZ SOFIA",
+        "documento":"1025674341",
+        "grupo":"TERCERO A",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222007",
+        "nombre":"MASSO BLANDON SARA",
+        "documento":"1020324934",
+        "grupo":"TERCERO B",
+        "grado":"TERCERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224127",
+        "nombre":"ROJAS MORALES ISAAC",
+        "documento":"1020230893",
+        "grupo":"SEXTO B",
+        "grado":"SEXTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224139",
+        "nombre":"PINZON RIOS LUNA",
+        "documento":"1056133411",
+        "grupo":"QUINTO A",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"216016",
+        "nombre":"VELASQUEZ OCAMPO MARIAPAZ",
+        "documento":"1186463656",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224062",
+        "nombre":"RODAS ESCUDERO MARIA CAMILA",
+        "documento":"1192466042",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225046",
+        "nombre":"MAYA VELEZ MAXIMILIANO",
+        "documento":"1025904153",
+        "grupo":"CUARTO B",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"218039",
+        "nombre":"FLOREZ GONZALEZ ISABEL",
+        "documento":"1020227324",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224046",
+        "nombre":"PALACIOS ORTIZ CELESTE",
+        "documento":"1021809371",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"218038",
+        "nombre":"ALARCON ALZATE ISABELLA",
+        "documento":"1021930575",
+        "grupo":"NOVENO B",
+        "grado":"NOVENO",
+        "hermanos":true
+    },
+    {
+        "codigo":"222010",
+        "nombre":"ACOSTA OTERO JERONIMO",
+        "documento":"1029302745",
+        "grupo":"CUARTO A",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224037",
+        "nombre":"VERA MONTOYA MARKOS",
+        "documento":"1023652438",
+        "grupo":"CUARTO B",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224072",
+        "nombre":"KRIM GOMEZ JULIANA",
+        "documento":"1018253395",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":true
+    },
+    {
+        "codigo":"220098",
+        "nombre":"ALVAREZ VALENCIA ANA ELISA",
+        "documento":"1020309249",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224012",
+        "nombre":"JARAMILLO GIRALDO JUANA",
+        "documento":"1022163975",
+        "grupo":"SEGUNDO B",
+        "grado":"SEGUNDO",
+        "hermanos":false
+    },
+    {
+        "codigo":"220028",
+        "nombre":"MESA CARDONA MARIANGEL",
+        "documento":"1025770324",
+        "grupo":"SEXTO B",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224074",
+        "nombre":"CARO SOTO SAMUEL",
+        "documento":"1023540172",
+        "grupo":"TERCERO B",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"214072",
+        "nombre":"VARGAS WILCHES MARIA JOSE",
+        "documento":"1021929142",
+        "grupo":"DECIMO A",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222030",
+        "nombre":"HIGUITA NIÑO BENJAMIN",
+        "documento":"1035007562",
+        "grupo":"QUINTO B",
+        "grado":"QUINTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"222048",
+        "nombre":"DIAZ COSSIO CELESTE",
+        "documento":"1155716719",
+        "grupo":"TERCERO A",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223008",
+        "nombre":"DUQUE QUICENO MAIARA",
+        "documento":"1025906936",
+        "grupo":"SEGUNDO B",
+        "grado":"SEGUNDO",
+        "hermanos":true
+    },
+    {
+        "codigo":"226179",
+        "nombre":"FABIAN JIMENEZ DULLIAM FERNEY",
+        "documento":"1049031394",
+        "grupo":"CUARTO A",
+        "grado":"CUARTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"225042",
+        "nombre":"PEÑA ISAZA RAFAEL",
+        "documento":"1013371011",
+        "grupo":"PRIMERO B",
+        "grado":"PRIMERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"225005",
+        "nombre":"RIVERA MONTOYA EMILIANO",
+        "documento":"1021944352",
+        "grupo":"PRIMERO A",
+        "grado":"PRIMERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"220046",
+        "nombre":"LUJAN SABOGAL MARIA CELESTE",
+        "documento":"1037949326",
+        "grupo":"SEXTO B",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"219001",
+        "nombre":"LOPEZ GOMEZ JUAN FELIPE",
+        "documento":"1035007863",
+        "grupo":"QUINTO C",
+        "grado":"QUINTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"214022",
+        "nombre":"RESTREPO CADAVID ISABELA",
+        "documento":"1025656333",
+        "grupo":"ONCE A",
+        "grado":"ONCE",
+        "hermanos":true
+    },
+    {
+        "codigo":"224004",
+        "nombre":"CARDONA BAENA AMELIA",
+        "documento":"1031946360",
+        "grupo":"PRIMERO A",
+        "grado":"PRIMERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226163",
+        "nombre":"ARBELAEZ TORRES MAKSIMILIAN",
+        "documento":"1021940719",
+        "grupo":"CUARTO B",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223001",
+        "nombre":"URIBE PINEDA RENATTA",
+        "documento":"1020327400",
+        "grupo":"PRIMERO B",
+        "grado":"PRIMERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"223115",
+        "nombre":"ALVAREZ TERAN JOSUE",
+        "documento":"1015194657",
+        "grupo":"QUINTO C",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225068",
+        "nombre":"ORREGO ROJAS MIGUEL ANGEL",
+        "documento":"1023647320",
+        "grupo":"SEXTO B",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224069",
+        "nombre":"MUNIVE ECHEVERRI ARIADNA",
+        "documento":"1192465340",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223009",
+        "nombre":"HENAO PINILLA SIMON",
+        "documento":"1013364053",
+        "grupo":"TERCERO B",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221014",
+        "nombre":"ARCIA PEREZ MARIA ANTONIA",
+        "documento":"1025770917",
+        "grupo":"QUINTO B",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221003",
+        "nombre":"BETANCUR ORTIZ ISABELLA",
+        "documento":"1035006417",
+        "grupo":"QUINTO A",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223056",
+        "nombre":"MALDONADO OSPINA MIGUEL ANGEL",
+        "documento":"1020310168",
+        "grupo":"OCTAVO A",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226170",
+        "nombre":"MOSQUERA MURIEL SALOME",
+        "documento":"1015197774",
+        "grupo":"TRANSICION A",
+        "grado":"TRANSICIÓN",
+        "hermanos":false
+    },
+    {
+        "codigo":"214005",
+        "nombre":"RIAÑO ALZATE SANTIAGO",
+        "documento":"1021928503",
+        "grupo":"ONCE B",
+        "grado":"ONCE",
+        "hermanos":true
+    },
+    {
+        "codigo":"225051",
+        "nombre":"MONTOYA SERRANO ISAAC",
+        "documento":"1023554474",
+        "grupo":"PRIMERO A",
+        "grado":"PRIMERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"225025",
+        "nombre":"OCAÑA MUÑOZ ANDRES FELIPE",
+        "documento":"1011400583",
+        "grupo":"ONCE B",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"226116",
+        "nombre":"CAICEDO MARTINEZ EMMANUEL",
+        "documento":"1023552316",
+        "grupo":"PRIMERO A",
+        "grado":"PRIMERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224013",
+        "nombre":"ARENAS CALDERON SALOMON",
+        "documento":"1011519538",
+        "grupo":"SEGUNDO A",
+        "grado":"SEGUNDO",
+        "hermanos":true
+    },
+    {
+        "codigo":"225021",
+        "nombre":"CORREA BOLAÑOS ISMAEL",
+        "documento":"1013465070",
+        "grupo":"SEPTIMO B",
+        "grado":"SEPTIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"221010",
+        "nombre":"GARCIA RAMIREZ NICOLAS",
+        "documento":"1013353521",
+        "grupo":"SEXTO A",
+        "grado":"SEXTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"216019",
+        "nombre":"HENAO RUA SARA",
+        "documento":"1192464743",
+        "grupo":"ONCE B",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"219060",
+        "nombre":"ARENAS CALDERON EVOLETH",
+        "documento":"1020229348",
+        "grupo":"OCTAVO A",
+        "grado":"OCTAVO",
+        "hermanos":true
+    },
+    {
+        "codigo":"214048",
+        "nombre":"MIRANDA FLOREZ MARIAJOSE",
+        "documento":"1011403264",
+        "grupo":"DECIMO A",
+        "grado":"DÉCIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"226111",
+        "nombre":"BENITEZ ZAPATA CALEB",
+        "documento":"1023556336",
+        "grupo":"PRIMERO A",
+        "grado":"PRIMERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"226152",
+        "nombre":"MUÑOZ ORREGO JULIETA",
+        "documento":"1020226306",
+        "grupo":"DECIMO A",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222084",
+        "nombre":"SEGURA RIOS EMMANUEL DAVID",
+        "documento":"1141722491",
+        "grupo":"SEXTO B",
+        "grado":"SEXTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"223104",
+        "nombre":"FRANCO ARROYAVE SAMUEL",
+        "documento":"1023542861",
+        "grupo":"TERCERO A",
+        "grado":"TERCERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"226169",
+        "nombre":"ISAZA ESPAÑA GUADALUPE",
+        "documento":"1023595038",
+        "grupo":"SEXTO B",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"218005",
+        "nombre":"HENAO SERNA CELESTE",
+        "documento":"1033193469",
+        "grupo":"OCTAVO A",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"219029",
+        "nombre":"VARGAS RENDON SIMON",
+        "documento":"1126251067",
+        "grupo":"OCTAVO B",
+        "grado":"OCTAVO",
+        "hermanos":true
+    },
+    {
+        "codigo":"218010",
+        "nombre":"LOPERA PINO SIMON",
+        "documento":"1027663018",
+        "grupo":"OCTAVO B",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226182",
+        "nombre":"MONTOYA CRUMB AHAVAH JOY",
+        "documento":"1025776867",
+        "grupo":"PRE-JARDIN",
+        "grado":"PRE-JARDIN",
+        "hermanos":true
+    },
+    {
+        "codigo":"222086",
+        "nombre":"ATEHORTUA QUINTERO MIGUEL ANGEL",
+        "documento":"1011410509",
+        "grupo":"QUINTO B",
+        "grado":"QUINTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"217125",
+        "nombre":"PERILLA CHICA ISABELLA",
+        "documento":"1034304812",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225098",
+        "nombre":"OSPINA PEREZ SAMUEL",
+        "documento":"1127538440",
+        "grupo":"NOVENO B",
+        "grado":"NOVENO",
+        "hermanos":true
+    },
+    {
+        "codigo":"221033",
+        "nombre":"CARDENAS FRANCO FELIPE",
+        "documento":"1025664448",
+        "grupo":"NOVENO B",
+        "grado":"NOVENO",
+        "hermanos":true
+    },
+    {
+        "codigo":"217026",
+        "nombre":"MUÑOZ VELLOJIN MATEO",
+        "documento":"1020307672",
+        "grupo":"DECIMO A",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224089",
+        "nombre":"LONDOÑO DUQUE MARIANGEL",
+        "documento":"1032025183",
+        "grupo":"SEXTO B",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224066",
+        "nombre":"ARENAS ALVAREZ SARA",
+        "documento":"1027662500",
+        "grupo":"DECIMO A",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223064",
+        "nombre":"VANEGAS BRAN MARIA ANGEL",
+        "documento":"1025661510",
+        "grupo":"DECIMO A",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"217082",
+        "nombre":"TANGARIFE ESCOBAR DANIEL",
+        "documento":"1192467255",
+        "grupo":"NOVENO B",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224080",
+        "nombre":"GARCIA VALENCIA NICOLAS",
+        "documento":"1023655377",
+        "grupo":"TERCERO A",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221020",
+        "nombre":"MARIN JIMENEZ LUCIANA",
+        "documento":"1033198229",
+        "grupo":"SEXTO B",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"217023",
+        "nombre":"ESPINAL HURTADO LUCIANA",
+        "documento":"1027811523",
+        "grupo":"OCTAVO A",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224061",
+        "nombre":"GIRALDO CASTRILLÓN JULIETA",
+        "documento":"1020227988",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":true
+    },
+    {
+        "codigo":"218055",
+        "nombre":"LONDOÑO SANCHEZ ANTONIA",
+        "documento":"1018254830",
+        "grupo":"OCTAVO A",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224009",
+        "nombre":"CORREA RIOS MARTIN",
+        "documento":"1020237589",
+        "grupo":"SEGUNDO A",
+        "grado":"SEGUNDO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224058",
+        "nombre":"PIEDRAHITA BETANCUR ANA SOFIA",
+        "documento":"1011405972",
+        "grupo":"OCTAVO B",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223061",
+        "nombre":"GIRALDO GONZALEZ JERONIMO",
+        "documento":"1025897379",
+        "grupo":"NOVENO B",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225008",
+        "nombre":"RIZO PAEZ ELISA VICTORIA",
+        "documento":"1018273200",
+        "grupo":"PRIMERO B",
+        "grado":"PRIMERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"219044",
+        "nombre":"CORREA HENAO SOFIA",
+        "documento":"1020314407",
+        "grupo":"OCTAVO B",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223071",
+        "nombre":"FRANCO ARROYAVE BRISNEY SOFIA",
+        "documento":"1023635302",
+        "grupo":"ONCE B",
+        "grado":"ONCE",
+        "hermanos":true
+    },
+    {
+        "codigo":"222039",
+        "nombre":"QUIROZ SEÑA IVANA",
+        "documento":"1025896033",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"217001",
+        "nombre":"VILLANUEVA JULIO SAMUEL",
+        "documento":"1020308975",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221011",
+        "nombre":"FLOREZ HENAO STEFANY",
+        "documento":"1020319583",
+        "grupo":"SEXTO A",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"218078",
+        "nombre":"CARDONA ZAPATA EMANUEL",
+        "documento":"1025897425",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"216005",
+        "nombre":"TAMAYO HERNANDEZ DANIEL",
+        "documento":"1025897439",
+        "grupo":"NOVENO B",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223051",
+        "nombre":"CASTRILLON GARCIA VALERIA",
+        "documento":"1015077099",
+        "grupo":"OCTAVO A",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223063",
+        "nombre":"MARTINEZ HERRERA LUCIANA",
+        "documento":"1025895477",
+        "grupo":"DECIMO A",
+        "grado":"DÉCIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"223042",
+        "nombre":"CHAVERRA GOMEZ REBECA",
+        "documento":"1020323596",
+        "grupo":"CUARTO B",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"220045",
+        "nombre":"PEREZ MARIN ELISABET",
+        "documento":"1020316249",
+        "grupo":"SEPTIMO B",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222064",
+        "nombre":"GONZALEZ RODRIGUEZ HANIEL ADRIAN",
+        "documento":"1013636424",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224096",
+        "nombre":"ALVAREZ ROJAS JANNA",
+        "documento":"1021927279",
+        "grupo":"ONCE B",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"220019",
+        "nombre":"LEGARDA GIRALDO MATIAS",
+        "documento":"1011410285",
+        "grupo":"SEXTO B",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"219061",
+        "nombre":"GAVIRIA CESPEDES BRENDA",
+        "documento":"1013349020",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":true
+    },
+    {
+        "codigo":"218020",
+        "nombre":"ZULUAGA GARCIA SARA",
+        "documento":"1034997693",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223046",
+        "nombre":"VELEZ MEJIA SARA",
+        "documento":"1021936799",
+        "grupo":"SEXTO B",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225035",
+        "nombre":"CALLE CASTAÑO EMMANUEL",
+        "documento":"1025907973",
+        "grupo":"PRIMERO B",
+        "grado":"PRIMERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"216033",
+        "nombre":"GUZMAN HERRERA SUSANA",
+        "documento":"1022156003",
+        "grupo":"OCTAVO A",
+        "grado":"OCTAVO",
+        "hermanos":true
+    },
+    {
+        "codigo":"223045",
+        "nombre":"PICO ARREDONDO SAMUEL DAVID",
+        "documento":"1021939327",
+        "grupo":"QUINTO A",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221051",
+        "nombre":"HURTADO MORENO FAILYN LICETH",
+        "documento":"1032024288",
+        "grupo":"OCTAVO B",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"216063",
+        "nombre":"MIRANDA FLOREZ JOSUE DAVID",
+        "documento":"1013351247",
+        "grupo":"OCTAVO A",
+        "grado":"OCTAVO",
+        "hermanos":true
+    },
+    {
+        "codigo":"225036",
+        "nombre":"LEÓN VERGARA JACOBO",
+        "documento":"1025908376",
+        "grupo":"PRIMERO B",
+        "grado":"PRIMERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221009",
+        "nombre":"CORREA CASTAÑO CHRISTOPHER",
+        "documento":"1033192943",
+        "grupo":"OCTAVO A",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224021",
+        "nombre":"PAREJA SALDARRIAGA MARIAM",
+        "documento":"1023654324",
+        "grupo":"TERCERO A",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221057",
+        "nombre":"PONCE VARGAS SAYRA",
+        "documento":"1025667353",
+        "grupo":"SEPTIMO B",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224108",
+        "nombre":"VENEGAS OROZCO SAMUEL",
+        "documento":"1011230940",
+        "grupo":"QUINTO B",
+        "grado":"QUINTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224076",
+        "nombre":"MONTERO BERRIO ESTEBAN",
+        "documento":"1023657966",
+        "grupo":"PRIMERO A",
+        "grado":"PRIMERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"218047",
+        "nombre":"BOHORQUEZ VERA JUAN ESTEBAN",
+        "documento":"1025897533",
+        "grupo":"OCTAVO B",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"218025",
+        "nombre":"BETANCUR CARDONA SAMUEL",
+        "documento":"1192467267",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222014",
+        "nombre":"RODRIGUEZ RIVERA PABLO",
+        "documento":"1025904747",
+        "grupo":"CUARTO A",
+        "grado":"CUARTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224020",
+        "nombre":"CORREA GALLEGO SAMUEL",
+        "documento":"1023543332",
+        "grupo":"TERCERO A",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"218031",
+        "nombre":"USUGA HIDALGO JUAN SEBASTIAN",
+        "documento":"1033190800",
+        "grupo":"NOVENO B",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225097",
+        "nombre":"GIRALDO PEREZ ANA ISABEL",
+        "documento":"1021931737",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221095",
+        "nombre":"ARIAS VALENCIA VIOLET",
+        "documento":"1020125747",
+        "grupo":"CUARTO A",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221080",
+        "nombre":"PARADA PINEDA JUAN DAVID",
+        "documento":"1020320395",
+        "grupo":"SEXTO A",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224039",
+        "nombre":"HERRERA HIGUITA ANTONIA",
+        "documento":"1013357048",
+        "grupo":"QUINTO B",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"219076",
+        "nombre":"LARGO DIAZ JUAN SEBASTIAN",
+        "documento":"1025897161",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":true
+    },
+    {
+        "codigo":"225013",
+        "nombre":"CORREA BOLAÑOS JOSIAS",
+        "documento":"1013466602",
+        "grupo":"SEGUNDO A",
+        "grado":"SEGUNDO",
+        "hermanos":true
+    },
+    {
+        "codigo":"221077",
+        "nombre":"MADERA MALDONADO LUCIANA",
+        "documento":"1043465872",
+        "grupo":"SEXTO B",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226109",
+        "nombre":"BEDOYA GARCIA JUANA VALENTINA",
+        "documento":"1018274619",
+        "grupo":"TRANSICION A",
+        "grado":"TRANSICIÓN",
+        "hermanos":false
+    },
+    {
+        "codigo":"223025",
+        "nombre":"MONTES AGUIRRE JERONIMO",
+        "documento":"1035010800",
+        "grupo":"TERCERO B",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226154",
+        "nombre":"SANCHEZ VIDAL MARIANGEL",
+        "documento":"1023646929",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222027",
+        "nombre":"OROZCO VELEZ EMILIANO",
+        "documento":"1020321755",
+        "grupo":"QUINTO C",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"220056",
+        "nombre":"GARZON MORENO CRISTIAN",
+        "documento":"1020227383",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226102",
+        "nombre":"OROZCO BUSTAMANTE GABRIELA",
+        "documento":"1025678879",
+        "grupo":"PRE-JARDIN",
+        "grado":"PRE-JARDIN",
+        "hermanos":true
+    },
+    {
+        "codigo":"224068",
+        "nombre":"ARBOLEDA BASTOS XIMENA",
+        "documento":"1018249789",
+        "grupo":"DECIMO A",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224119",
+        "nombre":"RUEDA CARVAJAL GUADALUPE",
+        "documento":"1018250928",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224026",
+        "nombre":"SULBARAN VILORIA MARIANA",
+        "documento":"1023539403",
+        "grupo":"TERCERO A",
+        "grado":"TERCERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"225003",
+        "nombre":"RIOS MORALES LUCIANA",
+        "documento":"1022169517",
+        "grupo":"JARDIN",
+        "grado":"JARDIN",
+        "hermanos":false
+    },
+    {
+        "codigo":"223038",
+        "nombre":"SANABRIA CARDONA SANTIAGO",
+        "documento":"1035008500",
+        "grupo":"CUARTO B",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226141",
+        "nombre":"LOPEZ LUNA MARIANGEL",
+        "documento":"1013353935",
+        "grupo":"SEXTO A",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225100",
+        "nombre":"GIRALDO ESPINOSA VICTORIA",
+        "documento":"1034403947",
+        "grupo":"QUINTO A",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221063",
+        "nombre":"SANCHEZ OTALVARO GUADALUPE",
+        "documento":"1020231885",
+        "grupo":"SEXTO B",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222003",
+        "nombre":"GARCIA VELEZ LUCAS",
+        "documento":"1013369507",
+        "grupo":"SEGUNDO B",
+        "grado":"SEGUNDO",
+        "hermanos":true
+    },
+    {
+        "codigo":"225038",
+        "nombre":"PEREZ TORO LUCIA",
+        "documento":"1031948017",
+        "grupo":"JARDIN",
+        "grado":"JARDIN",
+        "hermanos":false
+    },
+    {
+        "codigo":"216001",
+        "nombre":"SANCHEZ HURTADO DANIEL",
+        "documento":"1186463402",
+        "grupo":"DECIMO A",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226180",
+        "nombre":"TABORDA JARAMILLO SAMUEL",
+        "documento":"1023546148",
+        "grupo":"TERCERO B",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226145",
+        "nombre":"GOMEZ ACOSTA GRACE",
+        "documento":"1023661050",
+        "grupo":"TRANSICION A",
+        "grado":"TRANSICIÓN",
+        "hermanos":true
+    },
+    {
+        "codigo":"217121",
+        "nombre":"TORRES JIMENEZ JUAN SIMON",
+        "documento":"1021808935",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"226158",
+        "nombre":"OSSA PERDOMO DANIEL",
+        "documento":"1023560303",
+        "grupo":"TRANSICION A",
+        "grado":"TRANSICIÓN",
+        "hermanos":true
+    },
+    {
+        "codigo":"222025",
+        "nombre":"JARAMILLO TOVIO VIOLETA",
+        "documento":"1022160689",
+        "grupo":"QUINTO C",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222034",
+        "nombre":"ROJAS GÓMEZ SAMUEL MATIAS",
+        "documento":"1105791653",
+        "grupo":"SEXTO B",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225028",
+        "nombre":"ARAQUE GOMEZ SAMANTHA",
+        "documento":"1023547961",
+        "grupo":"SEGUNDO B",
+        "grado":"SEGUNDO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225096",
+        "nombre":"QUEZADA HENAO DYLAN",
+        "documento":"1038265883",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"218075",
+        "nombre":"PARRA ISAZA SAMUEL",
+        "documento":"1035000502",
+        "grupo":"OCTAVO B",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226166",
+        "nombre":"RUIZ NIÑO MATIAS",
+        "documento":"1011406122",
+        "grupo":"SEPTIMO B",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222006",
+        "nombre":"ZULUAGA PIMIENTA DAVID",
+        "documento":"1017941081",
+        "grupo":"TERCERO B",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"218037",
+        "nombre":"OCHOA HERRERA SARA",
+        "documento":"1017935653",
+        "grupo":"OCTAVO A",
+        "grado":"OCTAVO",
+        "hermanos":true
+    },
+    {
+        "codigo":"223036",
+        "nombre":"BUSTAMANTE VILLEGAS SANTIAGO",
+        "documento":"1025903861",
+        "grupo":"CUARTO A",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"218091",
+        "nombre":"SIERRA PEÑARANDA MIGUEL ANGEL",
+        "documento":"1092540648",
+        "grupo":"OCTAVO B",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224053",
+        "nombre":"GARCIA GONZALEZ JUAN MANUEL",
+        "documento":"1018252964",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226121",
+        "nombre":"MURILLO ORTIZ MARIANGEL",
+        "documento":"1023547220",
+        "grupo":"SEGUNDO B",
+        "grado":"SEGUNDO",
+        "hermanos":false
+    },
+    {
+        "codigo":"220050",
+        "nombre":"ZULUAGA SALGADO FELIPE",
+        "documento":"1021935677",
+        "grupo":"SEXTO A",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226160",
+        "nombre":"RUIZ VIDAL EVA",
+        "documento":"1021949022",
+        "grupo":"JARDIN",
+        "grado":"JARDIN",
+        "hermanos":false
+    },
+    {
+        "codigo":"218067",
+        "nombre":"DUQUE BERMUDEZ JUAN ANDRES",
+        "documento":"1020313616",
+        "grupo":"OCTAVO A",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"220012",
+        "nombre":"SUAREZ RESTREPO LESLIE",
+        "documento":"1025901591",
+        "grupo":"SEXTO A",
+        "grado":"SEXTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"222066",
+        "nombre":"MANCERA LONDOÑO JOSÚE",
+        "documento":"1097132180",
+        "grupo":"QUINTO C",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223035",
+        "nombre":"LOPEZ VIVAS EMMANUEL",
+        "documento":"1025904194",
+        "grupo":"CUARTO B",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"217120",
+        "nombre":"TORRES JIMENEZ BENJAMIN",
+        "documento":"1021809260",
+        "grupo":"OCTAVO A",
+        "grado":"OCTAVO",
+        "hermanos":true
+    },
+    {
+        "codigo":"219004",
+        "nombre":"PUERTA VANEGAS ISABEL",
+        "documento":"1020228568",
+        "grupo":"OCTAVO B",
+        "grado":"OCTAVO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224117",
+        "nombre":"ARANGO MEJIA DULCE MARIA",
+        "documento":"1020126613",
+        "grupo":"TERCERO B",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224088",
+        "nombre":"SERNA LONGA SAHILYN",
+        "documento":"1011415143",
+        "grupo":"TERCERO A",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224102",
+        "nombre":"CASTRO ECHEVERRY MARIAPAZ",
+        "documento":"1192467418",
+        "grupo":"NOVENO B",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"220033",
+        "nombre":"PAYARES AGUSTIN JOSEPH ELIAS",
+        "documento":"1033267957",
+        "grupo":"CUARTO B",
+        "grado":"CUARTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"222057",
+        "nombre":"ARBOLEDA CORDOBA SAMUEL JOSUHA",
+        "documento":"1032188877",
+        "grupo":"CUARTO A",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223096",
+        "nombre":"ATEHORTUA QUINTERO SIMON",
+        "documento":"1020235465",
+        "grupo":"CUARTO B",
+        "grado":"CUARTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"218011",
+        "nombre":"GOMEZ SALDAÑA SARA",
+        "documento":"1011405057",
+        "grupo":"NOVENO B",
+        "grado":"NOVENO",
+        "hermanos":true
+    },
+    {
+        "codigo":"223226",
+        "nombre":"LOPEZ GALVIS SOFIA",
+        "documento":"1201230514",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":true
+    },
+    {
+        "codigo":"226172",
+        "nombre":"RESTREPO CIFUENTES ISABEL SOFIA",
+        "documento":"1025903142",
+        "grupo":"QUINTO B",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225050",
+        "nombre":"ZAPATA CARO JOSE DAVID",
+        "documento":"1025898702",
+        "grupo":"OCTAVO B",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224043",
+        "nombre":"GONZALEZ MORA EMILY",
+        "documento":"1018261295",
+        "grupo":"SEXTO A",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223065",
+        "nombre":"VILLEGAS VARGAS MARIANGEL",
+        "documento":"1021929216",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222035",
+        "nombre":"PERNETT TOBON DAVID",
+        "documento":"1020121735",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"216006",
+        "nombre":"SALDARRIAGA AGUIRRE HANNAH",
+        "documento":"1021929020",
+        "grupo":"DECIMO B1",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223005",
+        "nombre":"CEDILLO AGUDELO NICOLAS",
+        "documento":"1023656931",
+        "grupo":"SEGUNDO A",
+        "grado":"SEGUNDO",
+        "hermanos":false
+    },
+    {
+        "codigo":"217010",
+        "nombre":"AGUSTIN VALENCIA OBED",
+        "documento":"1035002815",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224085",
+        "nombre":"RUIZ CASTRO ANA ISABELLA",
+        "documento":"1020234533",
+        "grupo":"CUARTO B",
+        "grado":"CUARTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"226174",
+        "nombre":"RAMIREZ ECHAVARRIA JACOBO",
+        "documento":"1011518348",
+        "grupo":"CUARTO B",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224001",
+        "nombre":"DIAZ CASTAÑO EMILIA",
+        "documento":"1033205457",
+        "grupo":"PRIMERO A",
+        "grado":"PRIMERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226139",
+        "nombre":"DE LOS SANTOS NEIRA HANNAH SALEM",
+        "documento":"1025910970",
+        "grupo":"PRE-JARDIN",
+        "grado":"PRE-JARDIN",
+        "hermanos":true
+    },
+    {
+        "codigo":"224047",
+        "nombre":"ARIAS SANCHEZ VALERIA",
+        "documento":"1018257804",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224033",
+        "nombre":"HERRERA MONTOYA MARTIN",
+        "documento":"1033203589",
+        "grupo":"TERCERO B",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224028",
+        "nombre":"RAMIREZ DIAZ ISABELLA",
+        "documento":"1035011133",
+        "grupo":"TERCERO B",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222021",
+        "nombre":"ARANGO GOMEZ JULIETA",
+        "documento":"1155715569",
+        "grupo":"QUINTO B",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221069",
+        "nombre":"CLAVIJO QUICENO SARA",
+        "documento":"1021935485",
+        "grupo":"SEXTO B",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"218018",
+        "nombre":"MACHADO MEJIA JULIETA",
+        "documento":"1027662985",
+        "grupo":"NOVENO B",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"212110",
+        "nombre":"PEREZ POLO SOFIA",
+        "documento":"1034993527",
+        "grupo":"ONCE B",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"224086",
+        "nombre":"JARAMILLO LONDOÑO NICOLAS",
+        "documento":"1023551408",
+        "grupo":"SEGUNDO A",
+        "grado":"SEGUNDO",
+        "hermanos":true
+    },
+    {
+        "codigo":"223024",
+        "nombre":"ALVAREZ MANCILLA DAVID LUIZ",
+        "documento":"1025905458",
+        "grupo":"TERCERO B",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221052",
+        "nombre":"MIRANDA ARRIETA JULIANA",
+        "documento":"1021935958",
+        "grupo":"SEXTO A",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"218008",
+        "nombre":"SANCHEZ MEJIA KAREN",
+        "documento":"1025897021",
+        "grupo":"NOVENO B",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"220003",
+        "nombre":"CASTAÑO ZAPATA AMBAR",
+        "documento":"1021935307",
+        "grupo":"SEXTO A",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223052",
+        "nombre":"MARTINEZ HERRERA JUAN DIEGO",
+        "documento":"1025898492",
+        "grupo":"OCTAVO A",
+        "grado":"OCTAVO",
+        "hermanos":true
+    },
+    {
+        "codigo":"220037",
+        "nombre":"TROYA RENDON EMANUEL",
+        "documento":"1025667898",
+        "grupo":"OCTAVO A",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221008",
+        "nombre":"ARROYAVE GONZALEZ ELISABET",
+        "documento":"1020319550",
+        "grupo":"SEXTO A",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221055",
+        "nombre":"HERNANDEZ CORAL VALERY SOFIA",
+        "documento":"1081058741",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225065",
+        "nombre":"TORRES RAMIREZ CRISTIAN DAVID",
+        "documento":"1015194725",
+        "grupo":"QUINTO A",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"216050",
+        "nombre":"DIAZ GONZALEZ MATIAS",
+        "documento":"1021930204",
+        "grupo":"DECIMO A",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222023",
+        "nombre":"FLOREZ GONZALEZ SALOME",
+        "documento":"1020233196",
+        "grupo":"QUINTO A",
+        "grado":"QUINTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"220090",
+        "nombre":"LARGO DIAZ STEPHANIE",
+        "documento":"1020121599",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"220070",
+        "nombre":"ACEVEDO MUÑOZ JUAN PABLO",
+        "documento":"1025897940",
+        "grupo":"OCTAVO A",
+        "grado":"OCTAVO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224099",
+        "nombre":"PRASCA FLOREZ EMILIA",
+        "documento":"1025675392",
+        "grupo":"SEGUNDO A",
+        "grado":"SEGUNDO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224008",
+        "nombre":"CORREA RIOS SIMÓN",
+        "documento":"1020237588",
+        "grupo":"SEGUNDO A",
+        "grado":"SEGUNDO",
+        "hermanos":true
+    },
+    {
+        "codigo":"223069",
+        "nombre":"CANO SEGURA MARIANA",
+        "documento":"1192463986",
+        "grupo":"ONCE A",
+        "grado":"ONCE",
+        "hermanos":true
+    },
+    {
+        "codigo":"226149",
+        "nombre":"RIOS CORREA CRISTIAN CAMILO",
+        "documento":"1022170843",
+        "grupo":"PRE-JARDIN",
+        "grado":"PRE-JARDIN",
+        "hermanos":false
+    },
+    {
+        "codigo":"224087",
+        "nombre":"JARAMILLO LONDOÑO AARON",
+        "documento":"1023543480",
+        "grupo":"TERCERO B",
+        "grado":"TERCERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"226178",
+        "nombre":"LONDOÑO BERTHI ZAMAR",
+        "documento":"1029864885",
+        "grupo":"QUINTO B",
+        "grado":"QUINTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"225049",
+        "nombre":"ARIZA REINA DANA SOPHIE",
+        "documento":"1015195741",
+        "grupo":"SEPTIMO B",
+        "grado":"SEPTIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"222055",
+        "nombre":"DIAZ DURANGO DANNAH ISABEL",
+        "documento":"1025673366",
+        "grupo":"CUARTO B",
+        "grado":"CUARTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"217066",
+        "nombre":"TORRES VALENCIA ANA SOFIA",
+        "documento":"1023642803",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":true
+    },
+    {
+        "codigo":"219033",
+        "nombre":"MARIN JARAMILLO NICOLAS",
+        "documento":"1018253746",
+        "grupo":"NOVENO B",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"217080",
+        "nombre":"MACHADO TABORDA MATEO",
+        "documento":"1021931357",
+        "grupo":"NOVENO B",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221075",
+        "nombre":"SANCHEZ BUSTAMANTE MANUELA",
+        "documento":"1022004383",
+        "grupo":"ONCE A",
+        "grado":"ONCE",
+        "hermanos":true
+    },
+    {
+        "codigo":"221036",
+        "nombre":"ALVARADO BUELVAS KALEET JOSE",
+        "documento":"1033199369",
+        "grupo":"QUINTO A",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224054",
+        "nombre":"CIPAMOCHA PEREIRA VALERIA",
+        "documento":"1021933381",
+        "grupo":"OCTAVO B",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"220015",
+        "nombre":"ECHEVERRY BOLAÑO ANTONELLA",
+        "documento":"1020318629",
+        "grupo":"SEXTO B",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225074",
+        "nombre":"ALVAREZ MEJIA JUAN MARTIN",
+        "documento":"1020326446",
+        "grupo":"SEGUNDO B",
+        "grado":"SEGUNDO",
+        "hermanos":false
+    },
+    {
+        "codigo":"220073",
+        "nombre":"HIGUITA HURTADO MATIAS",
+        "documento":"1020227802",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"219002",
+        "nombre":"MARIACA MONTAGUT ALEJANDRA",
+        "documento":"1020232494",
+        "grupo":"SEXTO A",
+        "grado":"SEXTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"226171",
+        "nombre":"HURTADO HURTADO SARA",
+        "documento":"1025902964",
+        "grupo":"QUINTO A",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"217011",
+        "nombre":"BAENA RODAS JUAN JOSE",
+        "documento":"1015076684",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225010",
+        "nombre":"DURANGO VASCO MARA",
+        "documento":"1025906631",
+        "grupo":"SEGUNDO B",
+        "grado":"SEGUNDO",
+        "hermanos":false
+    },
+    {
+        "codigo":"217029",
+        "nombre":"SUESCUN YEPES JUAN MANUEL",
+        "documento":"1020228682",
+        "grupo":"OCTAVO A",
+        "grado":"OCTAVO",
+        "hermanos":true
+    },
+    {
+        "codigo":"223224",
+        "nombre":"MONROY GARCIA SHARON YISSEL",
+        "documento":"1038874283",
+        "grupo":"CUARTO A",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224122",
+        "nombre":"VARGAS ORTEGON JULIANA VALENTINA",
+        "documento":"1150435397",
+        "grupo":"DECIMO A",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222068",
+        "nombre":"GIL ARROYO DAVID",
+        "documento":"1011517901",
+        "grupo":"QUINTO B",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223002",
+        "nombre":"VALERO AYALA MELANY",
+        "documento":"1033205494",
+        "grupo":"PRIMERO A",
+        "grado":"PRIMERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224110",
+        "nombre":"GARAVITO CORONADO LAURA SOFIA",
+        "documento":"1019765902",
+        "grupo":"NOVENO B",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224042",
+        "nombre":"TAMAYO MIRANDA ISABELLA",
+        "documento":"1022160001",
+        "grupo":"QUINTO C",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224035",
+        "nombre":"DAVILA CALDERON DULCE MARIA",
+        "documento":"1031943789",
+        "grupo":"TERCERO B",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225023",
+        "nombre":"ZULETA DELGADO ALEX DANIEL",
+        "documento":"1021932032",
+        "grupo":"OCTAVO A",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225077",
+        "nombre":"GIRALDO GOMEZ JOEL",
+        "documento":"1033266392",
+        "grupo":"QUINTO B",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"220084",
+        "nombre":"CANO AGUIRRE TOMAS",
+        "documento":"1020122061",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"218026",
+        "nombre":"HENAO MIRANDA SAMUEL STIVEN",
+        "documento":"1031942380",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"217099",
+        "nombre":"CERTUCHE ALVAREZ JOSUE",
+        "documento":"1021934432",
+        "grupo":"SEPTIMO B",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221086",
+        "nombre":"CARDONA MOSQUERA ISAAC",
+        "documento":"1013464926",
+        "grupo":"SEXTO A",
+        "grado":"SEXTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"217030",
+        "nombre":"COSSIO BRAND MATIAS",
+        "documento":"1025660702",
+        "grupo":"DECIMO A",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"216003",
+        "nombre":"SALDARRIAGA ISAZA ANA SOFIA",
+        "documento":"1025894543",
+        "grupo":"ONCE B",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"224019",
+        "nombre":"BARRIOS LOZANO MARIA CELESTE",
+        "documento":"1020236351",
+        "grupo":"TERCERO A",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"220011",
+        "nombre":"SUAREZ RESTREPO LORENA",
+        "documento":"1025900123",
+        "grupo":"SEPTIMO B",
+        "grado":"SEPTIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"221076",
+        "nombre":"SANCHEZ BUSTAMANTE GENESIS",
+        "documento":"1011404208",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":true
+    },
+    {
+        "codigo":"226142",
+        "nombre":"VERGARA MARULANDA ELIA",
+        "documento":"1020308342",
+        "grupo":"DECIMO A",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"220029",
+        "nombre":"JOVEL GOMEZ PEDRO MANUEL",
+        "documento":"1021934224",
+        "grupo":"SEPTIMO B",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"219006",
+        "nombre":"VASQUEZ VELASQUEZ MARIA",
+        "documento":"1034998410",
+        "grupo":"OCTAVO B",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225027",
+        "nombre":"MARTINEZ USUGA DUNA HELENA",
+        "documento":"1035015636",
+        "grupo":"PRIMERO B",
+        "grado":"PRIMERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223037",
+        "nombre":"RODRIGUEZ POSADA VIOLETA",
+        "documento":"1021940064",
+        "grupo":"CUARTO B",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225092",
+        "nombre":"GUILLOT JIMENEZ DANIELA SOFIA",
+        "documento":"1084058224",
+        "grupo":"OCTAVO A",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226157",
+        "nombre":"OSSA PERDOMO VICTORIA",
+        "documento":"1232824885",
+        "grupo":"PRE-JARDIN",
+        "grado":"PRE-JARDIN",
+        "hermanos":true
+    },
+    {
+        "codigo":"224045",
+        "nombre":"HURTADO VILLAMARIN VIOLETTA",
+        "documento":"1023645318",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223112",
+        "nombre":"RINCON MENDOZA HULIETH GABRIELA",
+        "documento":"1129244633",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226177",
+        "nombre":"MORENO ZAPATA EMILIANO FRANCISCO",
+        "documento":"1025678806",
+        "grupo":"PRE-JARDIN",
+        "grado":"PRE-JARDIN",
+        "hermanos":false
+    },
+    {
+        "codigo":"216018",
+        "nombre":"TOBON GALLEGO SEBASTIAN",
+        "documento":"1020305224",
+        "grupo":"ONCE A",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"219011",
+        "nombre":"GUZMAN HERRERA JUANA",
+        "documento":"1022159439",
+        "grupo":"QUINTO C",
+        "grado":"QUINTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"226185",
+        "nombre":"BLANDON BARRAGAN JUAN DAVID",
+        "documento":"1235255951",
+        "grupo":"QUINTO C",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224135",
+        "nombre":"CORREA GOMEZ DAVID ALEJANDRO",
+        "documento":"1031943787",
+        "grupo":"TERCERO B",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226114",
+        "nombre":"BELANDO LONDOÑO JOSUE DAVID",
+        "documento":"1023595605",
+        "grupo":"PRIMERO A",
+        "grado":"PRIMERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222056",
+        "nombre":"BENITEZ VARELA MIGUEL ANGEL",
+        "documento":"1013359684",
+        "grupo":"TERCERO A",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223105",
+        "nombre":"BUSTOS SEPULVEDA SAMUEL",
+        "documento":"1015079145",
+        "grupo":"QUINTO B",
+        "grado":"QUINTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224084",
+        "nombre":"RUIZ VELASQUEZ ANTONIA",
+        "documento":"1031943618",
+        "grupo":"CUARTO A",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222016",
+        "nombre":"GIRALDO RAMIREZ SUSANA",
+        "documento":"1023536842",
+        "grupo":"CUARTO A",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"218051",
+        "nombre":"RIAÑO ALZATE FELIPE",
+        "documento":"1021934176",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224024",
+        "nombre":"MUÑOZ URREGO ISAAC",
+        "documento":"1035011470",
+        "grupo":"TERCERO A",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223041",
+        "nombre":"RODRIGUEZ HERRERA JOAQUIN",
+        "documento":"1034789732",
+        "grupo":"CUARTO B",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225081",
+        "nombre":"ECHAVARRIA MENA EMANUEL",
+        "documento":"1011414300",
+        "grupo":"CUARTO B",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224128",
+        "nombre":"MORENO HIGUITA ABIGAIL",
+        "documento":"1013368206",
+        "grupo":"SEGUNDO B",
+        "grado":"SEGUNDO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226181",
+        "nombre":"CARDENAS ROJAS VIOLETA",
+        "documento":"1023555460",
+        "grupo":"PRIMERO B",
+        "grado":"PRIMERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"218016",
+        "nombre":"RODRIGUEZ RIVERA ANA",
+        "documento":"1025896090",
+        "grupo":"NOVENO B",
+        "grado":"NOVENO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224073",
+        "nombre":"BEDOYA AREVALO ESTEFANY",
+        "documento":"1036954386",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225088",
+        "nombre":"VALERO AYALA JEREMY",
+        "documento":"1023565210",
+        "grupo":"JARDIN",
+        "grado":"JARDIN",
+        "hermanos":true
+    },
+    {
+        "codigo":"226164",
+        "nombre":"ZAMBRANO BLANCO LUIS FELIPE",
+        "documento":"1205964537",
+        "grupo":"QUINTO C",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"219034",
+        "nombre":"HERNANDEZ MONTAÑO ANDREA",
+        "documento":"1020316746",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"223109",
+        "nombre":"AYERS LEON DAVID TIMOTHY",
+        "documento":"1020127780",
+        "grupo":"PRIMERO B",
+        "grado":"PRIMERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223013",
+        "nombre":"ACEVEDO MUÑOZ VALERIA",
+        "documento":"1025905995",
+        "grupo":"TERCERO B",
+        "grado":"TERCERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"225002",
+        "nombre":"LOPEZ GOMEZ LUCAS DAVID",
+        "documento":"1033272114",
+        "grupo":"JARDIN",
+        "grado":"JARDIN",
+        "hermanos":true
+    },
+    {
+        "codigo":"217043",
+        "nombre":"MINA ANDRADE SARA LUCIA",
+        "documento":"1025896359",
+        "grupo":"NOVENO B",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"219030",
+        "nombre":"RIOS ALARCON VALENTINA",
+        "documento":"1022157352",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223113",
+        "nombre":"TENORIO MAYA LIAM",
+        "documento":"1084474489",
+        "grupo":"QUINTO B",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224112",
+        "nombre":"CARDENAS PIÑA EZEQUIEL",
+        "documento":"1023545929",
+        "grupo":"SEGUNDO A",
+        "grado":"SEGUNDO",
+        "hermanos":true
+    },
+    {
+        "codigo":"225006",
+        "nombre":"PATIÑO ECHAVARRIA GABRIELA",
+        "documento":"1011417494",
+        "grupo":"PRIMERO A",
+        "grado":"PRIMERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224018",
+        "nombre":"RESTREPO CORTES ISABELLA",
+        "documento":"1015079466",
+        "grupo":"TERCERO B",
+        "grado":"TERCERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"222031",
+        "nombre":"ZULETA MACHADO JERONIMO",
+        "documento":"1155715450",
+        "grupo":"QUINTO A",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224081",
+        "nombre":"GALINDEZ FLOREZ MARIA PAZ",
+        "documento":"1015079561",
+        "grupo":"TERCERO A",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221074",
+        "nombre":"SANCHEZ BUSTAMANTE SARAH JOANN",
+        "documento":"1011410559",
+        "grupo":"SEXTO B",
+        "grado":"SEXTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224034",
+        "nombre":"ZAMBRANO MEJIA MARIANGEL",
+        "documento":"1023655274",
+        "grupo":"TERCERO A",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225076",
+        "nombre":"ARTUNDUAGA BURGOS ISAAC",
+        "documento":"1020327607",
+        "grupo":"TRANSICION A",
+        "grado":"TRANSICIÓN",
+        "hermanos":true
+    },
+    {
+        "codigo":"218040",
+        "nombre":"CALLE CASTAÑO MARIANGEL",
+        "documento":"1025899136",
+        "grupo":"SEPTIMO B",
+        "grado":"SEPTIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"215055",
+        "nombre":"GAVIRIA MORENO JUAN JOSE",
+        "documento":"1017934602",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221029",
+        "nombre":"GARCIA ARIAS JHEREMY DAVID",
+        "documento":"1039311523",
+        "grupo":"SEXTO B",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222009",
+        "nombre":"CORREA BERRIO EMILIANO",
+        "documento":"1020236655",
+        "grupo":"TERCERO B",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223053",
+        "nombre":"TERÁN FIGUEROA SOFIA JIMENA",
+        "documento":"1196968248",
+        "grupo":"OCTAVO A",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225040",
+        "nombre":"PARADA BARCO MAXIMILIANO",
+        "documento":"1155718620",
+        "grupo":"TRANSICION A",
+        "grado":"TRANSICIÓN",
+        "hermanos":false
+    },
+    {
+        "codigo":"226130",
+        "nombre":"JARVIS ESTRADA ARYA ELOWIN",
+        "documento":"1017283173",
+        "grupo":"PRIMERO B",
+        "grado":"PRIMERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222062",
+        "nombre":"SORZA HERNANDEZ MARIA JULIANA",
+        "documento":"1069756765",
+        "grupo":"SEXTO A",
+        "grado":"SEXTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"223033",
+        "nombre":"GOMEZ SALDAÑA MATIAS",
+        "documento":"1011411862",
+        "grupo":"CUARTO B",
+        "grado":"CUARTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224136",
+        "nombre":"CANO GIRALDO NISSI MARIA BELEN",
+        "documento":"1013354699",
+        "grupo":"SEXTO A",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225016",
+        "nombre":"SAULS PEÑA JOSHUA",
+        "documento":"1219213288",
+        "grupo":"QUINTO A",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225060",
+        "nombre":"ROJAS MORALES ISABEL",
+        "documento":"1023546876",
+        "grupo":"SEGUNDO A",
+        "grado":"SEGUNDO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224107",
+        "nombre":"BETANCUR ZAPATA EMANUEL",
+        "documento":"1025665738",
+        "grupo":"OCTAVO A",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226167",
+        "nombre":"VANEGAS OLAYA CRISTOPHER",
+        "documento":"1025896997",
+        "grupo":"NOVENO B",
+        "grado":"NOVENO",
+        "hermanos":true
+    },
+    {
+        "codigo":"214094",
+        "nombre":"DE LUQUEZ BERNAL MABEL SARAI",
+        "documento":"1202213225",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222060",
+        "nombre":"SORZA HERNANDEZ JUAN MARTIN",
+        "documento":"1069762747",
+        "grupo":"QUINTO B",
+        "grado":"QUINTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"223086",
+        "nombre":"ZAPATA GIL LIAM EMMANUEL",
+        "documento":"1032030571",
+        "grupo":"TERCERO B",
+        "grado":"TERCERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"220042",
+        "nombre":"ORTIZ MONTOYA MATIAS",
+        "documento":"1020317344",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222017",
+        "nombre":"ALZATE MONSALVE DAVID",
+        "documento":"1036521142",
+        "grupo":"CUARTO A",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"217017",
+        "nombre":"CORREA LONDOÑO SAMUEL DAVID",
+        "documento":"1020228922",
+        "grupo":"OCTAVO B",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"219041",
+        "nombre":"PÉREZ HERNÁNDEZ SALOMÉ",
+        "documento":"1020312315",
+        "grupo":"OCTAVO A",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223072",
+        "nombre":"TOBON GAVIRIA CARLA",
+        "documento":"1025656859",
+        "grupo":"ONCE B",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"223062",
+        "nombre":"RAMIREZ MORALES SALOME",
+        "documento":"1023641253",
+        "grupo":"NOVENO B",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226110",
+        "nombre":"CUADROS AGUDELO VALENTINO",
+        "documento":"1021946955",
+        "grupo":"PRIMERO B",
+        "grado":"PRIMERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223098",
+        "nombre":"JIMENEZ PARRA JACOBO",
+        "documento":"1011519725",
+        "grupo":"PRIMERO B",
+        "grado":"PRIMERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225084",
+        "nombre":"DE LOS SANTOS NEIRA EVA MARIANA",
+        "documento":"1025910071",
+        "grupo":"PRIMERO A",
+        "grado":"PRIMERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"225001",
+        "nombre":"CARDONA MONTOYA HELENA",
+        "documento":"1018276681",
+        "grupo":"JARDIN",
+        "grado":"JARDIN",
+        "hermanos":false
+    },
+    {
+        "codigo":"221050",
+        "nombre":"SANCHEZ PEÑARANDA HERNAN ENRIQUE",
+        "documento":"1094062535",
+        "grupo":"QUINTO B",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225099",
+        "nombre":"OSPINA PEREZ ISABELLA",
+        "documento":"1127538441",
+        "grupo":"SEPTIMO B",
+        "grado":"SEPTIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"220069",
+        "nombre":"PEÑA ISAZA MIGUEL ANGEL",
+        "documento":"1021937001",
+        "grupo":"SEXTO A",
+        "grado":"SEXTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"225047",
+        "nombre":"FONSECA RIVERA EMILY SOFIA",
+        "documento":"1141352259",
+        "grupo":"QUINTO A",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"219003",
+        "nombre":"PUERTA VANEGAS MARIA ANTONIA",
+        "documento":"1020231131",
+        "grupo":"SEXTO A",
+        "grado":"SEXTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"223049",
+        "nombre":"MARIN CORREA MATIAS",
+        "documento":"1017938288",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224132",
+        "nombre":"ZORRILLA JARAMILLO SANTIAGO",
+        "documento":"1013383991",
+        "grupo":"CUARTO A",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226176",
+        "nombre":"RODRIGUEZ PINTO MIKE ANDRES",
+        "documento":"1143251015",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226175",
+        "nombre":"TANGARIFE AGUDELO LUCIANA",
+        "documento":"1020235910",
+        "grupo":"TERCERO A",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224031",
+        "nombre":"YEPES MURILLO MARIANGEL",
+        "documento":"1023654563",
+        "grupo":"TERCERO B",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"218023",
+        "nombre":"MONCADA PATIÑO AILYN SOFIA",
+        "documento":"1011401352",
+        "grupo":"ONCE B",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"222041",
+        "nombre":"PACHECO GIRALDO SANTIAGO",
+        "documento":"1025896458",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225079",
+        "nombre":"VENEGAS OROZCO LYAM DARIO",
+        "documento":"1222255030",
+        "grupo":"JARDIN",
+        "grado":"JARDIN",
+        "hermanos":true
+    },
+    {
+        "codigo":"220001",
+        "nombre":"PEREZ FERRARO JULIETA",
+        "documento":"1025900903",
+        "grupo":"SEXTO B",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223006",
+        "nombre":"MAYORGA VALIENTE EMILIANO",
+        "documento":"1020238201",
+        "grupo":"SEGUNDO A",
+        "grado":"SEGUNDO",
+        "hermanos":true
+    },
+    {
+        "codigo":"217108",
+        "nombre":"RUIZ URQUIJO MARTIN",
+        "documento":"1025663772",
+        "grupo":"NOVENO B",
+        "grado":"NOVENO",
+        "hermanos":true
+    },
+    {
+        "codigo":"217126",
+        "nombre":"CORTES CORREA REBECA",
+        "documento":"1025898446",
+        "grupo":"OCTAVO A",
+        "grado":"OCTAVO",
+        "hermanos":true
+    },
+    {
+        "codigo":"217067",
+        "nombre":"ORTEGA ZABALA HERI THOMAS",
+        "documento":"1093600920",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"225015",
+        "nombre":"ARIZA REINA ALESSIA PAULINE",
+        "documento":"1015195742",
+        "grupo":"CUARTO A",
+        "grado":"CUARTO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224010",
+        "nombre":"PUERTA LEON ISAAC",
+        "documento":"1020326265",
+        "grupo":"SEGUNDO A",
+        "grado":"SEGUNDO",
+        "hermanos":false
+    },
+    {
+        "codigo":"219021",
+        "nombre":"TABARES MARTINEZ MARTINA",
+        "documento":"1023595113",
+        "grupo":"QUINTO A",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226140",
+        "nombre":"QUINTANA GOMEZ MATIAS",
+        "documento":"1023560064",
+        "grupo":"TRANSICION A",
+        "grado":"TRANSICIÓN",
+        "hermanos":false
+    },
+    {
+        "codigo":"224056",
+        "nombre":"ARBOLEDA OTALVARO JUAN JOSE",
+        "documento":"1023531513",
+        "grupo":"OCTAVO B",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223054",
+        "nombre":"PALACIOS MENA JAMAL JOEL",
+        "documento":"1013464793",
+        "grupo":"OCTAVO A",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224104",
+        "nombre":"MOLINA JARAMILLO SALOME",
+        "documento":"1020226946",
+        "grupo":"DECIMO B",
+        "grado":"DÉCIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225052",
+        "nombre":"MARIN VERGARA NICOLAS",
+        "documento":"1018271477",
+        "grupo":"PRIMERO A",
+        "grado":"PRIMERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223111",
+        "nombre":"OSPINA CIFUENTES ANTONELLA",
+        "documento":"1011518603",
+        "grupo":"CUARTO B",
+        "grado":"CUARTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"224130",
+        "nombre":"SEPULVEDA SANTIAGO MATIAS",
+        "documento":"1023527907",
+        "grupo":"ONCE B",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"224059",
+        "nombre":"TAMAYO SALDARRIAGA SALOME",
+        "documento":"1021929918",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":"222047",
+        "nombre":"GAVIRIA CESPEDES EVELYN",
+        "documento":"1013366022",
+        "grupo":"SEGUNDO B",
+        "grado":"SEGUNDO",
+        "hermanos":true
+    },
+    {
+        "codigo":"225089",
+        "nombre":"CARDENAS PIÑA ANNA MARIA",
+        "documento":"1023556728",
+        "grupo":"PRIMERO A",
+        "grado":"PRIMERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"221092",
+        "nombre":"ORREGO JIMENEZ ANALUCIA",
+        "documento":"1011519079",
+        "grupo":"TERCERO A",
+        "grado":"TERCERO",
+        "hermanos":true
+    },
+    {
+        "codigo":"224098",
+        "nombre":"HOYOS BARRERA MAXIMILIANO",
+        "documento":"1035004228",
+        "grupo":"SEXTO A",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223010",
+        "nombre":"MONTOYA RESTREPO MARIA CAMILA",
+        "documento":"1020235950",
+        "grupo":"TERCERO B",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"225053",
+        "nombre":"DIAZ GAMBOA MOISES UZZIEL",
+        "documento":"1023550049",
+        "grupo":"SEGUNDO B",
+        "grado":"SEGUNDO",
+        "hermanos":true
+    },
+    {
+        "codigo":"225018",
+        "nombre":"RAMIREZ RAMIREZ LUCIANA",
+        "documento":"1036457627",
+        "grupo":"SEXTO B",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"221023",
+        "nombre":"VASQUEZ RODAS JOSUE",
+        "documento":"1034924450",
+        "grupo":"SEXTO B",
+        "grado":"SEXTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"223020",
+        "nombre":"SANCHEZ LOPEZ SAMUEL",
+        "documento":"1018268373",
+        "grupo":"TERCERO A",
+        "grado":"TERCERO",
+        "hermanos":false
+    },
+    {
+        "codigo":"226173",
+        "nombre":"MENDEZ OSPINA SALOME",
+        "documento":"1123633095",
+        "grupo":"OCTAVO B",
+        "grado":"OCTAVO",
+        "hermanos":false
+    },
+    {
+        "codigo":"215066",
+        "nombre":"TAMAYO RAMIREZ MANUELA",
+        "documento":"1025658262",
+        "grupo":"ONCE A",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"225017",
+        "nombre":"CASTAÑO RAMIREZ MATIAS",
+        "documento":"1036458174",
+        "grupo":"QUINTO C",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"220094",
+        "nombre":"MARTINEZ ALVAREZ THIAGO",
+        "documento":"1025899613",
+        "grupo":"SEPTIMO B",
+        "grado":"SEPTIMO",
+        "hermanos":true
+    },
+    {
+        "codigo":"223043",
+        "nombre":"GIRALDO LOZANO EMMA",
+        "documento":"1011517846",
+        "grupo":"QUINTO B",
+        "grado":"QUINTO",
+        "hermanos":false
+    },
+    {
+        "codigo":"218033",
+        "nombre":"CANO MUÑOZ EMILIA",
+        "documento":"1192467245",
+        "grupo":"NOVENO B",
+        "grado":"NOVENO",
+        "hermanos":true
+    },
+    {
+        "codigo":"217073",
+        "nombre":"LEAL OSPINA SUSANA",
+        "documento":"1031941930",
+        "grupo":"ONCE B",
+        "grado":"ONCE",
+        "hermanos":false
+    },
+    {
+        "codigo":"224049",
+        "nombre":"GIRALDO CANO EMILIANO",
+        "documento":"1025900102",
+        "grupo":"SEPTIMO B",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"219012",
+        "nombre":"MUÑOZ ORTEGA SANTIAGO DE JESUS",
+        "documento":"1127606063",
+        "grupo":"SEPTIMO A",
+        "grado":"SEPTIMO",
+        "hermanos":false
+    },
+    {
+        "codigo":"218001",
+        "nombre":"SALAZAR BERMUDEZ PAULINA",
+        "documento":"1021930683",
+        "grupo":"NOVENO A",
+        "grado":"NOVENO",
+        "hermanos":false
+    },
+    {
+        "codigo":null,
+        "nombre":" ",
+        "documento":null,
+        "grupo":null,
+        "grado":null,
+        "hermanos":false
+    }
+]
