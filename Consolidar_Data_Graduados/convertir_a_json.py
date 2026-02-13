@@ -24,8 +24,9 @@ try:
     # ===============================
     # 1. CARGAR EXCEL
     # ===============================
+    excel_path = './data_certificados.xlsx'
     df = pd.read_excel(
-        './data_certificados.xlsx',
+        excel_path,
         sheet_name=0,
         dtype={'Num Documento': str}
     )
@@ -34,9 +35,9 @@ try:
     print("Columnas detectadas:", df.columns.tolist())
 
     # ===============================
-    # 2. RENOMBRAR COLUMNAS
+    # 2. RENOMBRAR COLUMNAS (MAPA)
     # ===============================
-    df = df.rename(columns={
+    rename_map = {
         'Código de Matrícula': 'codigoMatricula',
         'Folio': 'folio',
         'Nombre': 'nombre',
@@ -58,7 +59,7 @@ try:
         'EDUCACIÓN CRISTIANA': 'educacionCristiana',
         'EDUCACIÓN ÉTICA Y VALORES': 'educacionEticaYValores',
         'EDUCACIÓN FÍSICA, RECREACIÓN Y DEPORTES': 'educacionFisicaYRecreacionYDeportes',
-        'Filosofia': 'Filosofia',
+        'filosofia': 'filosofia',
         'HUMANIDADES LENGUA CASTELLANA E IDIOMA EXTRANJERO': 'humanidadesLenguaCastellanaEIdiomaExtranjero',
         'IDIOMA EXTRANJERO (INGLES)': 'idiomaExtranjeroIngles',
         'LENGUA CASTELLANA': 'lenguaCastellana',
@@ -82,10 +83,72 @@ try:
         'SECRETARIA': 'secretaria',
         'CC_SECRETARIA': 'ccSecretaria',
         'Ciudad_expedición_secretaria': 'ciudadExpedicionSecretaria'
-    })
+    }
+
+    # ==========================================================
+    # 2.5. AGREGAR REGISTRO JSON AL EXCEL (como última fila)
+    # ==========================================================
+    # ✅ OJO: aquí cargas "este json" (ajusta el nombre/ruta si es otro)
+    # ==========================================================
+    # 2.5. AGREGAR REGISTROS DEL JSON CONSOLIDADO AL EXCEL
+    # ==========================================================
+    json_path = './dataCoaweb/consolidado.json'
+    if os.path.exists(json_path):
+        with open(json_path, 'r', encoding='utf-8') as f:
+            nuevo_registro = json.load(f)  # puede ser LISTA o DICCIONARIO
+
+        # Invertir el rename_map: (nombre_final -> nombre_original_excel)
+        inverse_map = {v: k for k, v in rename_map.items()}
+
+        # ✅ Asegurar que sea lista
+        if isinstance(nuevo_registro, dict):
+            registros = [nuevo_registro]
+        elif isinstance(nuevo_registro, list):
+            registros = nuevo_registro
+        else:
+            raise ValueError("El JSON no es dict ni list. Formato no soportado.")
+
+        filas_excel = []
+        for reg in registros:
+            # Convertir llaves del JSON (formato final) a columnas originales del Excel
+            reg_excel = {}
+            for k, v in reg.items():
+                col_original = inverse_map.get(k, k)
+                reg_excel[col_original] = v
+
+            filas_excel.append(reg_excel)
+
+        df_nuevos = pd.DataFrame(filas_excel)
+
+        # Asegurar columnas: agregar faltantes en ambos sentidos
+        for col in df.columns:
+            if col not in df_nuevos.columns:
+                df_nuevos[col] = None
+
+        for col in df_nuevos.columns:
+            if col not in df.columns:
+                df[col] = None
+
+        # Reordenar df_nuevos con el mismo orden de df
+        df_nuevos = df_nuevos[df.columns]
+
+        # Concatenar todos los nuevos al final
+        df = pd.concat([df, df_nuevos], ignore_index=True)
+
+        # Guardar Excel
+        df.to_excel(excel_path, index=False)
+        print(f"✅ {len(df_nuevos)} registros del consolidado agregados al final de {excel_path}")
+    else:
+        print(f"⚠️ No se encontró {json_path}. No se agregó ninguna fila al Excel.")
+
 
     # ===============================
-    # 3. LIMPIAR TEXTO
+    # 3. RENOMBRAR COLUMNAS (aplica a DF ya con la fila nueva)
+    # ===============================
+    df = df.rename(columns=rename_map)
+
+    # ===============================
+    # 4. LIMPIAR TEXTO
     # ===============================
     columnas_a_convertir = [
         'codigoMatricula', 'nombre', 'tipoDocumento', 'numDocumento', 'grupo',
@@ -101,7 +164,7 @@ try:
             df[col] = df[col].astype(str).str.strip()
 
     # ===============================
-    # 4. CONVERTIR NÚMEROS
+    # 5. CONVERTIR NÚMEROS
     # ===============================
     columnas_numericas = [
         'promedio',
@@ -128,7 +191,7 @@ try:
             df[col] = df[col].apply(convert_to_number)
 
     # ===============================
-    # 5. GENERAR JSON
+    # 6. GENERAR JSON
     # ===============================
     data = json.loads(df.to_json(orient='records', force_ascii=False))
 
@@ -138,7 +201,7 @@ try:
     print(f"✅ JSON generado con {len(data)} registros.")
 
     # ===============================
-    # 6. CONEXIÓN A MONGODB (SEGURA)
+    # 7. CONEXIÓN A MONGODB (SEGURA)
     # ===============================
     MONGO_URI = os.getenv("MONGO_URI")
     MONGO_DB = os.getenv("MONGO_DB")
@@ -154,13 +217,13 @@ try:
     print("✅ Conectado a MongoDB")
 
     # ===============================
-    # 7. LIMPIAR COLECCIÓN COMPLETA
+    # 8. LIMPIAR COLECCIÓN COMPLETA
     # ===============================
     collection.delete_many({})
     print("🧹 Colección limpiada completamente.")
 
     # ===============================
-    # 8. INSERTAR TODO DESDE CERO
+    # 9. INSERTAR TODO DESDE CERO
     # ===============================
     if data:
         collection.insert_many(data)
