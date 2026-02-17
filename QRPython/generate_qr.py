@@ -30,7 +30,7 @@ try:
         direccion = ubicacion['direccion']
         
         # Comprobar si la dirección es "C Sicologia"
-        if direccion == "B Oficina líder Sección":
+        if direccion == "Doc. ISABEL CRISTINA BARRENECHE CALLE":
             unidades_filtradas.append(unit)
 
 
@@ -59,7 +59,7 @@ try:
         estado_producto = unit['estado']
         
         # Filtrar solo las unidades con la dirección "C psicología"
-        if direccion == "B Oficina líder Sección":
+        if direccion == "Doc. ISABEL CRISTINA BARRENECHE CALLE":
             count_unidades += 1  # Incrementar el contador
             
             # Generar URL específica para cada unidad usando el id_unidad
