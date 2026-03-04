@@ -1,0 +1,9 @@
+Pasos para la carga de estudiantes para certificados de estudio 
+
+Primero descargar de la base de datos de q10 el archivo de estudiantes con:
+nombre, apellido, tipo de documento, número de documento, grado. 
+
+Posteriormente ordenarlos de forma correcta en power query generando dinámicamente la columna sección. 
+
+Al obtener el archivo de excel data certificados estudia procesarlos en el script de carga de certificados 2025
+dentro de process python cpcs
