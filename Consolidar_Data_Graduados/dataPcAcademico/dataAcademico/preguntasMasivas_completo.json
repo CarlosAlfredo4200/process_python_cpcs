@@ -1,0 +1,1002 @@
+[
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_NATURALES",
+    "periodo": 1,
+    "numero": 1,
+    "texto": "¿El docente activa la clase explicando un fenómeno físico, químico y/o biológico que los estudiantes observan y del que surgen preguntas?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_NATURALES",
+    "periodo": 1,
+    "numero": 2,
+    "texto": "¿Se realizan experimentos breves y los estudiantes registran lo que ven (dibujos, palabras clave, gráficos o bitácoras)?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_NATURALES",
+    "periodo": 1,
+    "numero": 3,
+    "texto": "¿Los estudiantes explican un cambio o patrón mostrando análisis básico del fenómeno?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_NATURALES",
+    "periodo": 1,
+    "numero": 4,
+    "texto": "¿El docente realiza una conexión bíblica clara relacionando el orden o diseño de la creación con el tema estudiado?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_NATURALES",
+    "periodo": 1,
+    "numero": 5,
+    "texto": "¿El docente aplica una mini evaluación y da retroalimentación inmediata?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_NATURALES",
+    "periodo": 2,
+    "numero": 1,
+    "texto": "¿El docente realiza análisis de fenómenos a través de experimentos guiados con pasos simples y propósito claro?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_NATURALES",
+    "periodo": 2,
+    "numero": 2,
+    "texto": "¿Los estudiantes analizan resultados comparando datos, identificando patrones o dando conclusiones breves?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_NATURALES",
+    "periodo": 2,
+    "numero": 3,
+    "texto": "¿Hay integración bíblica clara relacionando orden, diseño o propósito divino con el fenómeno estudiado?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_NATURALES",
+    "periodo": 2,
+    "numero": 4,
+    "texto": "¿Los estudiantes explican el porqué del fenómeno de forma oral o escrita con precisión científica?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_NATURALES",
+    "periodo": 2,
+    "numero": 5,
+    "texto": "¿El docente retroalimenta la explicación en el momento corrigiendo y aclarando la relación ciencia y Biblia?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_NATURALES",
+    "periodo": 3,
+    "numero": 1,
+    "texto": "¿El docente inicia con una actividad de indagación(observación guiada, pregunta detonante o mini-experimento) conectada con la verdad bíblica?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_NATURALES",
+    "periodo": 3,
+    "numero": 2,
+    "texto": "¿Los estudiantes formulan preguntas usando la estrategia del semáforo de indagación?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_NATURALES",
+    "periodo": 3,
+    "numero": 3,
+    "texto": "¿El docente orienta una actividad central con registro en bitácora?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_NATURALES",
+    "periodo": 3,
+    "numero": 4,
+    "texto": "¿Se evidencia integración cristocéntrica durante la explicación?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_NATURALES",
+    "periodo": 3,
+    "numero": 5,
+    "texto": "¿El docente cierra con actividad de verificación de comprensión conectando ciencia y fe?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_NATURALES",
+    "periodo": 4,
+    "numero": 1,
+    "texto": "¿El docente guía el análisis del fenómeno usando organizadores como causa efecto o comparación?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_NATURALES",
+    "periodo": 4,
+    "numero": 2,
+    "texto": "¿Los estudiantes interpretan datos, infieren o modelan durante la actividad mostrando avance en procesos científicos?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_NATURALES",
+    "periodo": 4,
+    "numero": 3,
+    "texto": "¿El docente integra cosmovisión cristocéntrica conectando orden, diseño y propósito divino con el fenómeno estudiando?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_NATURALES",
+    "periodo": 4,
+    "numero": 4,
+    "texto": "¿Los estudiantes comparan resultados y justifican respuestas con evidencia?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_NATURALES",
+    "periodo": 4,
+    "numero": 5,
+    "texto": "¿El cierre conecta al docente y estudiantes con análisis científico y propósito bíblico demostrando comprensión profunda?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_SOCIALES",
+    "periodo": 1,
+    "numero": 1,
+    "texto": "¿El docente guía al estudiante al registro por escrito y/o verbal del proceso académico de la asignatura de manera completa y ordenada?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_SOCIALES",
+    "periodo": 1,
+    "numero": 2,
+    "texto": "¿El docente guía el análisis de conceptos sociales básicos (sociedad, cultura, autoridad, normas) relacionándolos explícitamente con principios bíblicos como orden, responsabilidad y convivencia?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_SOCIALES",
+    "periodo": 1,
+    "numero": 3,
+    "texto": "¿Se trabaja un caso histórico o actual y se orienta la discusión para que los estudiantes emitan juicios sociales y éticos a partir de principios bíblicos?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_SOCIALES",
+    "periodo": 1,
+    "numero": 4,
+    "texto": "¿El docente aplica una rutina de pensamiento (veo–pienso–me pregunto) para analizar la situación social integrando observación crítica y cosmovisión bíblica?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_SOCIALES",
+    "periodo": 1,
+    "numero": 5,
+    "texto": "¿Los estudiantes expresan conexiones claras entre la realidad social analizada y la enseñanza bíblica, de forma oral o escrita?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_SOCIALES",
+    "periodo": 1,
+    "numero": 6,
+    "texto": "¿Se evidencia una reflexión escrita corta donde el estudiante formula una postura ética fundamentada en la Biblia frente a la situación social estudiada?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_SOCIALES",
+    "periodo": 2,
+    "numero": 1,
+    "texto": "¿El docente orienta la comparación de los temas de las ciencias sociales, sean geográficos, históricos o culturales usando principios bíblicos (justicia, dignidad humana, verdad, responsabilidad moral) como criterios de análisis?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_SOCIALES",
+    "periodo": 2,
+    "numero": 2,
+    "texto": "¿Los estudiantes argumentan sus posturas en debates estructurados utilizando evidencia histórica o social y fundamentos bíblicos de manera articulada?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_SOCIALES",
+    "periodo": 2,
+    "numero": 3,
+    "texto": "¿Se evidencian el uso de cuadros comparativos o mapas conceptuales que incluyan criterios bíblicos y sociales claramente diferenciados y relacionados?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_SOCIALES",
+    "periodo": 2,
+    "numero": 4,
+    "texto": "¿Los estudiantes producen textos argumentativos cortos usando la estrategia del semáforo integrando hechos, datos o fuentes con sustento bíblico para formular juicios críticos?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_SOCIALES",
+    "periodo": 2,
+    "numero": 5,
+    "texto": "¿El docente retroalimenta la argumentación (oral o escrita) fortaleciendo la coherencia entre análisis social y cosmovisión bíblica?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_SOCIALES",
+    "periodo": 3,
+    "numero": 1,
+    "texto": "¿El docente orienta el análisis de una problemática social actual (justicia, gobierno, derechos o cultura) desde principios bíblicos como verdad, dignidad humana y responsabilidad social?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_SOCIALES",
+    "periodo": 3,
+    "numero": 2,
+    "texto": "¿Los estudiantes sostienen posturas en debates o foros utilizando argumentos sociales y fundamentos bíblicos de manera coherente?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_SOCIALES",
+    "periodo": 3,
+    "numero": 3,
+    "texto": "¿Se analizan fuentes diversas (noticias, documentos, textos bíblicos) y se establecen relaciones explícitas entre la información social y la cosmovisión bíblica?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_SOCIALES",
+    "periodo": 3,
+    "numero": 4,
+    "texto": "¿Los estudiantes formulan juicios críticos sobre la realidad contemporánea integrando evidencia social y sustento bíblico, de forma oral o escrita?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_SOCIALES",
+    "periodo": 3,
+    "numero": 5,
+    "texto": "¿El docente retroalimenta las posturas y argumentos fortaleciendo la coherencia entre análisis social, evidencia y principios bíblicos?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_SOCIALES",
+    "periodo": 4,
+    "numero": 1,
+    "texto": "¿El docente orienta los proyectos integradores para que las tematicas de las ciencias sociales se analicen explícitamente desde principios bíblicos (dignidad humana, justicia, responsabilidad social y mayordomía)?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_SOCIALES",
+    "periodo": 4,
+    "numero": 2,
+    "texto": "¿Los estudiantes sustentan sus exposiciones argumentadas utilizando evidencia social y principios del Reino de Dios como verdad y servicio?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_SOCIALES",
+    "periodo": 4,
+    "numero": 3,
+    "texto": "¿Se evidencian textos pertinentes (ensayo, propuestas o informe) que integren análisis crítico con fundamentos bíblicos en la formulación de respuestas a las tematicas de las ciencias sociales estudiadas?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_SOCIALES",
+    "periodo": 4,
+    "numero": 4,
+    "texto": "¿En los debates finales o simulaciones sociales los estudiantes defienden posturas y propuestas que reflejan valores del Reino de Dios (equidad, justicia, servicio y verdad)?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "CIENCIAS_SOCIALES",
+    "periodo": 4,
+    "numero": 5,
+    "texto": "¿Los estudiantes formulan propuestas de transformación social que evidencian compromiso ético y mayordomía responsable, fundamentadas en principios bíblicos?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "MATEMATICAS",
+    "periodo": 1,
+    "numero": 1,
+    "texto": "¿El docente plantea problemas contextualizados acordes al grado?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "MATEMATICAS",
+    "periodo": 1,
+    "numero": 2,
+    "texto": "¿Los estudiantes explican de forma oral o escrita cómo resolvieron el problema?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "MATEMATICAS",
+    "periodo": 1,
+    "numero": 3,
+    "texto": "¿Se evidencia el uso correcto del vocabulario matemático?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "MATEMATICAS",
+    "periodo": 1,
+    "numero": 4,
+    "texto": "¿El docente conecta las matemáticas con el orden y diseño de la creación?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "MATEMATICAS",
+    "periodo": 1,
+    "numero": 5,
+    "texto": "¿Al menos el 50% de los estudiantes resuelve correctamente las actividades propuestas?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "MATEMATICAS",
+    "periodo": 1,
+    "numero": 6,
+    "texto": "¿Se evidencia avance en las bitácoras o libros (al menos 25% desarrollado) y su uso sistemático en los centros de trabajo?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "MATEMATICAS",
+    "periodo": 2,
+    "numero": 1,
+    "texto": "¿Los estudiantes aplican procedimientos matemáticos en situaciones problemáticas usando material concreto trabajando por centros?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "MATEMATICAS",
+    "periodo": 2,
+    "numero": 2,
+    "texto": "¿El docente guía y verifica a los estudiantes en el registro correcto del procedimiento en bitácoras, texto guía (50% ) u hojas de trabajo?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "MATEMATICAS",
+    "periodo": 2,
+    "numero": 3,
+    "texto": "¿El docente acompaña activamente el desarrollo del proceso en cada centro, retroalimentado la actividad realizada?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "MATEMATICAS",
+    "periodo": 2,
+    "numero": 4,
+    "texto": "¿El docente hace una adecuada integración bíblica con el procedimiento matemático, conectando el diseño e intencionalidad presentes en la creación de Dios? 5. ¿El docente implementa durante la clase la rutina del uso del pensamiento matemático (observo-represento-explico) con retralimentación constante?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "MATEMATICAS",
+    "periodo": 3,
+    "numero": 1,
+    "texto": "¿El docente explica los procedimientos utilizados de forma práctica usando manipulativos y la didáctica, justificando sus decisiones matemáticas?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "MATEMATICAS",
+    "periodo": 3,
+    "numero": 2,
+    "texto": "¿El docente lleva a los estudiantes a comparar estrategias o resultados entre compañeros en los centros de trabajo?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "MATEMATICAS",
+    "periodo": 3,
+    "numero": 3,
+    "texto": "¿El docente promueve el uso del vocabulario matemático preciso en la argumentación?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "MATEMATICAS",
+    "periodo": 3,
+    "numero": 4,
+    "texto": "¿Se evidencia avance en bitácoras o libros (al menos 75%) con procesos completos?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "MATEMATICAS",
+    "periodo": 3,
+    "numero": 5,
+    "texto": "¿El docente integra la verdad bíblica dejando claro que el razonamiento lógico refleja la sabiduría con que Dios ordena la creación?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "MATEMATICAS",
+    "periodo": 4,
+    "numero": 1,
+    "texto": "¿Los estudiantes resuelven retos matemáticos y proyectos integradores, aplicando procedimientos aprendidos en contextos nuevos?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "MATEMATICAS",
+    "periodo": 4,
+    "numero": 2,
+    "texto": "¿ El docente modela las situaciones usando esquemas, tablas o representaciones matemáticas?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "MATEMATICAS",
+    "periodo": 4,
+    "numero": 3,
+    "texto": "¿El estudiante registra y explica el proceso completo en bitácoras o portafolios y texto guía (90%)?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "MATEMATICAS",
+    "periodo": 4,
+    "numero": 4,
+    "texto": "¿El docente guía la aplicación del aprendizaje a situaciones de la vida cotidiana?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "MATEMATICAS",
+    "periodo": 4,
+    "numero": 5,
+    "texto": "¿El docente conecta la aplicación de las matemáticas con el propósito y la responsabilidad del ser humano como mayordomo de la creación de Dios?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "LECTURA_CRITICA",
+    "periodo": 1,
+    "numero": 1,
+    "texto": "¿Se implementa la rutina de lectura (lectura diaria, guiada y compartida) de manera sistemática durante la clase y los centros de trabajo?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "LECTURA_CRITICA",
+    "periodo": 1,
+    "numero": 2,
+    "texto": "¿El docente aplica estrategias de comprensión (idea principal, organizadores gráficos, subrayado) para apoyar la comprensión del texto?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "LECTURA_CRITICA",
+    "periodo": 1,
+    "numero": 3,
+    "texto": "¿Se formulan preguntas por niveles (literal, inferencial y crítico) que guían la comprensión y el análisis del texto?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "LECTURA_CRITICA",
+    "periodo": 1,
+    "numero": 4,
+    "texto": "¿Los estudiantes participan activamente en debates, conversatorios o exposiciones, expresando ideas con claridad y respeto?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "LECTURA_CRITICA",
+    "periodo": 1,
+    "numero": 5,
+    "texto": "¿El docente integra la cosmovisión cristiana, relacionando el contenido leído con valores bíblicos y promoviendo una reflexión que conecte el texto con la vida diaria?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "LECTURA_CRITICA",
+    "periodo": 2,
+    "numero": 1,
+    "texto": "¿Se evidencia la lectura guiada y compartida del Plan Lector, con participación activa de los estudiantes?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "LECTURA_CRITICA",
+    "periodo": 2,
+    "numero": 2,
+    "texto": "¿El docente formula preguntas por niveles (literal, inferencial y crítico) que orientan la comprensión del texto?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "LECTURA_CRITICA",
+    "periodo": 2,
+    "numero": 3,
+    "texto": "¿Los estudiantes utilizan organizadores gráficos sencillos para jerarquizar ideas y construir significado del texto?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "LECTURA_CRITICA",
+    "periodo": 2,
+    "numero": 4,
+    "texto": "¿Se observa trabajo colaborativo (pares o centros) y participación oral en actividades de comunicación (lecturas, conversatorios, exposiciones)?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "LECTURA_CRITICA",
+    "periodo": 2,
+    "numero": 5,
+    "texto": "¿La actividad integra la verdad bíblica, promoviendo una reflexión espiritual que conecta el texto trabajado con valores cristianos y su aplicación a la vida diaria?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "LECTURA_CRITICA",
+    "periodo": 3,
+    "numero": 1,
+    "texto": "¿Los estudiantes establecen relaciones claras entre las ideas del texto, identificando coherencia y sentido global?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "LECTURA_CRITICA",
+    "periodo": 3,
+    "numero": 2,
+    "texto": "¿El maestro guía al estudiante a identificar la intención comunicativa del autor, reconociendo el propósito del mensaje?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "LECTURA_CRITICA",
+    "periodo": 3,
+    "numero": 3,
+    "texto": "¿Los estudiantes formulan opiniones sustentadas, de forma oral o escrita, a partir del texto trabajado?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "LECTURA_CRITICA",
+    "periodo": 3,
+    "numero": 4,
+    "texto": "¿Se evidencian actividades de análisis crítico en la clase y centros (debates, comparación de textos, uso de organizadores complejos)?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "LECTURA_CRITICA",
+    "periodo": 3,
+    "numero": 5,
+    "texto": "¿El docente integra la cosmovisión cristiana, promoviendo una reflexión de valores y la aplicación del texto a la vida diaria?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "LECTURA_CRITICA",
+    "periodo": 4,
+    "numero": 1,
+    "texto": "¿El docente implementa el plan lector y promueve la lectura autónoma de los estudiantes?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "LECTURA_CRITICA",
+    "periodo": 4,
+    "numero": 2,
+    "texto": "¿Los estudiantes aplican estrategias de comprensión avanzada (subrayado, uso de símbolos o convenciones, organizadores gráficos, notas al margen)?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "LECTURA_CRITICA",
+    "periodo": 4,
+    "numero": 3,
+    "texto": "¿Los estudiantes interpretan y evalúan críticamente los textos, expresando opiniones, acuerdos o desacuerdos fundamentados?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "LECTURA_CRITICA",
+    "periodo": 4,
+    "numero": 4,
+    "texto": "¿Se desarrollan actividades de análisis activo (debates, foros, reseñas, simulacros) que profundizan la comprensión durante la clase y los centros de trabajo?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "LECTURA_CRITICA",
+    "periodo": 4,
+    "numero": 5,
+    "texto": "¿En el docente se evidencia la integración de la cosmovisión cristiana, promoviendo una reflexión ética o bíblica a partir del texto leído?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "BILINGUISMO",
+    "periodo": 1,
+    "numero": 1,
+    "texto": "¿El docente presenta y refuerza el vocabulario básico del periodo utilizando apoyo visual y ejemplos claros y contextualizados?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "BILINGUISMO",
+    "periodo": 1,
+    "numero": 2,
+    "texto": "¿Las instrucciones se dan en inglés de manera corta y repetitiva, y los estudiantes demuestran comprensión mediante acciones?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "BILINGUISMO",
+    "periodo": 1,
+    "numero": 3,
+    "texto": "¿El docente integra la verdad bíblica de manera intencional y pertinente, conectando el vocabulario o las estructuras del idioma con principios bíblicos (ej. creación, gratitud, cuidado, respeto)?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "BILINGUISMO",
+    "periodo": 1,
+    "numero": 4,
+    "texto": "¿Los estudiantes participan activamente en actividades orales guiadas (repetición, respuestas cortas, trabajo en parejas)?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "BILINGUISMO",
+    "periodo": 1,
+    "numero": 5,
+    "texto": "¿Se evidencian actividades escritas sencillas donde los estudiantes usan el vocabulario y estructuras básicas en oraciones simples?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "BILINGUISMO",
+    "periodo": 2,
+    "numero": 1,
+    "texto": "¿El docente trabaja lecturas cortas o audios donde los estudiantes identifican y seleccionan información específica (palabras clave, ideas principales)?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "BILINGUISMO",
+    "periodo": 2,
+    "numero": 2,
+    "texto": "¿Los estudiantes practican diálogos guiados en parejas o descripciones orales usando estructuras modelo y vocabulario del periodo?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "BILINGUISMO",
+    "periodo": 2,
+    "numero": 3,
+    "texto": "¿Se realizan actividades de escritura guiada (oraciones descriptivas o párrafos cortos de 3–5 oraciones) con apoyo visual o ejemplos?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "BILINGUISMO",
+    "periodo": 2,
+    "numero": 4,
+    "texto": "¿El docente refuerza de manera sistemática el vocabulario ampliado y la pronunciación mediante repetición, lectura en voz alta o corrección guiada?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "BILINGUISMO",
+    "periodo": 2,
+    "numero": 5,
+    "texto": "¿El docente integra la verdad bíblica de forma intencional, conectando las lecturas, descripciones o diálogos con principios bíblicos (creación, respeto, gratitud, cuidado del prójimo) sin perder el objetivo lingüístico?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "BILINGUISMO",
+    "periodo": 3,
+    "numero": 1,
+    "texto": "¿El docente implementa conversaciones estructuradas (role plays, entrevistas) con guías claras y vocabulario del periodo?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "BILINGUISMO",
+    "periodo": 3,
+    "numero": 2,
+    "texto": "¿Los estudiantes escriben párrafos coherentes (5–7 oraciones) con idea principal y apoyo, usando vocabulario adecuado?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "BILINGUISMO",
+    "periodo": 3,
+    "numero": 3,
+    "texto": "¿Se trabajan lecturas de mediana extensión con preguntas de inferencia, opinión e ideas principales?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "BILINGUISMO",
+    "periodo": 3,
+    "numero": 4,
+    "texto": "¿Los estudiantes realizan presentaciones orales cortas (1–2 minutos) demostrando fluidez, pronunciación y uso del vocabulario?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "BILINGUISMO",
+    "periodo": 3,
+    "numero": 5,
+    "texto": "¿El docente aplica evaluaciones de comprensión auditiva y lectora, y promueve el uso activo del vocabulario en actividades grupales?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "BILINGUISMO",
+    "periodo": 4,
+    "numero": 2,
+    "texto": "¿Los estudiantes producen textos más elaborados (2–3 párrafos) con coherencia, conectores y una reflexión u opinión alineada con valores bíblicos?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "BILINGUISMO",
+    "periodo": 4,
+    "numero": 3,
+    "texto": "¿Se trabajan lecturas acordes al MCER que permiten análisis profundo, inferencias y contraste del mensaje del texto con la verdad bíblica?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "BILINGUISMO",
+    "periodo": 4,
+    "numero": 4,
+    "texto": "¿El docente desarrolla actividades de escucha avanzada, donde los estudiantes identifican ideas, intención del hablante y disciernen el mensaje a la luz de principios bíblicos?",
+    "isActive": true
+  },
+  {
+    "planId": {
+      "$oid": "69a5a19e662869cf2a83d3f2"
+    },
+    "area": "BILINGUISMO",
+    "periodo": 4,
+    "numero": 5,
+    "texto": "¿Se evidencia un proyecto final integrador en el que los estudiantes usan de forma autónoma el vocabulario, las estructuras gramaticales y la pronunciación para comunicar un mensaje con fundamento bíblico?",
+    "isActive": true
+  }
+]

@@ -1,0 +1,182 @@
+[
+{
+  "planId":{"$oid":"69a5a19e662869cf2a83d3f2"},
+ "area":"CIENCIAS_NATURALES",
+ "periodo":1,
+ "numero":1,
+ "texto":"¿El docente activa la clase explicando un fenómeno físico, químico y/o biológico que los estudiantes observan y del que surgen preguntas.?",
+ "isActive":true
+},
+
+{
+  "planId":{"$oid":"69a5a19e662869cf2a83d3f2"},
+ "area":"CIENCIAS_NATURALES",
+ "periodo":1,
+ "numero":2,
+ "texto":"¿Se realizan experimentos breves y los estudiantes registran lo que ven (dibujos, palabras clave, gráficos o bitácoras).?",
+ "isActive":true
+},
+
+{
+  "planId":{"$oid":"69a5a19e662869cf2a83d3f2"},
+ "area":"CIENCIAS_NATURALES",
+ "periodo":1,
+ "numero":3,
+ "texto":"¿Los estudiantes explican un cambio o patrón mostrando análisis básico del fenómeno.?",
+ "isActive":true
+},
+
+{
+  "planId":{"$oid":"69a5a19e662869cf2a83d3f2"},
+ "area":"CIENCIAS_NATURALES",
+ "periodo":1,
+ "numero":4,
+ "texto":"El docente realiza una conexión bíblica clara relacionando el orden o diseño de la creación con el tema estudiado.",
+ "isActive":true
+},
+
+{
+  "planId":{"$oid":"69a5a19e662869cf2a83d3f2"},
+ "area":"CIENCIAS_NATURALES",
+ "periodo":1,
+ "numero":5,
+ "texto":"El docente aplica una mini evaluación y da retroalimentación inmediata.",
+ "isActive":true
+},
+
+{
+  "planId":{"$oid":"69a5a19e662869cf2a83d3f2"},
+ "area":"CIENCIAS_NATURALES",
+ "periodo":2,
+ "numero":1,
+ "texto":"El docente realiza análisis de fenómenos a través de experimentos guiados con pasos simples y propósito claro.",
+ "isActive":true
+},
+
+{
+  "planId":{"$oid":"69a5a19e662869cf2a83d3f2"},
+ "area":"CIENCIAS_NATURALES",
+ "periodo":2,
+ "numero":2,
+ "texto":"Los estudiantes analizan resultados comparando datos, identificando patrones o dando conclusiones breves.",
+ "isActive":true
+},
+
+{
+  "planId":{"$oid":"69a5a19e662869cf2a83d3f2"},
+ "area":"CIENCIAS_NATURALES",
+ "periodo":2,
+ "numero":3,
+ "texto":"Hay integración bíblica clara relacionando orden, diseño o propósito divino con el fenómeno estudiado.",
+ "isActive":true
+},
+
+{
+  "planId":{"$oid":"69a5a19e662869cf2a83d3f2"},
+ "area":"CIENCIAS_NATURALES",
+ "periodo":2,
+ "numero":4,
+ "texto":"Los estudiantes explican el porqué del fenómeno de forma oral o escrita con precisión científica.",
+ "isActive":true
+},
+
+{
+  "planId":{"$oid":"69a5a19e662869cf2a83d3f2"},
+ "area":"CIENCIAS_NATURALES",
+ "periodo":2,
+ "numero":5,
+ "texto":"El docente retroalimenta la explicación en el momento corrigiendo y aclarando la relación ciencia y Biblia.",
+ "isActive":true
+},
+
+{
+  "planId":{"$oid":"69a5a19e662869cf2a83d3f2"},
+ "area":"CIENCIAS_NATURALES",
+ "periodo":3,
+ "numero":1,
+ "texto":"El docente inicia con una actividad de indagación(observación guiada, pregunta detonante o mini-experimento) conectada con la verdad bíblica.",
+ "isActive":true
+},
+
+{
+  "planId":{"$oid":"69a5a19e662869cf2a83d3f2"},
+ "area":"CIENCIAS_NATURALES",
+ "periodo":3,
+ "numero":2,
+ "texto":"Los estudiantes formulan preguntas usando la estrategia del semáforo de indagación.",
+ "isActive":true
+},
+
+{
+  "planId":{"$oid":"69a5a19e662869cf2a83d3f2"},
+ "area":"CIENCIAS_NATURALES",
+ "periodo":3,
+ "numero":3,
+ "texto":"El docente orienta una actividad central con registro en bitácora.",
+ "isActive":true
+},
+
+{
+  "planId":{"$oid":"69a5a19e662869cf2a83d3f2"},
+ "area":"CIENCIAS_NATURALES",
+ "periodo":3,
+ "numero":4,
+ "texto":"Se evidencia integración cristocéntrica durante la explicación.",
+ "isActive":true
+},
+
+{
+  "planId":{"$oid":"69a5a19e662869cf2a83d3f2"},
+ "area":"CIENCIAS_NATURALES",
+ "periodo":3,
+ "numero":5,
+ "texto":"El docente cierra con actividad de verificación de comprensión conectando ciencia y fe.",
+ "isActive":true
+},
+
+{
+  "planId":{"$oid":"69a5a19e662869cf2a83d3f2"},
+ "area":"CIENCIAS_NATURALES",
+ "periodo":4,
+ "numero":1,
+ "texto":"El docente guía el análisis del fenómeno usando organizadores como causa efecto o comparación.",
+ "isActive":true
+},
+
+{
+  "planId":{"$oid":"69a5a19e662869cf2a83d3f2"},
+ "area":"CIENCIAS_NATURALES",
+ "periodo":4,
+ "numero":2,
+ "texto":"Los estudiantes interpretan datos, infieren o modelan durante la actividad mostrando avance en procesos científicos.",
+ "isActive":true
+},
+
+{
+  "planId":{"$oid":"69a5a19e662869cf2a83d3f2"},
+ "area":"CIENCIAS_NATURALES",
+ "periodo":4,
+ "numero":3,
+ "texto":"El docente integra cosmovisión cristocéntrica conectando orden, diseño y propósito divino con el fenómeno estudiando.",
+ "isActive":true
+},
+
+{
+  "planId":{"$oid":"69a5a19e662869cf2a83d3f2"},
+ "area":"CIENCIAS_NATURALES",
+ "periodo":4,
+ "numero":4,
+ "texto":"¿Los estudiantes comparan resultados y justifican respuestas con evidencia?.",
+ "isActive":true
+},
+
+{
+  "planId":{"$oid":"69a5a19e662869cf2a83d3f2"},
+ "area":"CIENCIAS_NATURALES",
+ "periodo":4,
+ "numero":5,
+ "texto":"El cierre conecta al docente y estudiantes con análisis científico y propósito bíblico demostrando comprensión profunda.",
+ "isActive":true
+}
+
+]
