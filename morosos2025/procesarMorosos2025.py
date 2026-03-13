@@ -17,7 +17,7 @@ lugar = input("Ingrese el lugar de la cita : ").strip()
 
 
 input_columns =[0,2,5,7,22]
-archivo = pd.read_excel('./MOROSOS AL 20 DE OCTUBRE 2025.xls', usecols=input_columns)
+archivo = pd.read_excel('./data_a_procesar/MOROSOS AL 10 DE MARZO 2026.xls', usecols=input_columns)
 df = pd.DataFrame(archivo)
 
 input_columns_global = [6,57,58,59,61]
@@ -88,7 +88,7 @@ df_fintro_50 = df
 
 # ✅ Filtro: solo registros con deuda > 800.000
 df['deuda total'] = pd.to_numeric(df['deuda total'], errors='coerce')
-df = df[df['deuda total'] > 800000].reset_index(drop=True)
+df = df[df['deuda total'] > 10].reset_index(drop=True)
 
 # ✅ Filtro: solo registros con deuda > 50.000
 df['deuda total'] = pd.to_numeric(df['deuda total'], errors='coerce')
@@ -132,26 +132,26 @@ informe_reporte_morosos_50 = uni_dfs_50[['identificacion','Nombre estudiante','g
 
 # Exportar a Excel
 print("")
-ruta_salida = "./informe_cartas_y_juntas.xlsx"
+ruta_salida = "./Resultados/informe_cartas_y_juntas.xlsx"
 informe_cartas_y_juntas.to_excel(ruta_salida, index=False)
 print(f"Archivo Excel creado en: {ruta_salida}")
 # Exportar a Excel
 
 # Exportar a Excel
 print("")
-ruta_salida = "./informe_reporte_morosos.xlsx"
+ruta_salida = "./Resultados/informe_reporte_morosos.xlsx"
 informe_reporte_morosos.to_excel(ruta_salida, index=False)
 print(f"Archivo Excel creado en: {ruta_salida}")
 # Exportar a Excel
 
 
 print("")
-ruta_salida = "./morosos_listado.xlsx"
+ruta_salida = "./Resultados/morosos_listado.xlsx"
 df_listado_grupo.to_excel(ruta_salida, index=False)
 print(f"Archivo Excel creado en: {ruta_salida}")
 
 print("")
-ruta_salida = "./informe_reporte_morosos_50.xlsx"
+ruta_salida = "./Resultados/informe_reporte_morosos_50.xlsx"
 informe_reporte_morosos_50.to_excel(ruta_salida, index=False)
 print(f"Archivo Excel creado en: {ruta_salida}")
 
