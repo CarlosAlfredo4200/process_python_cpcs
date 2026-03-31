@@ -15,9 +15,12 @@ load_dotenv()
 def convert_to_number(value):
     if isinstance(value, str):
         try:
-            return float(value.replace(',', '.'))
+            num = float(value.replace(',', '.'))
+            return round(num, 1)  # 👈 SOLO 1 DECIMAL
         except ValueError:
             return value
+    elif isinstance(value, (int, float)):
+        return round(float(value), 1)  # 👈 también aplica a números ya convertidos
     return value
 
 try:
