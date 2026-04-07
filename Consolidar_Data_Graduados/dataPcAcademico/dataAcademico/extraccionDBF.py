@@ -110,4 +110,4 @@ def procesar_certificados(archivo_excel, hoja):
 
 
 # ===== USO =====
-procesar_certificados("./DATA_CERTIFICADOS_VALORATIVOS.xlsx", "2014")
+procesar_certificados("./DATA_CERTIFICADOS_VALORATIVOS.xlsx", "2009")
