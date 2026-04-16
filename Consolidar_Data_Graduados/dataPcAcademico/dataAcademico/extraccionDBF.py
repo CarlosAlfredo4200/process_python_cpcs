@@ -15,7 +15,7 @@ def procesar_certificados(archivo_excel, hoja):
 
     resultado = []
 
-    for identificacion, grupo_df in data_historico.groupby("numDocumento"):
+    for identificacion, grupo_df in data_historico.groupby("nombre"):
         primera = grupo_df.iloc[0]
 
         estudiante = {
@@ -110,4 +110,4 @@ def procesar_certificados(archivo_excel, hoja):
 
 
 # ===== USO =====
-procesar_certificados("./DATA_CERTIFICADOS_VALORATIVOS.xlsx", "2009")
+procesar_certificados("./DATA_CERTIFICADOS_VALORATIVOS.xlsx", "2003")
