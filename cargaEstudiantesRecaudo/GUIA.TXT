@@ -1,0 +1,6 @@
+descargar los archivo de estudiantes, docentes y administrativos. 
+limpiar el de estudiantes a nombre , grupo y documento
+procesaradministrativos
+unir_json
+eliminar data de mongo
+cargar unido.json
