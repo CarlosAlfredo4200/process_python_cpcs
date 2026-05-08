@@ -3,7 +3,7 @@ import pandas as pd
 input_columns = [1, 3]
 
 data_empleados = pd.read_excel(
-    './data/Control_de_acceso_docentes.xlsx',
+    './data/Control_de_acceso_docentes_y_administrativos.xlsx',
     usecols=input_columns
 )
 
@@ -58,7 +58,12 @@ data_empleados["fecha"] = data_empleados["Nombre empleado"].where(
 
 
  
-data_empleados['horarios'] = data_empleados["horarios"] .str.split(" - ") .str[0]
+# Extraer la primera hora encontrada en la columna horarios
+data_empleados["horarios"] = (
+    data_empleados["horarios"]
+    .astype(str)
+    .str.extract(r"(\d{1,2}:\d{2})")[0]
+)
  
 # Dejar solo filas de fechas
 resultado = data_empleados[
@@ -79,15 +84,15 @@ resultado = resultado[[
 
 
 # Exportar a Excel
-ruta_salida = "./accesos_limpios_docentes.xlsx"
+ruta_salida = "./accesos_limpios.xlsx"
 resultado.to_excel(ruta_salida, index=False)
 
-import pandas as pd
+
 
 # =========================
 # LEER ARCHIVO FINAL
 # =========================
-df = pd.read_excel("./accesos_limpios_docentes.xlsx")
+df = pd.read_excel("./accesos_limpios.xlsx")
 
 # =========================
 # LIMPIAR HORARIOS
@@ -170,7 +175,7 @@ top_tardanzas = reporte.sort_values(
 # =========================
 # EXPORTAR
 # =========================
-with pd.ExcelWriter("./reporte llegadas cpcs abril docentes.xlsx",
+with pd.ExcelWriter("./reporte llegadas cpcs abril administrativos.xlsx",
                     engine="openpyxl") as writer:
 
     # =========================
@@ -194,7 +199,7 @@ with pd.ExcelWriter("./reporte llegadas cpcs abril docentes.xlsx",
     # =========================
     worksheet.merge_cells("A1:F1")
 
-    worksheet["A1"] = "REPORTE LLEGADAS DOCENTES CPCS"
+    worksheet["A1"] = "REPORTE LLEGADAS EMPLEADOS CPCS"
 
     # =========================
     # OBSERVACIÓN
