@@ -1,0 +1,4 @@
+Esta carpeta contiene el archivo Estudiantes - Comunidad en Excel.
+Descargado de Q10 desde desde fechas todas,sede todas,estado todos,
+inclluyendo informacion acudientes.
+

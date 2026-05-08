@@ -17,7 +17,7 @@ lugar = input("Ingrese el lugar de la cita : ").strip()
 
 
 input_columns =[0,2,5,7,22]
-archivo = pd.read_excel('./NOTIFICACIÓN DE RIESGOS AL 23 DE MARZO 2026.xls', usecols=input_columns)
+archivo = pd.read_excel('./MOROSOS AL 06 DE ABRIL 2026.xls', usecols=input_columns)
 df = pd.DataFrame(archivo)
 
 input_columns_global = [6,57,58,59,61]
@@ -71,8 +71,8 @@ fecha_actual = f"{hoy.day} {meses[hoy.month]} de {hoy.year}"
 # columnas adicionales 
 df['dia_cita'] = dia_cita
 df['mes_cita'] = mes_cita
-df['año_cita'] = 2025
-df['administrador'] = "Geovanny Callejas Acevedo"
+df['año_cita'] = 2026
+df['administrador'] = "Liliana María García Marín"
 df['fecha actual'] = fecha_actual
 df['lugar'] = lugar
 df['hora'] = hora 

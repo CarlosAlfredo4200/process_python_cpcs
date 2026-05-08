@@ -15,9 +15,12 @@ load_dotenv()
 def convert_to_number(value):
     if isinstance(value, str):
         try:
-            return float(value.replace(',', '.'))
+            num = float(value.replace(',', '.'))
+            return round(num, 1)  # 👈 SOLO 1 DECIMAL
         except ValueError:
             return value
+    elif isinstance(value, (int, float)):
+        return round(float(value), 1)  # 👈 también aplica a números ya convertidos
     return value
 
 try:
@@ -32,7 +35,7 @@ try:
     )
 
     df.columns = df.columns.str.strip()
-    print("Columnas detectadas:", df.columns.tolist())
+    # print("Columnas detectadas:", df.columns.tolist())
 
     # ===============================
     # 2. RENOMBRAR COLUMNAS (MAPA)
@@ -53,12 +56,12 @@ try:
         'Fisica': 'Fisica',
         'Quimica': 'Quimica',
         'CIENCIAS POLITICAS Y ECONÓMICAS': 'cienciasPoliticasYEconomicas',
-        'CIENCIAS SOCIALES (HIST, GEOG, CONST, DEMOC)': 'cienciasSociales',
+        'CIENCIAS SOCIALES (HIST. GEOG. CONST. DEMOC)': 'cienciasSociales',
         'CÍVICA Y CONSTITUCIÓN': 'civicaYConstitucion',
         'EDUCACIÓN ARTÍSTICA Y CULTURAL': 'educacionArtisticaYCultural',
         'EDUCACIÓN CRISTIANA': 'educacionCristiana',
         'EDUCACIÓN ÉTICA Y VALORES': 'educacionEticaYValores',
-        'EDUCACIÓN FÍSICA, RECREACIÓN Y DEPORTES': 'educacionFisicaYRecreacionYDeportes',
+        'EDUCACIÓN FÍSICA. RECREACIÓN Y DEPORTES': 'educacionFisicaYRecreacionYDeportes',
         'filosofia': 'filosofia',
         'HUMANIDADES LENGUA CASTELLANA E IDIOMA EXTRANJERO': 'humanidadesLenguaCastellanaEIdiomaExtranjero',
         'IDIOMA EXTRANJERO (INGLES)': 'idiomaExtranjeroIngles',
