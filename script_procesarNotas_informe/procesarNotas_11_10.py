@@ -74,6 +74,14 @@ def procesarNotas(archivo):
     filtro_periodo[["grupo", "codigo", "nombre", "periodo"]] = (
         filtro_periodo[["grupo", "codigo", "nombre", "periodo"]].astype(str)
     )
+    
+    # --- Limpiar espacios en grupo ---
+    filtro_periodo["grupo"] = (
+        filtro_periodo["grupo"]
+        .astype(str)
+        .str.strip()                  # elimina espacios al inicio y final
+        .str.replace(r"\s+", " ", regex=True)  # elimina espacios dobles internos
+    )
 
     filtro_periodo["puesto"] = pd.to_numeric(filtro_periodo["puesto"], errors="coerce").astype("Int64")
 
