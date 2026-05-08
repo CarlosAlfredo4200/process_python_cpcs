@@ -5,7 +5,9 @@
         "documento":"1034929374",
         "grupo":"JARDIN",
         "grado":"JARDIN",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"COSSIO LOPEZ JULIETA"
     },
     {
         "codigo":"217055",
@@ -13,7 +15,9 @@
         "documento":"1025899198",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ECHEVERRI LEON PABLO"
     },
     {
         "codigo":"218073",
@@ -21,7 +25,9 @@
         "documento":"1022007379",
         "grupo":"SEXTO A",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MONTAGUT IBAÑEZ SARA"
     },
     {
         "codigo":"225041",
@@ -29,7 +35,9 @@
         "documento":"1033204959",
         "grupo":"PRIMERO A",
         "grado":"PRIMERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":204.0,
+        "lista_hermanos":"GRANDA JARAMILLO AGUSTIN, GRANDA JARAMILLO BENJAMIN"
     },
     {
         "codigo":"224055",
@@ -37,7 +45,9 @@
         "documento":"1031942599",
         "grupo":"OCTAVO A",
         "grado":"OCTAVO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":9.0,
+        "lista_hermanos":"ALVAREZ CANO ELIZABETH, ALVAREZ CANO YERIK"
     },
     {
         "codigo":"223019",
@@ -45,7 +55,9 @@
         "documento":"1023544888",
         "grupo":"TERCERO A",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"VELASQUEZ OQUENDO LUCIANA"
     },
     {
         "codigo":"223034",
@@ -53,7 +65,9 @@
         "documento":"1020234259",
         "grupo":"CUARTO A",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CHICA MARTINEZ MARIA ANTONIA"
     },
     {
         "codigo":"218044",
@@ -61,7 +75,9 @@
         "documento":"1021933529",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"DE LA OSSA MEJIA MICAIAS"
     },
     {
         "codigo":"216040",
@@ -69,7 +85,9 @@
         "documento":"1020117709",
         "grupo":"ONCE B",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ROJAS PALACIOS MIGUEL ANGEL"
     },
     {
         "codigo":"223022",
@@ -77,7 +95,9 @@
         "documento":"1023545352",
         "grupo":"TERCERO A",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GAVIRIA ZAPATA MARIA JOSÉ"
     },
     {
         "codigo":"214082",
@@ -85,7 +105,9 @@
         "documento":"1013346917",
         "grupo":"ONCE A",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ARANGO MONSALVE ESTEBAN"
     },
     {
         "codigo":"223107",
@@ -93,7 +115,9 @@
         "documento":"1025897110",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PANIAGUA MARIN EMILY VIVIANA"
     },
     {
         "codigo":"219080",
@@ -101,7 +125,9 @@
         "documento":"1018248468",
         "grupo":"ONCE B",
         "grado":"ONCE",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":233.0,
+        "lista_hermanos":"JARAMILLO CARRANZA SANTIAGO, JARAMILLO CARRANZA CAMILA"
     },
     {
         "codigo":"225026",
@@ -109,7 +135,9 @@
         "documento":"1018275537",
         "grupo":"TRANSICION A",
         "grado":"TRANSICIÓN",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"DIEZ ORTEGA ISAAC"
     },
     {
         "codigo":"224007",
@@ -117,7 +145,9 @@
         "documento":"1023551022",
         "grupo":"SEGUNDO B",
         "grado":"SEGUNDO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GALLEGO VELASQUEZ CELESTE"
     },
     {
         "codigo":"223003",
@@ -125,7 +155,9 @@
         "documento":"1020239882",
         "grupo":"PRIMERO A",
         "grado":"PRIMERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ORTIZ CANO SARA"
     },
     {
         "codigo":"226146",
@@ -133,7 +165,9 @@
         "documento":"1011408658",
         "grupo":"SEPTIMO B",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MARTINEZ NARVAEZ MARIA JOSE"
     },
     {
         "codigo":"216076",
@@ -141,7 +175,9 @@
         "documento":"1020228417",
         "grupo":"OCTAVO B",
         "grado":"OCTAVO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":200.0,
+        "lista_hermanos":"GONZALEZ BEDOYA GRACIA, GONZALEZ BEDOYA JUANITA"
     },
     {
         "codigo":"224071",
@@ -149,7 +185,9 @@
         "documento":"1023543254",
         "grupo":"TERCERO B",
         "grado":"TERCERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":243.0,
+        "lista_hermanos":"KRIM GOMEZ SUSANA SOFIA, KRIM GOMEZ JULIANA"
     },
     {
         "codigo":"224015",
@@ -157,7 +195,9 @@
         "documento":"1013366647",
         "grupo":"SEGUNDO A",
         "grado":"SEGUNDO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CASTRO CAMERO SCARLETT"
     },
     {
         "codigo":"224036",
@@ -165,7 +205,9 @@
         "documento":"1020236092",
         "grupo":"TERCERO B",
         "grado":"TERCERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":188.0,
+        "lista_hermanos":"GIRALDO CASTRILLÓN GUADALUPE, GIRALDO CASTRILLÓN JULIETA"
     },
     {
         "codigo":"226120",
@@ -173,7 +215,9 @@
         "documento":"1011416997",
         "grupo":"PRIMERO A",
         "grado":"PRIMERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MONSALVE ARANGO HELENA"
     },
     {
         "codigo":"223007",
@@ -181,7 +225,9 @@
         "documento":"1023550159",
         "grupo":"SEGUNDO B",
         "grado":"SEGUNDO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CARDONA CAICEDO MATEO"
     },
     {
         "codigo":"223030",
@@ -189,7 +235,9 @@
         "documento":"1021939602",
         "grupo":"CUARTO A",
         "grado":"CUARTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":185.0,
+        "lista_hermanos":"GIL BETANCUR TOMAS, GIL BETANCUR MARCOS"
     },
     {
         "codigo":"223048",
@@ -197,7 +245,9 @@
         "documento":"1035002463",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":70.0,
+        "lista_hermanos":"CANO SEGURA ANTONIA, CANO SEGURA MARIANA"
     },
     {
         "codigo":"215002",
@@ -205,7 +255,9 @@
         "documento":"1020306631",
         "grupo":"ONCE A",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MORCILLO VELASQUEZ SOFIA"
     },
     {
         "codigo":"224093",
@@ -213,7 +265,9 @@
         "documento":"1076333131",
         "grupo":"SEPTIMO B",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"POTES RIOS FARAKH SHELEE"
     },
     {
         "codigo":"226106",
@@ -221,7 +275,9 @@
         "documento":"1031947374",
         "grupo":"TRANSICION A",
         "grado":"TRANSICIÓN",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CORDOBA VELASQUEZ EMMA"
     },
     {
         "codigo":"222015",
@@ -229,7 +285,9 @@
         "documento":"1013358746",
         "grupo":"CUARTO B",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CHAVARRIA OSORIO LUNA CELESTE"
     },
     {
         "codigo":"222045",
@@ -237,7 +295,9 @@
         "documento":"1013466654",
         "grupo":"SEGUNDO B",
         "grado":"SEGUNDO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":79.0,
+        "lista_hermanos":"CARDONA MOSQUERA ROXANA, CARDONA MOSQUERA ISAAC"
     },
     {
         "codigo":"220022",
@@ -245,7 +305,9 @@
         "documento":"1020235328",
         "grupo":"CUARTO A",
         "grado":"CUARTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":427.0,
+        "lista_hermanos":"RUGE MORERA GABRIELA, RUGE MORERA ISABELLA"
     },
     {
         "codigo":"224067",
@@ -253,7 +315,9 @@
         "documento":"1039760353",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"JIMENEZ RESTREPO MIGUEL ÁNGEL"
     },
     {
         "codigo":"221018",
@@ -261,7 +325,9 @@
         "documento":"1033188147",
         "grupo":"ONCE B",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ORTIZ PIZARRO JUAN PABLO"
     },
     {
         "codigo":"223047",
@@ -269,7 +335,9 @@
         "documento":"1011516692",
         "grupo":"SEXTO B",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"SANCHEZ ZULETA MARIA ANTONIA"
     },
     {
         "codigo":"225067",
@@ -277,7 +345,9 @@
         "documento":"1025676306",
         "grupo":"PRIMERO B",
         "grado":"PRIMERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"TORRES GAITAN JOSABETH"
     },
     {
         "codigo":"218034",
@@ -285,7 +355,9 @@
         "documento":"1025895823",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RUIZ ARISTIZABAL NICOLAS"
     },
     {
         "codigo":"222013",
@@ -293,7 +365,9 @@
         "documento":"1033200952",
         "grupo":"CUARTO A",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"USMA JARAMILLO MARIA CELESTE"
     },
     {
         "codigo":"220067",
@@ -301,7 +375,9 @@
         "documento":"1015077478",
         "grupo":"OCTAVO B",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RINCON MEDINA EMANUEL"
     },
     {
         "codigo":"220057",
@@ -309,7 +385,9 @@
         "documento":"1013368945",
         "grupo":"ONCE B",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RUIZ ESTRADA SOFIA CAMILA"
     },
     {
         "codigo":"226133",
@@ -317,7 +395,9 @@
         "documento":"1020242156",
         "grupo":"PRE-JARDIN",
         "grado":"PRE-JARDIN",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MOLINA VARGAS ALAN"
     },
     {
         "codigo":"224050",
@@ -325,7 +405,9 @@
         "documento":"1015077703",
         "grupo":"OCTAVO B",
         "grado":"OCTAVO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":401.0,
+        "lista_hermanos":"RESTREPO CORTES JUAN MANUEL, RESTREPO CORTES ISABELLA"
     },
     {
         "codigo":"224006",
@@ -333,7 +415,9 @@
         "documento":"1011417543",
         "grupo":"PRIMERO B",
         "grado":"PRIMERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":525.0,
+        "lista_hermanos":"ZAPATA GIL SAMUEL DAVID, ZAPATA GIL LIAM EMMANUEL"
     },
     {
         "codigo":"225064",
@@ -341,7 +425,9 @@
         "documento":"1011330426",
         "grupo":"SEGUNDO A",
         "grado":"SEGUNDO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"TABORDA REYES SAMUEL ESTEBAN"
     },
     {
         "codigo":"222077",
@@ -349,7 +435,9 @@
         "documento":"1034925183",
         "grupo":"QUINTO C",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"VANEGAS PULGARIN SHERAY"
     },
     {
         "codigo":"225057",
@@ -357,7 +445,9 @@
         "documento":"5157331",
         "grupo":"DECIMO A",
         "grado":"DÉCIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":464.0,
+        "lista_hermanos":"SOLER SEGURA MOISES VALENTIN, SOLER SEGURA AARON JEREMIAS"
     },
     {
         "codigo":"220039",
@@ -365,7 +455,9 @@
         "documento":"1025899839",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":496.0,
+        "lista_hermanos":"VANEGAS CANO LUCIANA, VANEGAS CANO MATIAS"
     },
     {
         "codigo":"219008",
@@ -373,7 +465,9 @@
         "documento":"1022150345",
         "grupo":"ONCE A",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"HENAO ZAPATA MIGUEL ANGEL"
     },
     {
         "codigo":"223076",
@@ -381,7 +475,9 @@
         "documento":"1020323103",
         "grupo":"CUARTO A",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PEREZ PINO SUSANA"
     },
     {
         "codigo":"226118",
@@ -389,7 +485,9 @@
         "documento":"1023657953",
         "grupo":"PRIMERO B",
         "grado":"PRIMERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ALVAREZ PINEDA SIMON"
     },
     {
         "codigo":"226103",
@@ -397,7 +495,9 @@
         "documento":"1023595858",
         "grupo":"TRANSICION A",
         "grado":"TRANSICIÓN",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MIRANDA CARDENAS JUAN ALEJANDRO"
     },
     {
         "codigo":"222036",
@@ -405,7 +505,9 @@
         "documento":"1020317316",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GIRALDO CUELLO JUAN ALEJANDRO"
     },
     {
         "codigo":"223039",
@@ -413,7 +515,9 @@
         "documento":"1021941267",
         "grupo":"CUARTO B",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"SUAREZ GUTIERREZ MARIA ANTONIA"
     },
     {
         "codigo":"224044",
@@ -421,7 +525,9 @@
         "documento":"1011410413",
         "grupo":"SEXTO B",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GARZON HERRERA JOEL"
     },
     {
         "codigo":"217086",
@@ -429,7 +535,9 @@
         "documento":"1072104526",
         "grupo":"DECIMO A",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"JIMENEZ MORENO NICOLAS"
     },
     {
         "codigo":"221059",
@@ -437,7 +545,9 @@
         "documento":"1021937401",
         "grupo":"QUINTO B",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"OSORIO CONTRERAS SOFIA"
     },
     {
         "codigo":"225063",
@@ -445,7 +555,9 @@
         "documento":"1013369943",
         "grupo":"PRIMERO A",
         "grado":"PRIMERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":250.0,
+        "lista_hermanos":"LONDOÑO JARAMILLO SAMUEL, LONDOÑO JARAMILLO EZEQUIEL"
     },
     {
         "codigo":"215065",
@@ -453,7 +565,9 @@
         "documento":"1192466240",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":5.0,
+        "lista_hermanos":"AGUIRRE GOMEZ SUSANA, AGUIRRE GOMEZ ARIANA"
     },
     {
         "codigo":"224133",
@@ -461,7 +575,9 @@
         "documento":"1023554520",
         "grupo":"PRIMERO B",
         "grado":"PRIMERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"FLOREZ ALVAREZ JUAN DAVID"
     },
     {
         "codigo":"225066",
@@ -469,7 +585,9 @@
         "documento":"1025769353",
         "grupo":"OCTAVO B",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ZABALA MONTOYA EMILIANO"
     },
     {
         "codigo":"219068",
@@ -477,7 +595,9 @@
         "documento":"1019908651",
         "grupo":"SEPTIMO B",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CLAVIJO CORTES SANTIAGO"
     },
     {
         "codigo":"222018",
@@ -485,7 +605,9 @@
         "documento":"1021939636",
         "grupo":"CUARTO B",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ZAPATA BECERRA ELIZABETH"
     },
     {
         "codigo":"217128",
@@ -493,7 +615,9 @@
         "documento":"1011106856",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"SUAREZ BAYONA MARTINA"
     },
     {
         "codigo":"219081",
@@ -501,7 +625,9 @@
         "documento":"1023165980",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CASTAÑO PATIÑO JUAN JOSE"
     },
     {
         "codigo":"226117",
@@ -509,7 +635,9 @@
         "documento":"1036460396",
         "grupo":"PRIMERO A",
         "grado":"PRIMERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CADAVID PULGARIN LUIS MIGUEL"
     },
     {
         "codigo":"220027",
@@ -517,7 +645,9 @@
         "documento":"1025900606",
         "grupo":"SEXTO A",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"VELEZ ORTIZ SIMON"
     },
     {
         "codigo":"225037",
@@ -525,7 +655,9 @@
         "documento":"1035013499",
         "grupo":"SEGUNDO A",
         "grado":"SEGUNDO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":224.0,
+        "lista_hermanos":"HIGUITA NIÑO VALERIA, HIGUITA NIÑO BENJAMIN"
     },
     {
         "codigo":"221078",
@@ -533,7 +665,9 @@
         "documento":"1020321827",
         "grupo":"QUINTO C",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"POSADA ALZATE ABRAHAM"
     },
     {
         "codigo":"217063",
@@ -541,7 +675,9 @@
         "documento":"1025659461",
         "grupo":"DECIMO A",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CORREA CASTAÑEDA LAURA"
     },
     {
         "codigo":"213045",
@@ -549,7 +685,9 @@
         "documento":"1023638281",
         "grupo":"ONCE A",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"COLORADO FONSECA DANIEL FELIPE"
     },
     {
         "codigo":"221046",
@@ -557,7 +695,9 @@
         "documento":"1025900115",
         "grupo":"SEXTO A",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PEREZ TAMAYO SOFIA"
     },
     {
         "codigo":"218030",
@@ -565,7 +705,9 @@
         "documento":"1027662886",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RUIZ ROMAN EMANUEL"
     },
     {
         "codigo":"217012",
@@ -573,7 +715,9 @@
         "documento":"1020228828",
         "grupo":"OCTAVO B",
         "grado":"OCTAVO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":267.0,
+        "lista_hermanos":"MARIACA MONTAGUT MARIA CLARA, MARIACA MONTAGUT ALEJANDRA"
     },
     {
         "codigo":"224011",
@@ -581,7 +725,9 @@
         "documento":"1033204705",
         "grupo":"SEGUNDO A",
         "grado":"SEGUNDO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ESTRADA ARANGO EMANUEL"
     },
     {
         "codigo":"222073",
@@ -589,7 +735,9 @@
         "documento":"1038872200",
         "grupo":"NOVENO B",
         "grado":"NOVENO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":150.0,
+        "lista_hermanos":"ESCALANTE MARTINEZ SAMUEL, ESCALANTE MARTINEZ SARA"
     },
     {
         "codigo":"215117",
@@ -597,7 +745,9 @@
         "documento":"1020228755",
         "grupo":"NOVENO B",
         "grado":"NOVENO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":427.0,
+        "lista_hermanos":"RUGE MORERA GABRIELA, RUGE MORERA ISABELLA"
     },
     {
         "codigo":"226143",
@@ -605,7 +755,9 @@
         "documento":"1029862845",
         "grupo":"NOVENO B",
         "grado":"NOVENO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":248.0,
+        "lista_hermanos":"LONDOÑO BERTHI ANTONELLA, LONDOÑO BERTHI ZAMAR"
     },
     {
         "codigo":"216105",
@@ -613,7 +765,9 @@
         "documento":"1020228343",
         "grupo":"OCTAVO B",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ESPINAL GIRALDO BENJAMIN"
     },
     {
         "codigo":"221071",
@@ -621,7 +775,9 @@
         "documento":"1018257398",
         "grupo":"SEPTIMO B",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"FORONDA CARO JERONIMO"
     },
     {
         "codigo":"222002",
@@ -629,7 +785,9 @@
         "documento":"1020238267",
         "grupo":"SEGUNDO B",
         "grado":"SEGUNDO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":354.0,
+        "lista_hermanos":"PAYARES AGUSTIN BENJAMIN, PAYARES AGUSTIN JOSEPH ELIAS"
     },
     {
         "codigo":"226168",
@@ -637,7 +795,9 @@
         "documento":"1025901666",
         "grupo":"QUINTO A",
         "grado":"QUINTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":497.0,
+        "lista_hermanos":"VANEGAS OLAYA SIMON, VANEGAS OLAYA CRISTOPHER"
     },
     {
         "codigo":"215018",
@@ -645,7 +805,9 @@
         "documento":"1020304860",
         "grupo":"ONCE A",
         "grado":"ONCE",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":217.0,
+        "lista_hermanos":"HERNANDEZ MONTAÑO MARIANA, HERNANDEZ MONTAÑO ANDREA"
     },
     {
         "codigo":"218108",
@@ -653,7 +815,9 @@
         "documento":"1025657990",
         "grupo":"ONCE B",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CARVAJAL GOMEZ SHARI LINED"
     },
     {
         "codigo":"225055",
@@ -661,7 +825,9 @@
         "documento":"6761912",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":464.0,
+        "lista_hermanos":"SOLER SEGURA MOISES VALENTIN, SOLER SEGURA AARON JEREMIAS"
     },
     {
         "codigo":"222038",
@@ -669,7 +835,9 @@
         "documento":"1032024722",
         "grupo":"OCTAVO B",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CARMONA GARCIA SALOME"
     },
     {
         "codigo":"221083",
@@ -677,7 +845,9 @@
         "documento":"1029301914",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"NARVAEZ MARTINEZ SAMUEL"
     },
     {
         "codigo":"222029",
@@ -685,7 +855,9 @@
         "documento":"1021938249",
         "grupo":"QUINTO A",
         "grado":"QUINTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":7.0,
+        "lista_hermanos":"ALARCON ALZATE SIMON, ALARCON ALZATE ISABELLA"
     },
     {
         "codigo":"220024",
@@ -693,7 +865,9 @@
         "documento":"1011517041",
         "grupo":"SEPTIMO B",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RIOS HURTADO MIGUEL ANGEL"
     },
     {
         "codigo":"214114",
@@ -701,7 +875,9 @@
         "documento":"1013463701",
         "grupo":"DECIMO A",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CABALLERO HENAO JOSE DAVID"
     },
     {
         "codigo":"221016",
@@ -709,7 +885,9 @@
         "documento":"1035006736",
         "grupo":"QUINTO C",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"HERNANDEZ MUÑOZ CELESTE"
     },
     {
         "codigo":"223027",
@@ -717,7 +895,9 @@
         "documento":"1033202718",
         "grupo":"TERCERO B",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"BOHÓRQUEZ ISAZA ISABELLA"
     },
     {
         "codigo":"215111",
@@ -725,7 +905,9 @@
         "documento":"1020311102",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RIOS SALAZAR SANTIAGO"
     },
     {
         "codigo":"224092",
@@ -733,7 +915,9 @@
         "documento":"1023646449",
         "grupo":"SEPTIMO B",
         "grado":"SEPTIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":304.0,
+        "lista_hermanos":"MONTERO BERRIO VALERIE, MONTERO BERRIO ESTEBAN"
     },
     {
         "codigo":"225032",
@@ -741,7 +925,9 @@
         "documento":"1020229178",
         "grupo":"OCTAVO B",
         "grado":"OCTAVO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":391.0,
+        "lista_hermanos":"QUIROGA LOPEZ ANDRES JUAN, QUIROGA LOPEZ VERONICA"
     },
     {
         "codigo":"223222",
@@ -749,7 +935,9 @@
         "documento":"1033198863",
         "grupo":"QUINTO C",
         "grado":"QUINTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":204.0,
+        "lista_hermanos":"GRANDA JARAMILLO AGUSTIN, GRANDA JARAMILLO BENJAMIN"
     },
     {
         "codigo":"225056",
@@ -757,7 +945,9 @@
         "documento":"1025897300",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PIEDRAHITA RESTREPO MARIANA"
     },
     {
         "codigo":"223066",
@@ -765,7 +955,9 @@
         "documento":"1025661559",
         "grupo":"DECIMO A",
         "grado":"DÉCIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":20.0,
+        "lista_hermanos":"ARANGO SALAZAR LUCIANA, ARANGO SALAZAR XIMENA"
     },
     {
         "codigo":"225039",
@@ -773,7 +965,9 @@
         "documento":"1023564448",
         "grupo":"JARDIN",
         "grado":"JARDIN",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":283.0,
+        "lista_hermanos":"MASSO BLANDON SOFIA, MASSO BLANDON PABLO, MASSO BLANDON SARA"
     },
     {
         "codigo":"221082",
@@ -781,7 +975,9 @@
         "documento":"1033268323",
         "grupo":"TERCERO A",
         "grado":"TERCERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":501.0,
+        "lista_hermanos":"VARGAS RENDON SARA, VARGAS RENDON SIMON"
     },
     {
         "codigo":"220017",
@@ -789,7 +985,9 @@
         "documento":"1025902754",
         "grupo":"QUINTO B",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MARIN OROZCO MATIAS"
     },
     {
         "codigo":"216032",
@@ -797,7 +995,9 @@
         "documento":"1021933088",
         "grupo":"OCTAVO B",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"HENAO YEPES SAMUEL"
     },
     {
         "codigo":"216028",
@@ -805,7 +1005,9 @@
         "documento":"1015075125",
         "grupo":"ONCE A",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RUIZ RODAS JACOBO"
     },
     {
         "codigo":"224091",
@@ -813,7 +1015,9 @@
         "documento":"1025898790",
         "grupo":"SEPTIMO B",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"POSADA COLORADO MIGUEL ANGEL"
     },
     {
         "codigo":"214071",
@@ -821,7 +1025,9 @@
         "documento":"1023638076",
         "grupo":"ONCE A",
         "grado":"ONCE",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":470.0,
+        "lista_hermanos":"SUESCUN YEPES LUCIANA, SUESCUN YEPES JUAN MANUEL"
     },
     {
         "codigo":"226150",
@@ -829,7 +1035,9 @@
         "documento":"7718937",
         "grupo":"SEXTO A",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"BALLADARES LOAYZA MATHIAS ALEJANDRO"
     },
     {
         "codigo":"217127",
@@ -837,7 +1045,9 @@
         "documento":"1025895387",
         "grupo":"ONCE A",
         "grado":"ONCE",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":122.0,
+        "lista_hermanos":"CORTES CORREA SALOME, CORTES CORREA REBECA"
     },
     {
         "codigo":"226137",
@@ -845,7 +1055,9 @@
         "documento":"1018272478",
         "grupo":"PRIMERO B",
         "grado":"PRIMERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GARCIA DIAZ SAMUEL"
     },
     {
         "codigo":"216072",
@@ -853,7 +1065,9 @@
         "documento":"1011515086",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ECHEVERRI AGUDELO SAMUEL"
     },
     {
         "codigo":"216094",
@@ -861,7 +1075,9 @@
         "documento":"1192464285",
         "grupo":"ONCE B",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"AGUDELO SALAZAR SAMANTHA"
     },
     {
         "codigo":"224090",
@@ -869,7 +1085,9 @@
         "documento":"1027663704",
         "grupo":"SEXTO A",
         "grado":"SEXTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":383.0,
+        "lista_hermanos":"PRIETO ALBÁN MATHÍAS, PRIETO ALBÁN ISAAC"
     },
     {
         "codigo":"218087",
@@ -877,7 +1095,9 @@
         "documento":"1034995223",
         "grupo":"ONCE B",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CALLE URIBE ANA SOFIA"
     },
     {
         "codigo":"221081",
@@ -885,7 +1105,9 @@
         "documento":"1033198496",
         "grupo":"QUINTO C",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"BRAN ARRIETA SARAY"
     },
     {
         "codigo":"214036",
@@ -893,7 +1115,9 @@
         "documento":"1022152321",
         "grupo":"DECIMO A",
         "grado":"DÉCIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":208.0,
+        "lista_hermanos":"GUZMAN HERRERA EMANUEL, GUZMAN HERRERA SUSANA, GUZMAN HERRERA JUANA"
     },
     {
         "codigo":"220099",
@@ -901,7 +1125,9 @@
         "documento":"1041634370",
         "grupo":"DECIMO A",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"JARAMILLO AGUDELO ANA SOFIA"
     },
     {
         "codigo":"218110",
@@ -909,7 +1135,9 @@
         "documento":"1141338696",
         "grupo":"OCTAVO B",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GARCIA PINZON ANA LUCIA"
     },
     {
         "codigo":"214148",
@@ -917,7 +1145,9 @@
         "documento":"1011514095",
         "grupo":"ONCE A",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CASTAÑO VILORIA SARA"
     },
     {
         "codigo":"226115",
@@ -925,7 +1155,9 @@
         "documento":"1023557572",
         "grupo":"PRIMERO B",
         "grado":"PRIMERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CIFUENTES VERGARA GABRIELA"
     },
     {
         "codigo":"220031",
@@ -933,7 +1165,9 @@
         "documento":"1020319585",
         "grupo":"SEXTO A",
         "grado":"SEXTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":491.0,
+        "lista_hermanos":"URIBE PINEDA REBECCA, URIBE PINEDA RENATTA"
     },
     {
         "codigo":"221049",
@@ -941,7 +1175,9 @@
         "documento":"1011408434",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RESTREPO MARQUEZ MATEO"
     },
     {
         "codigo":"225045",
@@ -949,7 +1185,9 @@
         "documento":"1023538982",
         "grupo":"TERCERO B",
         "grado":"TERCERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":250.0,
+        "lista_hermanos":"LONDOÑO JARAMILLO SAMUEL, LONDOÑO JARAMILLO EZEQUIEL"
     },
     {
         "codigo":"226165",
@@ -957,7 +1195,9 @@
         "documento":"1025909412",
         "grupo":"TRANSICION A",
         "grado":"TRANSICIÓN",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MONTOYA ECHAVARRIA SALVADOR"
     },
     {
         "codigo":"223055",
@@ -965,7 +1205,9 @@
         "documento":"1020228180",
         "grupo":"OCTAVO B",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ECHAVARRIA MUÑOZ ISABELLA"
     },
     {
         "codigo":"226159",
@@ -973,7 +1215,9 @@
         "documento":"1025678788",
         "grupo":"PRE-JARDIN",
         "grado":"PRE-JARDIN",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":138.0,
+        "lista_hermanos":"DIAZ GAMBOA ISAAC, DIAZ GAMBOA MOISES UZZIEL"
     },
     {
         "codigo":"218113",
@@ -981,7 +1225,9 @@
         "documento":"1018254757",
         "grupo":"OCTAVO B",
         "grado":"OCTAVO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":457.0,
+        "lista_hermanos":"SAYAGO ACEVEDO SAMUEL, SAYAGO ACEVEDO ISABELLA"
     },
     {
         "codigo":"215019",
@@ -989,7 +1235,9 @@
         "documento":"1020226198",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":200.0,
+        "lista_hermanos":"GONZALEZ BEDOYA GRACIA, GONZALEZ BEDOYA JUANITA"
     },
     {
         "codigo":"217041",
@@ -997,7 +1245,9 @@
         "documento":"1016601695",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":393.0,
+        "lista_hermanos":"RAMIREZ AVILA SARA, RAMIREZ AVILA DANIEL"
     },
     {
         "codigo":"222046",
@@ -1005,7 +1255,9 @@
         "documento":"1020234393",
         "grupo":"CUARTO A",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GARCIA CARMONA LUCAS"
     },
     {
         "codigo":"223059",
@@ -1013,7 +1265,9 @@
         "documento":"1036454797",
         "grupo":"NOVENO B",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RIVERA LOPEZ LUCIANA"
     },
     {
         "codigo":"221097",
@@ -1021,7 +1275,9 @@
         "documento":"1192469248",
         "grupo":"SEGUNDO A",
         "grado":"SEGUNDO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":5.0,
+        "lista_hermanos":"AGUIRRE GOMEZ SUSANA, AGUIRRE GOMEZ ARIANA"
     },
     {
         "codigo":"226101",
@@ -1029,7 +1285,9 @@
         "documento":"1020241729",
         "grupo":"PRE-JARDIN",
         "grado":"PRE-JARDIN",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":44.0,
+        "lista_hermanos":"BENITEZ ZAPATA ABIGAIL, BENITEZ ZAPATA CALEB"
     },
     {
         "codigo":"217025",
@@ -1037,7 +1295,9 @@
         "documento":"1034924334",
         "grupo":"SEPTIMO B",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"VELEZ MEDINA DANIELA"
     },
     {
         "codigo":"226186",
@@ -1045,7 +1305,9 @@
         "documento":"1025905107",
         "grupo":"TERCERO B",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"BETANCUR HENAO PABLO JOSE"
     },
     {
         "codigo":"213065",
@@ -1053,7 +1315,9 @@
         "documento":"1020225476",
         "grupo":"ONCE B",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MARTINEZ CORREA TOMAS"
     },
     {
         "codigo":"224023",
@@ -1061,7 +1325,9 @@
         "documento":"1023544303",
         "grupo":"TERCERO A",
         "grado":"TERCERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":287.0,
+        "lista_hermanos":"MEJIA ALVAREZ ISABELLA, MEJIA ALVAREZ JOSÚE"
     },
     {
         "codigo":"225073",
@@ -1069,7 +1335,9 @@
         "documento":"1020326263",
         "grupo":"SEGUNDO B",
         "grado":"SEGUNDO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"HERRERA CORREA NICOLAS"
     },
     {
         "codigo":"218070",
@@ -1077,7 +1345,9 @@
         "documento":"1021930658",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"SANCHEZ ORTEGA SUSANA"
     },
     {
         "codigo":"217056",
@@ -1085,7 +1355,9 @@
         "documento":"1023641376",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CANO SIERRA ISAAC"
     },
     {
         "codigo":"225031",
@@ -1093,7 +1365,9 @@
         "documento":"1023648346",
         "grupo":"SEXTO B",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PEREZ CORTES SARA"
     },
     {
         "codigo":"223106",
@@ -1101,7 +1375,9 @@
         "documento":"1022155649",
         "grupo":"OCTAVO A",
         "grado":"OCTAVO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":58.0,
+        "lista_hermanos":"BUSTOS SEPULVEDA EMANUEL, BUSTOS SEPULVEDA SAMUEL"
     },
     {
         "codigo":"216010",
@@ -1109,7 +1385,9 @@
         "documento":"1022150058",
         "grupo":"ONCE A",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ORTIZ MONSALVE SEBASTIAN"
     },
     {
         "codigo":"226138",
@@ -1117,7 +1395,9 @@
         "documento":"1025908078",
         "grupo":"PRIMERO A",
         "grado":"PRIMERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ASPRILLA ESCOBAR VALERY NAHIARA"
     },
     {
         "codigo":"223070",
@@ -1125,7 +1405,9 @@
         "documento":"1035424821",
         "grupo":"ONCE A",
         "grado":"ONCE",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":20.0,
+        "lista_hermanos":"ARANGO SALAZAR LUCIANA, ARANGO SALAZAR XIMENA"
     },
     {
         "codigo":"223116",
@@ -1133,7 +1415,9 @@
         "documento":"1011518615",
         "grupo":"CUARTO B",
         "grado":"CUARTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":332.0,
+        "lista_hermanos":"ORTEGA ZABALA ABIGAIL, ORTEGA ZABALA HERI THOMAS"
     },
     {
         "codigo":"221072",
@@ -1141,7 +1425,9 @@
         "documento":"1018253841",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MENDOZA ALVAREZ ABIGAIL"
     },
     {
         "codigo":"226144",
@@ -1149,7 +1435,9 @@
         "documento":"1011412933",
         "grupo":"CUARTO A",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"FLOREZ PUERTA SOFIA"
     },
     {
         "codigo":"217004",
@@ -1157,7 +1445,9 @@
         "documento":"1025899794",
         "grupo":"SEPTIMO B",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ZULETA HENAO FEBE"
     },
     {
         "codigo":"215006",
@@ -1165,7 +1455,9 @@
         "documento":"1195213635",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":399.0,
+        "lista_hermanos":"RESTREPO CADAVID EMANUEL, RESTREPO CADAVID ISABELA"
     },
     {
         "codigo":"213055",
@@ -1173,7 +1465,9 @@
         "documento":"1020225453",
         "grupo":"ONCE A",
         "grado":"ONCE",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":177.0,
+        "lista_hermanos":"GARCIA VELEZ ISABELLA, GARCIA VELEZ LUCAS"
     },
     {
         "codigo":"218017",
@@ -1181,7 +1475,9 @@
         "documento":"1025896216",
         "grupo":"DECIMO A",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MARIN DURANGO EMMANUEL"
     },
     {
         "codigo":"226104",
@@ -1189,7 +1485,9 @@
         "documento":"1023561258",
         "grupo":"TRANSICION A",
         "grado":"TRANSICIÓN",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"LOPEZ MARROQUIN JOAQUIN"
     },
     {
         "codigo":"220040",
@@ -1197,7 +1495,9 @@
         "documento":"1020317655",
         "grupo":"SEPTIMO B",
         "grado":"SEPTIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":33.0,
+        "lista_hermanos":"ARTUNDUAGA BURGOS SARAHY, ARTUNDUAGA BURGOS EMMANUEL, ARTUNDUAGA BURGOS ISAAC"
     },
     {
         "codigo":"221007",
@@ -1205,7 +1505,9 @@
         "documento":"1018247480",
         "grupo":"ONCE A",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CALLE RAMIREZ ANA SOFIA"
     },
     {
         "codigo":"215023",
@@ -1213,7 +1515,9 @@
         "documento":"1032018082",
         "grupo":"ONCE B",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CORTES MARIN ISABELLA"
     },
     {
         "codigo":"223225",
@@ -1221,7 +1525,9 @@
         "documento":"1011413620",
         "grupo":"CUARTO A",
         "grado":"CUARTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":253.0,
+        "lista_hermanos":"LOPEZ GALVIS SAMUEL DE JESUS, LOPEZ GALVIS SOFIA"
     },
     {
         "codigo":"221022",
@@ -1229,7 +1535,9 @@
         "documento":"1021937032",
         "grupo":"QUINTO C",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PINEDA ALARCON ISMAEL"
     },
     {
         "codigo":"222067",
@@ -1237,7 +1545,9 @@
         "documento":"1020321633",
         "grupo":"QUINTO C",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GONZALEZ GAMBOA JULIETA"
     },
     {
         "codigo":"225009",
@@ -1245,7 +1555,9 @@
         "documento":"1035013843",
         "grupo":"SEGUNDO B",
         "grado":"SEGUNDO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PELAEZ ECHAVARRIA VALERY"
     },
     {
         "codigo":"221054",
@@ -1253,7 +1565,9 @@
         "documento":"1021932885",
         "grupo":"OCTAVO A",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CORENA CORRALES ISAIAS"
     },
     {
         "codigo":"226151",
@@ -1261,7 +1575,9 @@
         "documento":"1036950965",
         "grupo":"OCTAVO A",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GARRO CUARTAS JERONIMO"
     },
     {
         "codigo":"223103",
@@ -1269,7 +1585,9 @@
         "documento":"1018271176",
         "grupo":"SEGUNDO B",
         "grado":"SEGUNDO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":457.0,
+        "lista_hermanos":"SAYAGO ACEVEDO SAMUEL, SAYAGO ACEVEDO ISABELLA"
     },
     {
         "codigo":"221024",
@@ -1277,7 +1595,9 @@
         "documento":"1033266227",
         "grupo":"QUINTO B",
         "grado":"QUINTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":357.0,
+        "lista_hermanos":"PEREZ BOTERO MARIANGEL, PEREZ BOTERO HELENA"
     },
     {
         "codigo":"226135",
@@ -1285,7 +1605,9 @@
         "documento":"1020239311",
         "grupo":"PRIMERO B",
         "grado":"PRIMERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RAMIREZ PINZÓN JERONIMO"
     },
     {
         "codigo":"226107",
@@ -1293,7 +1615,9 @@
         "documento":"1021948318",
         "grupo":"TRANSICION A",
         "grado":"TRANSICIÓN",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"HENAO CESPEDES ANA SOFIA"
     },
     {
         "codigo":"222049",
@@ -1301,7 +1625,9 @@
         "documento":"1020322501",
         "grupo":"QUINTO C",
         "grado":"QUINTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":33.0,
+        "lista_hermanos":"ARTUNDUAGA BURGOS SARAHY, ARTUNDUAGA BURGOS EMMANUEL, ARTUNDUAGA BURGOS ISAAC"
     },
     {
         "codigo":"226105",
@@ -1309,7 +1635,9 @@
         "documento":"1192469988",
         "grupo":"TRANSICION A",
         "grado":"TRANSICIÓN",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PEREZ RAIGOZA ELENA"
     },
     {
         "codigo":"217065",
@@ -1317,7 +1645,9 @@
         "documento":"1023646368",
         "grupo":"SEPTIMO B",
         "grado":"SEPTIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":489.0,
+        "lista_hermanos":"TORRES VALENCIA EMILIANO, TORRES VALENCIA ANA SOFIA"
     },
     {
         "codigo":"224040",
@@ -1325,7 +1655,9 @@
         "documento":"1032028527",
         "grupo":"QUINTO C",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MORENO CARDOZO LUCIANA"
     },
     {
         "codigo":"214062",
@@ -1333,7 +1665,9 @@
         "documento":"1038871132",
         "grupo":"ONCE A",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"OSPINA TUBERQUIA MIGUEL ANGEL"
     },
     {
         "codigo":"224126",
@@ -1341,7 +1675,9 @@
         "documento":"1032187811",
         "grupo":"SEXTO A",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"BETANCUR BUENAÑO VALERIA"
     },
     {
         "codigo":"219017",
@@ -1349,7 +1685,9 @@
         "documento":"1033494734",
         "grupo":"OCTAVO B",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PATIÑO CASTRILLON DIEGO"
     },
     {
         "codigo":"225012",
@@ -1357,7 +1695,9 @@
         "documento":"1017941668",
         "grupo":"SEGUNDO A",
         "grado":"SEGUNDO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MARIN MARIN MIKE"
     },
     {
         "codigo":"225087",
@@ -1365,7 +1705,9 @@
         "documento":"1023548780",
         "grupo":"PRIMERO B",
         "grado":"PRIMERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CHAVARRIAGA QUINTERO SALOME"
     },
     {
         "codigo":"223119",
@@ -1373,7 +1715,9 @@
         "documento":"1022161347",
         "grupo":"CUARTO A",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GOMEZ CASTIBLANCO MATIAS"
     },
     {
         "codigo":"222004",
@@ -1381,7 +1725,9 @@
         "documento":"1023550065",
         "grupo":"SEGUNDO B",
         "grado":"SEGUNDO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CUARTAS OSORIO ISAAC"
     },
     {
         "codigo":"217049",
@@ -1389,7 +1735,9 @@
         "documento":"1035003747",
         "grupo":"SEPTIMO B",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CUERVO CONSUEGRA TAMARA"
     },
     {
         "codigo":"220016",
@@ -1397,7 +1745,9 @@
         "documento":"1129585316",
         "grupo":"SEPTIMO B",
         "grado":"SEPTIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":101.0,
+        "lista_hermanos":"CHICA DIAZ ANA SOFIA, CHICA DIAZ MARIAH JOSE"
     },
     {
         "codigo":"215038",
@@ -1405,7 +1755,9 @@
         "documento":"1027810014",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MEDINA ALZATE EMMANUEL"
     },
     {
         "codigo":"223099",
@@ -1413,7 +1765,9 @@
         "documento":"1032021599",
         "grupo":"DECIMO A",
         "grado":"DÉCIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":471.0,
+        "lista_hermanos":"SULBARAN VILORIA ANA SOFIA, SULBARAN VILORIA MARIANA"
     },
     {
         "codigo":"223084",
@@ -1421,7 +1775,9 @@
         "documento":"1018258929",
         "grupo":"SEXTO B",
         "grado":"SEXTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":233.0,
+        "lista_hermanos":"JARAMILLO CARRANZA SANTIAGO, JARAMILLO CARRANZA CAMILA"
     },
     {
         "codigo":"223078",
@@ -1429,7 +1785,9 @@
         "documento":"1011515041",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CALLE ORTIZ DANYA"
     },
     {
         "codigo":"221091",
@@ -1437,7 +1795,9 @@
         "documento":"1025901451",
         "grupo":"SEXTO B",
         "grado":"SEXTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":277.0,
+        "lista_hermanos":"MARTINEZ ALVAREZ DANIELLA, MARTINEZ ALVAREZ THIAGO"
     },
     {
         "codigo":"226155",
@@ -1445,7 +1805,9 @@
         "documento":"1023566001",
         "grupo":"PRE-JARDIN",
         "grado":"PRE-JARDIN",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"SANTA CUSPOCA SAMUEL"
     },
     {
         "codigo":"225043",
@@ -1453,7 +1815,9 @@
         "documento":"1025906625",
         "grupo":"SEGUNDO A",
         "grado":"SEGUNDO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":389.0,
+        "lista_hermanos":"QUINTERO CAMARGO MARÍA JOSÉ, QUINTERO CAMARGO EMILIANO"
     },
     {
         "codigo":"225014",
@@ -1461,7 +1825,9 @@
         "documento":"1031943917",
         "grupo":"SEGUNDO A",
         "grado":"SEGUNDO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":438.0,
+        "lista_hermanos":"RUIZ URQUIJO VIOLETA, RUIZ URQUIJO MARTIN"
     },
     {
         "codigo":"225085",
@@ -1469,7 +1835,9 @@
         "documento":"1192469448",
         "grupo":"SEGUNDO B",
         "grado":"SEGUNDO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MARQUEZ MORA EMILIA"
     },
     {
         "codigo":"218027",
@@ -1477,7 +1845,9 @@
         "documento":"1035001646",
         "grupo":"OCTAVO B",
         "grado":"OCTAVO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":425.0,
+        "lista_hermanos":"RUEDA ALVAREZ JULIETA, RUEDA ALVAREZ JOSUE"
     },
     {
         "codigo":"225054",
@@ -1485,7 +1855,9 @@
         "documento":"1023542563",
         "grupo":"TERCERO A",
         "grado":"TERCERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":310.0,
+        "lista_hermanos":"MONTOYA SERRANO ANDRES, MONTOYA SERRANO ISAAC"
     },
     {
         "codigo":"217064",
@@ -1493,7 +1865,9 @@
         "documento":"1023642025",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"NORIEGA GIL SUSANA"
     },
     {
         "codigo":"226187",
@@ -1501,7 +1875,9 @@
         "documento":"1050921406",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":154.0,
+        "lista_hermanos":"FABIAN JIMENEZ MELANY PATRICIA, FABIAN JIMENEZ DULLIAM FERNEY"
     },
     {
         "codigo":"220002",
@@ -1509,7 +1885,9 @@
         "documento":"1096705038",
         "grupo":"QUINTO A",
         "grado":"QUINTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":413.0,
+        "lista_hermanos":"RIZO PAEZ DAVID ARMANDO, RIZO PAEZ ELISA VICTORIA"
     },
     {
         "codigo":"216086",
@@ -1517,7 +1895,9 @@
         "documento":"1025894243",
         "grupo":"ONCE A",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GUTIERREZ CIRO SEBASTIAN"
     },
     {
         "codigo":"222001",
@@ -1525,7 +1905,9 @@
         "documento":"1018269052",
         "grupo":"TERCERO B",
         "grado":"TERCERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":205.0,
+        "lista_hermanos":"GUETTE ORTIZ NORAH ISABELLA, GUETTE ORTIZ ASHLEY CAROLINA"
     },
     {
         "codigo":"224065",
@@ -1533,7 +1915,9 @@
         "documento":"1042153354",
         "grupo":"DECIMO A",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ZAPATA OCHOA MARIANGEL"
     },
     {
         "codigo":"217092",
@@ -1541,7 +1925,9 @@
         "documento":"1020118802",
         "grupo":"NOVENO B",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"OSPINA ARISTIZABAL SANTIAGO"
     },
     {
         "codigo":"216026",
@@ -1549,7 +1935,9 @@
         "documento":"1027662364",
         "grupo":"ONCE B",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MORALES GARCIA JHONATAN"
     },
     {
         "codigo":"223057",
@@ -1557,7 +1945,9 @@
         "documento":"1020227680",
         "grupo":"NOVENO B",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CASTAÑEDA GIL VALERIA"
     },
     {
         "codigo":"226123",
@@ -1565,7 +1955,9 @@
         "documento":"1035008064",
         "grupo":"CUARTO A",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CARTAGENA ALVAREZ NICOLAS"
     },
     {
         "codigo":"224003",
@@ -1573,7 +1965,9 @@
         "documento":"1031944120",
         "grupo":"PRIMERO B",
         "grado":"PRIMERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":196.0,
+        "lista_hermanos":"GOMEZ ACOSTA EMILY, GOMEZ ACOSTA GRACE"
     },
     {
         "codigo":"221017",
@@ -1581,7 +1975,9 @@
         "documento":"1013356816",
         "grupo":"QUINTO C",
         "grado":"QUINTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":327.0,
+        "lista_hermanos":"OCHOA HERRERA MICHELLE, OCHOA HERRERA SARA"
     },
     {
         "codigo":"225058",
@@ -1589,7 +1985,9 @@
         "documento":"1011594330",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"LUJAN GARCIA MATHIAS"
     },
     {
         "codigo":"216091",
@@ -1597,7 +1995,9 @@
         "documento":"1032023061",
         "grupo":"NOVENO B",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RODRIGUEZ BOLIVAR IAN SANTIAGO"
     },
     {
         "codigo":"216067",
@@ -1605,7 +2005,9 @@
         "documento":"1013350043",
         "grupo":"NOVENO B",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"LUNA RINCON JUAN SEBASTIAN"
     },
     {
         "codigo":"226113",
@@ -1613,7 +2015,9 @@
         "documento":"1025908734",
         "grupo":"PRIMERO B",
         "grado":"PRIMERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":496.0,
+        "lista_hermanos":"VANEGAS CANO LUCIANA, VANEGAS CANO MATIAS"
     },
     {
         "codigo":"225080",
@@ -1621,7 +2025,9 @@
         "documento":"1025906150",
         "grupo":"SEGUNDO B",
         "grado":"SEGUNDO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"HINCAPIE ROSALES JOSE RICARDO"
     },
     {
         "codigo":"217088",
@@ -1629,7 +2035,9 @@
         "documento":"1018248214",
         "grupo":"ONCE A",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GOMEZ BUITRAGO MARIANGEL"
     },
     {
         "codigo":"225072",
@@ -1637,7 +2045,9 @@
         "documento":"1023655835",
         "grupo":"SEGUNDO A",
         "grado":"SEGUNDO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ZAPATA ECHEVERRY ABIGAIL"
     },
     {
         "codigo":"224082",
@@ -1645,7 +2055,9 @@
         "documento":"1027664379",
         "grupo":"TERCERO B",
         "grado":"TERCERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":383.0,
+        "lista_hermanos":"PRIETO ALBÁN MATHÍAS, PRIETO ALBÁN ISAAC"
     },
     {
         "codigo":"225007",
@@ -1653,7 +2065,9 @@
         "documento":"1031945501",
         "grupo":"PRIMERO B",
         "grado":"PRIMERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ZAPATA MARIN ANTHONY"
     },
     {
         "codigo":"222072",
@@ -1661,7 +2075,9 @@
         "documento":"1038873057",
         "grupo":"SEPTIMO B",
         "grado":"SEPTIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":150.0,
+        "lista_hermanos":"ESCALANTE MARTINEZ SAMUEL, ESCALANTE MARTINEZ SARA"
     },
     {
         "codigo":"218100",
@@ -1669,7 +2085,9 @@
         "documento":"1017935529",
         "grupo":"OCTAVO A",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RUIZ HERRERA MARIA ANTONIA"
     },
     {
         "codigo":"225078",
@@ -1677,7 +2095,9 @@
         "documento":"1041534963",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"FUERTE SANCHEZ LAURA GIANELLA"
     },
     {
         "codigo":"221047",
@@ -1685,7 +2105,9 @@
         "documento":"1020308169",
         "grupo":"DECIMO A",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MANCO FONNEGRA SAMUEL"
     },
     {
         "codigo":"221025",
@@ -1693,7 +2115,9 @@
         "documento":"1037130310",
         "grupo":"QUINTO A",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CARDENAS MARTINEZ CRISTIAN MATHIAS"
     },
     {
         "codigo":"224022",
@@ -1701,7 +2125,9 @@
         "documento":"1023544302",
         "grupo":"TERCERO A",
         "grado":"TERCERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":287.0,
+        "lista_hermanos":"MEJIA ALVAREZ ISABELLA, MEJIA ALVAREZ JOSÚE"
     },
     {
         "codigo":"217044",
@@ -1709,7 +2135,9 @@
         "documento":"1034998992",
         "grupo":"NOVENO B",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ZULUAGA JARAMILLO SAMUEL"
     },
     {
         "codigo":"221079",
@@ -1717,7 +2145,9 @@
         "documento":"1036457845",
         "grupo":"QUINTO A",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MUNERA CEBALLOS ISABEL"
     },
     {
         "codigo":"217118",
@@ -1725,7 +2155,9 @@
         "documento":"1032020916",
         "grupo":"DECIMO A",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MENESES JIMENEZ MARIANGEL"
     },
     {
         "codigo":"213072",
@@ -1733,7 +2165,9 @@
         "documento":"1033491959",
         "grupo":"ONCE B",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CIFUENTES RIASCO DANNA"
     },
     {
         "codigo":"221032",
@@ -1741,7 +2175,9 @@
         "documento":"1025664447",
         "grupo":"NOVENO B",
         "grado":"NOVENO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":72.0,
+        "lista_hermanos":"CARDENAS FRANCO DAVID, CARDENAS FRANCO FELIPE"
     },
     {
         "codigo":"223029",
@@ -1749,7 +2185,9 @@
         "documento":"1021941636",
         "grupo":"CUARTO B",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ROJAS JIMENEZ SOFIA"
     },
     {
         "codigo":"224030",
@@ -1757,7 +2195,9 @@
         "documento":"1013362371",
         "grupo":"TERCERO A",
         "grado":"TERCERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":175.0,
+        "lista_hermanos":"GARCIA RAMIREZ THOMÁS, GARCIA RAMIREZ NICOLAS"
     },
     {
         "codigo":"225044",
@@ -1765,7 +2205,9 @@
         "documento":"1035013037",
         "grupo":"SEGUNDO B",
         "grado":"SEGUNDO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":69.0,
+        "lista_hermanos":"CANO MUÑOZ AGUSTIN, CANO MUÑOZ EMILIA"
     },
     {
         "codigo":"226124",
@@ -1773,7 +2215,9 @@
         "documento":"1020232647",
         "grupo":"SEXTO A",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PEREZ PEÑA DANIEL"
     },
     {
         "codigo":"221096",
@@ -1781,7 +2225,9 @@
         "documento":"1033204262",
         "grupo":"SEGUNDO A",
         "grado":"SEGUNDO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":328.0,
+        "lista_hermanos":"OROZCO BUSTAMANTE MARCOS, OROZCO BUSTAMANTE GABRIELA"
     },
     {
         "codigo":"222005",
@@ -1789,7 +2235,9 @@
         "documento":"1023545013",
         "grupo":"TERCERO B",
         "grado":"TERCERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":357.0,
+        "lista_hermanos":"PEREZ BOTERO MARIANGEL, PEREZ BOTERO HELENA"
     },
     {
         "codigo":"225048",
@@ -1797,7 +2245,9 @@
         "documento":"1025898855",
         "grupo":"SEPTIMO B",
         "grado":"SEPTIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":389.0,
+        "lista_hermanos":"QUINTERO CAMARGO MARÍA JOSÉ, QUINTERO CAMARGO EMILIANO"
     },
     {
         "codigo":"224120",
@@ -1805,7 +2255,9 @@
         "documento":"1108339053",
         "grupo":"QUINTO A",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RUIZ HINCAPIE GERALDIN"
     },
     {
         "codigo":"225030",
@@ -1813,7 +2265,9 @@
         "documento":"1025902148",
         "grupo":"QUINTO B",
         "grado":"QUINTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":391.0,
+        "lista_hermanos":"QUIROGA LOPEZ ANDRES JUAN, QUIROGA LOPEZ VERONICA"
     },
     {
         "codigo":"224121",
@@ -1821,7 +2275,9 @@
         "documento":"1020317267",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CARO VIDAL ISABELLA"
     },
     {
         "codigo":"226126",
@@ -1829,7 +2285,9 @@
         "documento":"1013354146",
         "grupo":"SEXTO A",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"QUINTERO YEPES JERONIMO"
     },
     {
         "codigo":"224077",
@@ -1837,7 +2295,9 @@
         "documento":"1020238573",
         "grupo":"SEGUNDO B",
         "grado":"SEGUNDO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":430.0,
+        "lista_hermanos":"RUIZ CASTRO JOSUE, RUIZ CASTRO ANA ISABELLA"
     },
     {
         "codigo":"224032",
@@ -1845,7 +2305,9 @@
         "documento":"1031943765",
         "grupo":"TERCERO A",
         "grado":"TERCERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":9.0,
+        "lista_hermanos":"ALVAREZ CANO ELIZABETH, ALVAREZ CANO YERIK"
     },
     {
         "codigo":"225095",
@@ -1853,7 +2315,9 @@
         "documento":"1013359929",
         "grupo":"CUARTO A",
         "grado":"CUARTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":387.0,
+        "lista_hermanos":"QUEZADA HENAO MIGUEL ANGEL, QUEZADA HENAO DYLAN"
     },
     {
         "codigo":"215053",
@@ -1861,7 +2325,9 @@
         "documento":"1020304197",
         "grupo":"ONCE A",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CALLEJAS TAMAYO LUCIANA"
     },
     {
         "codigo":"226183",
@@ -1869,7 +2335,9 @@
         "documento":"1032035184",
         "grupo":"JARDIN",
         "grado":"JARDIN",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":137.0,
+        "lista_hermanos":"DIAZ DURANGO DOMINICK, DIAZ DURANGO DANNAH ISABEL"
     },
     {
         "codigo":"226161",
@@ -1877,7 +2345,9 @@
         "documento":"1125350283",
         "grupo":"TERCERO A",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"JIMENEZ OSORIO KAROLINE LOHANNA"
     },
     {
         "codigo":"224134",
@@ -1885,7 +2355,9 @@
         "documento":"1023552404",
         "grupo":"SEGUNDO A",
         "grado":"SEGUNDO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RUIZ JIMENEZ ISABEL"
     },
     {
         "codigo":"226119",
@@ -1893,7 +2365,9 @@
         "documento":"1192469644",
         "grupo":"PRIMERO A",
         "grado":"PRIMERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"TEJADA GARCIA SUSANA"
     },
     {
         "codigo":"222043",
@@ -1901,7 +2375,9 @@
         "documento":"1025904915",
         "grupo":"TERCERO B",
         "grado":"TERCERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":142.0,
+        "lista_hermanos":"DUQUE QUICENO MAHELET, DUQUE QUICENO MAIARA"
     },
     {
         "codigo":"216075",
@@ -1909,7 +2385,9 @@
         "documento":"1018246935",
         "grupo":"ONCE B",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"HERNANDEZ OCAMPO JOSUE"
     },
     {
         "codigo":"224138",
@@ -1917,7 +2395,9 @@
         "documento":"1013377365",
         "grupo":"TRANSICION A",
         "grado":"TRANSICIÓN",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":307.0,
+        "lista_hermanos":"MONTOYA CRUMB AVIVA FAITH, MONTOYA CRUMB SAMUEL ROBERT, MONTOYA CRUMB AHAVAH JOY"
     },
     {
         "codigo":"217019",
@@ -1925,7 +2405,9 @@
         "documento":"1031942217",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RUIZ CARVAJAL SAMUEL"
     },
     {
         "codigo":"223058",
@@ -1933,7 +2415,9 @@
         "documento":"1021930946",
         "grupo":"NOVENO B",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MEZA TOBON DEBANY ITZAYANA"
     },
     {
         "codigo":"217007",
@@ -1941,7 +2425,9 @@
         "documento":"1042587012",
         "grupo":"ONCE A",
         "grado":"ONCE",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":205.0,
+        "lista_hermanos":"GUETTE ORTIZ NORAH ISABELLA, GUETTE ORTIZ ASHLEY CAROLINA"
     },
     {
         "codigo":"215025",
@@ -1949,7 +2435,9 @@
         "documento":"1025895994",
         "grupo":"DECIMO A",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MEJIA DIAZ VALERIA"
     },
     {
         "codigo":"218064",
@@ -1957,7 +2445,9 @@
         "documento":"1025896754",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GALLO MIRANDA MATHIAS"
     },
     {
         "codigo":"216025",
@@ -1965,7 +2455,9 @@
         "documento":"1020226096",
         "grupo":"DECIMO A",
         "grado":"DÉCIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":285.0,
+        "lista_hermanos":"MAYORGA VALIENTE MIGUEL, MAYORGA VALIENTE EMILIANO"
     },
     {
         "codigo":"224083",
@@ -1973,7 +2465,9 @@
         "documento":"1037888238",
         "grupo":"CUARTO B",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GIRALDO AVENDAÑO SAMUEL"
     },
     {
         "codigo":"224029",
@@ -1981,7 +2475,9 @@
         "documento":"1020236262",
         "grupo":"TERCERO A",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"DAVID VARGAS PAULINA"
     },
     {
         "codigo":"224101",
@@ -1989,7 +2485,9 @@
         "documento":"1055524879",
         "grupo":"OCTAVO B",
         "grado":"OCTAVO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":100.0,
+        "lista_hermanos":"CHAVEZ PUCHE LUISA FERNANDA, CHAVEZ PUCHE ANA SOFIA"
     },
     {
         "codigo":"224005",
@@ -1997,7 +2495,9 @@
         "documento":"1021947937",
         "grupo":"PRIMERO A",
         "grado":"PRIMERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":185.0,
+        "lista_hermanos":"GIL BETANCUR TOMAS, GIL BETANCUR MARCOS"
     },
     {
         "codigo":"224109",
@@ -2005,7 +2505,9 @@
         "documento":"1201471037",
         "grupo":"CUARTO B",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PINEDA PEREZ EMILY MARIAN"
     },
     {
         "codigo":"222019",
@@ -2013,7 +2515,9 @@
         "documento":"1020322388",
         "grupo":"QUINTO A",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"VARGAS BEDOYA JULIETA"
     },
     {
         "codigo":"223075",
@@ -2021,7 +2525,9 @@
         "documento":"1017942242",
         "grupo":"PRIMERO A",
         "grado":"PRIMERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":283.0,
+        "lista_hermanos":"MASSO BLANDON SOFIA, MASSO BLANDON PABLO, MASSO BLANDON SARA"
     },
     {
         "codigo":"226136",
@@ -2029,7 +2535,9 @@
         "documento":"1027743151",
         "grupo":"TRANSICION A",
         "grado":"TRANSICIÓN",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ACEVEDO JORDAN GABRIELA"
     },
     {
         "codigo":"225071",
@@ -2037,7 +2545,9 @@
         "documento":"1018269058",
         "grupo":"SEGUNDO B",
         "grado":"SEGUNDO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MARIN ARIAS JUAN JOSE"
     },
     {
         "codigo":"215029",
@@ -2045,7 +2555,9 @@
         "documento":"1035978062",
         "grupo":"ONCE A",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"SIBAJA RICO JOSE DAVID"
     },
     {
         "codigo":"225019",
@@ -2053,7 +2565,9 @@
         "documento":"1025898909",
         "grupo":"SEPTIMO B",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PEREZ CORONADO DAVID"
     },
     {
         "codigo":"224078",
@@ -2061,7 +2575,9 @@
         "documento":"1035011673",
         "grupo":"TERCERO A",
         "grado":"TERCERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":425.0,
+        "lista_hermanos":"RUEDA ALVAREZ JULIETA, RUEDA ALVAREZ JOSUE"
     },
     {
         "codigo":"215106",
@@ -2069,7 +2585,9 @@
         "documento":"1018253851",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CONSUEGRA PERUGACHE MATEO"
     },
     {
         "codigo":"222063",
@@ -2077,7 +2595,9 @@
         "documento":"1035978921",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"SERNA RAMIREZ LUCIANA"
     },
     {
         "codigo":"215008",
@@ -2085,7 +2605,9 @@
         "documento":"1020226915",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":393.0,
+        "lista_hermanos":"RAMIREZ AVILA SARA, RAMIREZ AVILA DANIEL"
     },
     {
         "codigo":"222078",
@@ -2093,7 +2615,9 @@
         "documento":"1018261585",
         "grupo":"QUINTO C",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PEÑA GONZÁLEZ SOPHIA"
     },
     {
         "codigo":"214141",
@@ -2101,7 +2625,9 @@
         "documento":"1025895431",
         "grupo":"DECIMO A",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"VELEZ RAMIREZ ASHLEY NICOLE"
     },
     {
         "codigo":"224057",
@@ -2109,7 +2635,9 @@
         "documento":"1011406383",
         "grupo":"OCTAVO A",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CASTAÑO MARTINEZ SALOME"
     },
     {
         "codigo":"225011",
@@ -2117,7 +2645,9 @@
         "documento":"1129587160",
         "grupo":"SEGUNDO A",
         "grado":"SEGUNDO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":101.0,
+        "lista_hermanos":"CHICA DIAZ ANA SOFIA, CHICA DIAZ MARIAH JOSE"
     },
     {
         "codigo":"225020",
@@ -2125,7 +2655,9 @@
         "documento":"1025900156",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"AGUDELO LONDOÑO SHARON"
     },
     {
         "codigo":"221013",
@@ -2133,7 +2665,9 @@
         "documento":"1013355660",
         "grupo":"QUINTO B",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"IBARRA VILLAMIL JOSE ALEJANDRO"
     },
     {
         "codigo":"224075",
@@ -2141,7 +2675,9 @@
         "documento":"1025903349",
         "grupo":"CUARTO B",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RODRIGUEZ ORTEGA ARIANA"
     },
     {
         "codigo":"224100",
@@ -2149,7 +2685,9 @@
         "documento":"1055525062",
         "grupo":"SEXTO B",
         "grado":"SEXTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":100.0,
+        "lista_hermanos":"CHAVEZ PUCHE LUISA FERNANDA, CHAVEZ PUCHE ANA SOFIA"
     },
     {
         "codigo":"224048",
@@ -2157,7 +2695,9 @@
         "documento":"1034923818",
         "grupo":"SEPTIMO B",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"BRAVO ECHAVARRIA JACOBO"
     },
     {
         "codigo":"224095",
@@ -2165,7 +2705,9 @@
         "documento":"1192465118",
         "grupo":"DECIMO A",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MONTOYA CASTAÑEDA JERONIMO"
     },
     {
         "codigo":"221070",
@@ -2173,7 +2715,9 @@
         "documento":"1017936181",
         "grupo":"SEPTIMO B",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GALLEGO RUIZ MATIAS"
     },
     {
         "codigo":"215114",
@@ -2181,7 +2725,9 @@
         "documento":"1011515364",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CORTES BEDOYA SUSANA"
     },
     {
         "codigo":"224070",
@@ -2189,7 +2735,9 @@
         "documento":"1033188845",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"SOTO MEJIA RACHEL"
     },
     {
         "codigo":"225004",
@@ -2197,7 +2745,9 @@
         "documento":"1084470762",
         "grupo":"TRANSICION A",
         "grado":"TRANSICIÓN",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"DELGADO SANCHEZ SADE DAVID"
     },
     {
         "codigo":"225069",
@@ -2205,7 +2755,9 @@
         "documento":"1031832043",
         "grupo":"OCTAVO A",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"BERNAL MONROY DANIEL MATIAS"
     },
     {
         "codigo":"221085",
@@ -2213,7 +2765,9 @@
         "documento":"1011412659",
         "grupo":"QUINTO A",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"BUITRAGO CAICEDO JUAN SEBASTIAN"
     },
     {
         "codigo":"219025",
@@ -2221,7 +2775,9 @@
         "documento":"1020230331",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"FERRARO GALLEGO SANTIAGO"
     },
     {
         "codigo":"217048",
@@ -2229,7 +2785,9 @@
         "documento":"1011516886",
         "grupo":"SEPTIMO B",
         "grado":"SEPTIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":330.0,
+        "lista_hermanos":"ORREGO JIMENEZ BENJAMIN, ORREGO JIMENEZ ANALUCIA"
     },
     {
         "codigo":"222085",
@@ -2237,7 +2795,9 @@
         "documento":"1141719278",
         "grupo":"DECIMO A",
         "grado":"DÉCIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":458.0,
+        "lista_hermanos":"SEGURA RIOS SAMUEL FELIPE, SEGURA RIOS EMMANUEL DAVID"
     },
     {
         "codigo":"226132",
@@ -2245,7 +2805,9 @@
         "documento":"1021947459",
         "grupo":"PRIMERO B",
         "grado":"PRIMERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ECHEVERRI BENT AMANDA"
     },
     {
         "codigo":"221056",
@@ -2253,7 +2815,9 @@
         "documento":"1131226492",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GARCIA HERNANDEZ EMILIANO"
     },
     {
         "codigo":"223021",
@@ -2261,7 +2825,9 @@
         "documento":"1035012208",
         "grupo":"TERCERO A",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"VELEZ ROJAS ISAAC"
     },
     {
         "codigo":"224137",
@@ -2269,7 +2835,9 @@
         "documento":"1013370057",
         "grupo":"SEGUNDO B",
         "grado":"SEGUNDO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":307.0,
+        "lista_hermanos":"MONTOYA CRUMB AVIVA FAITH, MONTOYA CRUMB SAMUEL ROBERT, MONTOYA CRUMB AHAVAH JOY"
     },
     {
         "codigo":"216036",
@@ -2277,7 +2845,9 @@
         "documento":"1020226620",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"VILORIA QUICENO ISAAC"
     },
     {
         "codigo":"222032",
@@ -2285,7 +2855,9 @@
         "documento":"1032028471",
         "grupo":"QUINTO B",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PEREA SANCHEZ MAYCOL STIVEN"
     },
     {
         "codigo":"224118",
@@ -2293,7 +2865,9 @@
         "documento":"1025904957",
         "grupo":"TERCERO B",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"SANCHEZ JUSTINIANO JOSE DAVID"
     },
     {
         "codigo":"221045",
@@ -2301,7 +2875,9 @@
         "documento":"1035005666",
         "grupo":"SEXTO B",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MARTINEZ CIRO JOSUE"
     },
     {
         "codigo":"224079",
@@ -2309,7 +2885,9 @@
         "documento":"1025674341",
         "grupo":"TERCERO A",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"OTALORA RAMIREZ SOFIA"
     },
     {
         "codigo":"222007",
@@ -2317,7 +2895,9 @@
         "documento":"1020324934",
         "grupo":"TERCERO B",
         "grado":"TERCERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":283.0,
+        "lista_hermanos":"MASSO BLANDON SOFIA, MASSO BLANDON PABLO, MASSO BLANDON SARA"
     },
     {
         "codigo":"224127",
@@ -2325,7 +2905,9 @@
         "documento":"1020230893",
         "grupo":"SEXTO B",
         "grado":"SEXTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":423.0,
+        "lista_hermanos":"ROJAS MORALES ISAAC, ROJAS MORALES ISABEL"
     },
     {
         "codigo":"224139",
@@ -2333,7 +2915,9 @@
         "documento":"1056133411",
         "grupo":"QUINTO A",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PINZON RIOS LUNA"
     },
     {
         "codigo":"216016",
@@ -2341,7 +2925,9 @@
         "documento":"1186463656",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"VELASQUEZ OCAMPO MARIAPAZ"
     },
     {
         "codigo":"224062",
@@ -2349,7 +2935,9 @@
         "documento":"1192466042",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RODAS ESCUDERO MARIA CAMILA"
     },
     {
         "codigo":"225046",
@@ -2357,7 +2945,9 @@
         "documento":"1025904153",
         "grupo":"CUARTO B",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MAYA VELEZ MAXIMILIANO"
     },
     {
         "codigo":"218039",
@@ -2365,7 +2955,9 @@
         "documento":"1020227324",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":157.0,
+        "lista_hermanos":"FLOREZ GONZALEZ ISABEL, FLOREZ GONZALEZ SALOME"
     },
     {
         "codigo":"224046",
@@ -2373,7 +2965,9 @@
         "documento":"1021809371",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PALACIOS ORTIZ CELESTE"
     },
     {
         "codigo":"218038",
@@ -2381,7 +2975,9 @@
         "documento":"1021930575",
         "grupo":"NOVENO B",
         "grado":"NOVENO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":7.0,
+        "lista_hermanos":"ALARCON ALZATE SIMON, ALARCON ALZATE ISABELLA"
     },
     {
         "codigo":"222010",
@@ -2389,7 +2985,9 @@
         "documento":"1029302745",
         "grupo":"CUARTO A",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ACOSTA OTERO JERONIMO"
     },
     {
         "codigo":"224037",
@@ -2397,7 +2995,9 @@
         "documento":"1023652438",
         "grupo":"CUARTO B",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"VERA MONTOYA MARKOS"
     },
     {
         "codigo":"224072",
@@ -2405,7 +3005,9 @@
         "documento":"1018253395",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":243.0,
+        "lista_hermanos":"KRIM GOMEZ SUSANA SOFIA, KRIM GOMEZ JULIANA"
     },
     {
         "codigo":"220098",
@@ -2413,7 +3015,9 @@
         "documento":"1020309249",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ALVAREZ VALENCIA ANA ELISA"
     },
     {
         "codigo":"224012",
@@ -2421,7 +3025,9 @@
         "documento":"1022163975",
         "grupo":"SEGUNDO B",
         "grado":"SEGUNDO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"JARAMILLO GIRALDO JUANA"
     },
     {
         "codigo":"220028",
@@ -2429,7 +3035,9 @@
         "documento":"1025770324",
         "grupo":"SEXTO B",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MESA CARDONA MARIANGEL"
     },
     {
         "codigo":"224074",
@@ -2437,7 +3045,9 @@
         "documento":"1023540172",
         "grupo":"TERCERO B",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CARO SOTO SAMUEL"
     },
     {
         "codigo":"214072",
@@ -2445,7 +3055,9 @@
         "documento":"1021929142",
         "grupo":"DECIMO A",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"VARGAS WILCHES MARIA JOSE"
     },
     {
         "codigo":"222030",
@@ -2453,7 +3065,9 @@
         "documento":"1035007562",
         "grupo":"QUINTO B",
         "grado":"QUINTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":224.0,
+        "lista_hermanos":"HIGUITA NIÑO VALERIA, HIGUITA NIÑO BENJAMIN"
     },
     {
         "codigo":"222048",
@@ -2461,7 +3075,9 @@
         "documento":"1155716719",
         "grupo":"TERCERO A",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"DIAZ COSSIO CELESTE"
     },
     {
         "codigo":"223008",
@@ -2469,7 +3085,9 @@
         "documento":"1025906936",
         "grupo":"SEGUNDO B",
         "grado":"SEGUNDO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":142.0,
+        "lista_hermanos":"DUQUE QUICENO MAHELET, DUQUE QUICENO MAIARA"
     },
     {
         "codigo":"226179",
@@ -2477,7 +3095,9 @@
         "documento":"1049031394",
         "grupo":"CUARTO A",
         "grado":"CUARTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":154.0,
+        "lista_hermanos":"FABIAN JIMENEZ MELANY PATRICIA, FABIAN JIMENEZ DULLIAM FERNEY"
     },
     {
         "codigo":"225042",
@@ -2485,7 +3105,9 @@
         "documento":"1013371011",
         "grupo":"PRIMERO B",
         "grado":"PRIMERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":371.0,
+        "lista_hermanos":"PEÑA ISAZA RAFAEL, PEÑA ISAZA MIGUEL ANGEL"
     },
     {
         "codigo":"225005",
@@ -2493,7 +3115,9 @@
         "documento":"1021944352",
         "grupo":"PRIMERO A",
         "grado":"PRIMERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RIVERA MONTOYA EMILIANO"
     },
     {
         "codigo":"220046",
@@ -2501,7 +3125,9 @@
         "documento":"1037949326",
         "grupo":"SEXTO B",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"LUJAN SABOGAL MARIA CELESTE"
     },
     {
         "codigo":"219001",
@@ -2509,7 +3135,9 @@
         "documento":"1035007863",
         "grupo":"QUINTO C",
         "grado":"QUINTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":254.0,
+        "lista_hermanos":"LOPEZ GOMEZ JUAN FELIPE, LOPEZ GOMEZ LUCAS DAVID"
     },
     {
         "codigo":"214022",
@@ -2517,7 +3145,9 @@
         "documento":"1025656333",
         "grupo":"ONCE A",
         "grado":"ONCE",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":399.0,
+        "lista_hermanos":"RESTREPO CADAVID EMANUEL, RESTREPO CADAVID ISABELA"
     },
     {
         "codigo":"224004",
@@ -2525,7 +3155,9 @@
         "documento":"1031946360",
         "grupo":"PRIMERO A",
         "grado":"PRIMERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CARDONA BAENA AMELIA"
     },
     {
         "codigo":"226163",
@@ -2533,7 +3165,9 @@
         "documento":"1021940719",
         "grupo":"CUARTO B",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ARBELAEZ TORRES MAKSIMILIAN"
     },
     {
         "codigo":"223001",
@@ -2541,7 +3175,9 @@
         "documento":"1020327400",
         "grupo":"PRIMERO B",
         "grado":"PRIMERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":491.0,
+        "lista_hermanos":"URIBE PINEDA REBECCA, URIBE PINEDA RENATTA"
     },
     {
         "codigo":"223115",
@@ -2549,7 +3185,9 @@
         "documento":"1015194657",
         "grupo":"QUINTO C",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ALVAREZ TERAN JOSUE"
     },
     {
         "codigo":"225068",
@@ -2557,7 +3195,9 @@
         "documento":"1023647320",
         "grupo":"SEXTO B",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ORREGO ROJAS MIGUEL ANGEL"
     },
     {
         "codigo":"224069",
@@ -2565,7 +3205,9 @@
         "documento":"1192465340",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MUNIVE ECHEVERRI ARIADNA"
     },
     {
         "codigo":"223009",
@@ -2573,7 +3215,9 @@
         "documento":"1013364053",
         "grupo":"TERCERO B",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"HENAO PINILLA SIMON"
     },
     {
         "codigo":"221014",
@@ -2581,7 +3225,9 @@
         "documento":"1025770917",
         "grupo":"QUINTO B",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ARCIA PEREZ MARIA ANTONIA"
     },
     {
         "codigo":"221003",
@@ -2589,7 +3235,9 @@
         "documento":"1035006417",
         "grupo":"QUINTO A",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"BETANCUR ORTIZ ISABELLA"
     },
     {
         "codigo":"223056",
@@ -2597,7 +3245,9 @@
         "documento":"1020310168",
         "grupo":"OCTAVO A",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MALDONADO OSPINA MIGUEL ANGEL"
     },
     {
         "codigo":"226170",
@@ -2605,7 +3255,9 @@
         "documento":"1015197774",
         "grupo":"TRANSICION A",
         "grado":"TRANSICIÓN",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MOSQUERA MURIEL SALOME"
     },
     {
         "codigo":"214005",
@@ -2613,7 +3265,9 @@
         "documento":"1021928503",
         "grupo":"ONCE B",
         "grado":"ONCE",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":403.0,
+        "lista_hermanos":"RIAÑO ALZATE SANTIAGO, RIAÑO ALZATE FELIPE"
     },
     {
         "codigo":"225051",
@@ -2621,7 +3275,9 @@
         "documento":"1023554474",
         "grupo":"PRIMERO A",
         "grado":"PRIMERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":310.0,
+        "lista_hermanos":"MONTOYA SERRANO ANDRES, MONTOYA SERRANO ISAAC"
     },
     {
         "codigo":"225025",
@@ -2629,7 +3285,9 @@
         "documento":"1011400583",
         "grupo":"ONCE B",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"OCAÑA MUÑOZ ANDRES FELIPE"
     },
     {
         "codigo":"226116",
@@ -2637,7 +3295,9 @@
         "documento":"1023552316",
         "grupo":"PRIMERO A",
         "grado":"PRIMERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CAICEDO MARTINEZ EMMANUEL"
     },
     {
         "codigo":"224013",
@@ -2645,7 +3305,9 @@
         "documento":"1011519538",
         "grupo":"SEGUNDO A",
         "grado":"SEGUNDO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":28.0,
+        "lista_hermanos":"ARENAS CALDERON SALOMON, ARENAS CALDERON EVOLETH"
     },
     {
         "codigo":"225021",
@@ -2653,7 +3315,9 @@
         "documento":"1013465070",
         "grupo":"SEPTIMO B",
         "grado":"SEPTIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":113.0,
+        "lista_hermanos":"CORREA BOLAÑOS ISMAEL, CORREA BOLAÑOS JOSIAS"
     },
     {
         "codigo":"221010",
@@ -2661,7 +3325,9 @@
         "documento":"1013353521",
         "grupo":"SEXTO A",
         "grado":"SEXTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":175.0,
+        "lista_hermanos":"GARCIA RAMIREZ THOMÁS, GARCIA RAMIREZ NICOLAS"
     },
     {
         "codigo":"216019",
@@ -2669,7 +3335,9 @@
         "documento":"1192464743",
         "grupo":"ONCE B",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"HENAO RUA SARA"
     },
     {
         "codigo":"219060",
@@ -2677,7 +3345,9 @@
         "documento":"1020229348",
         "grupo":"OCTAVO A",
         "grado":"OCTAVO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":28.0,
+        "lista_hermanos":"ARENAS CALDERON SALOMON, ARENAS CALDERON EVOLETH"
     },
     {
         "codigo":"214048",
@@ -2685,7 +3355,9 @@
         "documento":"1011403264",
         "grupo":"DECIMO A",
         "grado":"DÉCIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":297.0,
+        "lista_hermanos":"MIRANDA FLOREZ MARIAJOSE, MIRANDA FLOREZ JOSUE DAVID"
     },
     {
         "codigo":"226111",
@@ -2693,7 +3365,9 @@
         "documento":"1023556336",
         "grupo":"PRIMERO A",
         "grado":"PRIMERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":44.0,
+        "lista_hermanos":"BENITEZ ZAPATA ABIGAIL, BENITEZ ZAPATA CALEB"
     },
     {
         "codigo":"226152",
@@ -2701,7 +3375,9 @@
         "documento":"1020226306",
         "grupo":"DECIMO A",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MUÑOZ ORREGO JULIETA"
     },
     {
         "codigo":"222084",
@@ -2709,7 +3385,9 @@
         "documento":"1141722491",
         "grupo":"SEXTO B",
         "grado":"SEXTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":458.0,
+        "lista_hermanos":"SEGURA RIOS SAMUEL FELIPE, SEGURA RIOS EMMANUEL DAVID"
     },
     {
         "codigo":"223104",
@@ -2717,7 +3395,9 @@
         "documento":"1023542861",
         "grupo":"TERCERO A",
         "grado":"TERCERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":162.0,
+        "lista_hermanos":"FRANCO ARROYAVE SAMUEL, FRANCO ARROYAVE BRISNEY SOFIA"
     },
     {
         "codigo":"226169",
@@ -2725,7 +3405,9 @@
         "documento":"1023595038",
         "grupo":"SEXTO B",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ISAZA ESPAÑA GUADALUPE"
     },
     {
         "codigo":"218005",
@@ -2733,7 +3415,9 @@
         "documento":"1033193469",
         "grupo":"OCTAVO A",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"HENAO SERNA CELESTE"
     },
     {
         "codigo":"219029",
@@ -2741,7 +3425,9 @@
         "documento":"1126251067",
         "grupo":"OCTAVO B",
         "grado":"OCTAVO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":501.0,
+        "lista_hermanos":"VARGAS RENDON SARA, VARGAS RENDON SIMON"
     },
     {
         "codigo":"218010",
@@ -2749,7 +3435,9 @@
         "documento":"1027663018",
         "grupo":"OCTAVO B",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"LOPERA PINO SIMON"
     },
     {
         "codigo":"226182",
@@ -2757,7 +3445,9 @@
         "documento":"1025776867",
         "grupo":"PRE-JARDIN",
         "grado":"PRE-JARDIN",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":307.0,
+        "lista_hermanos":"MONTOYA CRUMB AVIVA FAITH, MONTOYA CRUMB SAMUEL ROBERT, MONTOYA CRUMB AHAVAH JOY"
     },
     {
         "codigo":"222086",
@@ -2765,7 +3455,9 @@
         "documento":"1011410509",
         "grupo":"QUINTO B",
         "grado":"QUINTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":35.0,
+        "lista_hermanos":"ATEHORTUA QUINTERO MIGUEL ANGEL, ATEHORTUA QUINTERO SIMON"
     },
     {
         "codigo":"217125",
@@ -2773,7 +3465,9 @@
         "documento":"1034304812",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PERILLA CHICA ISABELLA"
     },
     {
         "codigo":"225098",
@@ -2781,7 +3475,9 @@
         "documento":"1127538440",
         "grupo":"NOVENO B",
         "grado":"NOVENO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":340.0,
+        "lista_hermanos":"OSPINA PEREZ SAMUEL, OSPINA PEREZ ISABELLA"
     },
     {
         "codigo":"221033",
@@ -2789,7 +3485,9 @@
         "documento":"1025664448",
         "grupo":"NOVENO B",
         "grado":"NOVENO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":72.0,
+        "lista_hermanos":"CARDENAS FRANCO DAVID, CARDENAS FRANCO FELIPE"
     },
     {
         "codigo":"217026",
@@ -2797,7 +3495,9 @@
         "documento":"1020307672",
         "grupo":"DECIMO A",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MUÑOZ VELLOJIN MATEO"
     },
     {
         "codigo":"224089",
@@ -2805,7 +3505,9 @@
         "documento":"1032025183",
         "grupo":"SEXTO B",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"LONDOÑO DUQUE MARIANGEL"
     },
     {
         "codigo":"224066",
@@ -2813,7 +3515,9 @@
         "documento":"1027662500",
         "grupo":"DECIMO A",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ARENAS ALVAREZ SARA"
     },
     {
         "codigo":"223064",
@@ -2821,7 +3525,9 @@
         "documento":"1025661510",
         "grupo":"DECIMO A",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"VANEGAS BRAN MARIA ANGEL"
     },
     {
         "codigo":"217082",
@@ -2829,7 +3535,9 @@
         "documento":"1192467255",
         "grupo":"NOVENO B",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"TANGARIFE ESCOBAR DANIEL"
     },
     {
         "codigo":"224080",
@@ -2837,7 +3545,9 @@
         "documento":"1023655377",
         "grupo":"TERCERO A",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GARCIA VALENCIA NICOLAS"
     },
     {
         "codigo":"221020",
@@ -2845,7 +3555,9 @@
         "documento":"1033198229",
         "grupo":"SEXTO B",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MARIN JIMENEZ LUCIANA"
     },
     {
         "codigo":"217023",
@@ -2853,7 +3565,9 @@
         "documento":"1027811523",
         "grupo":"OCTAVO A",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ESPINAL HURTADO LUCIANA"
     },
     {
         "codigo":"224061",
@@ -2861,7 +3575,9 @@
         "documento":"1020227988",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":188.0,
+        "lista_hermanos":"GIRALDO CASTRILLÓN GUADALUPE, GIRALDO CASTRILLÓN JULIETA"
     },
     {
         "codigo":"218055",
@@ -2869,7 +3585,9 @@
         "documento":"1018254830",
         "grupo":"OCTAVO A",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"LONDOÑO SANCHEZ ANTONIA"
     },
     {
         "codigo":"224009",
@@ -2877,7 +3595,9 @@
         "documento":"1020237589",
         "grupo":"SEGUNDO A",
         "grado":"SEGUNDO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":120.0,
+        "lista_hermanos":"CORREA RIOS MARTIN, CORREA RIOS SIMÓN"
     },
     {
         "codigo":"224058",
@@ -2885,7 +3605,9 @@
         "documento":"1011405972",
         "grupo":"OCTAVO B",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PIEDRAHITA BETANCUR ANA SOFIA"
     },
     {
         "codigo":"223061",
@@ -2893,7 +3615,9 @@
         "documento":"1025897379",
         "grupo":"NOVENO B",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GIRALDO GONZALEZ JERONIMO"
     },
     {
         "codigo":"225008",
@@ -2901,7 +3625,9 @@
         "documento":"1018273200",
         "grupo":"PRIMERO B",
         "grado":"PRIMERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":413.0,
+        "lista_hermanos":"RIZO PAEZ DAVID ARMANDO, RIZO PAEZ ELISA VICTORIA"
     },
     {
         "codigo":"219044",
@@ -2909,7 +3635,9 @@
         "documento":"1020314407",
         "grupo":"OCTAVO B",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CORREA HENAO SOFIA"
     },
     {
         "codigo":"223071",
@@ -2917,7 +3645,9 @@
         "documento":"1023635302",
         "grupo":"ONCE B",
         "grado":"ONCE",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":162.0,
+        "lista_hermanos":"FRANCO ARROYAVE SAMUEL, FRANCO ARROYAVE BRISNEY SOFIA"
     },
     {
         "codigo":"222039",
@@ -2925,7 +3655,9 @@
         "documento":"1025896033",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"QUIROZ SEÑA IVANA"
     },
     {
         "codigo":"217001",
@@ -2933,7 +3665,9 @@
         "documento":"1020308975",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"VILLANUEVA JULIO SAMUEL"
     },
     {
         "codigo":"221011",
@@ -2941,7 +3675,9 @@
         "documento":"1020319583",
         "grupo":"SEXTO A",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"FLOREZ HENAO STEFANY"
     },
     {
         "codigo":"218078",
@@ -2949,7 +3685,9 @@
         "documento":"1025897425",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CARDONA ZAPATA EMANUEL"
     },
     {
         "codigo":"216005",
@@ -2957,7 +3695,9 @@
         "documento":"1025897439",
         "grupo":"NOVENO B",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"TAMAYO HERNANDEZ DANIEL"
     },
     {
         "codigo":"223051",
@@ -2965,7 +3705,9 @@
         "documento":"1015077099",
         "grupo":"OCTAVO A",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CASTRILLON GARCIA VALERIA"
     },
     {
         "codigo":"223063",
@@ -2973,7 +3715,9 @@
         "documento":"1025895477",
         "grupo":"DECIMO A",
         "grado":"DÉCIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":280.0,
+        "lista_hermanos":"MARTINEZ HERRERA LUCIANA, MARTINEZ HERRERA JUAN DIEGO"
     },
     {
         "codigo":"223042",
@@ -2981,7 +3725,9 @@
         "documento":"1020323596",
         "grupo":"CUARTO B",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CHAVERRA GOMEZ REBECA"
     },
     {
         "codigo":"220045",
@@ -2989,7 +3735,9 @@
         "documento":"1020316249",
         "grupo":"SEPTIMO B",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PEREZ MARIN ELISABET"
     },
     {
         "codigo":"222064",
@@ -2997,7 +3745,9 @@
         "documento":"1013636424",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GONZALEZ RODRIGUEZ HANIEL ADRIAN"
     },
     {
         "codigo":"224096",
@@ -3005,7 +3755,9 @@
         "documento":"1021927279",
         "grupo":"ONCE B",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ALVAREZ ROJAS JANNA"
     },
     {
         "codigo":"220019",
@@ -3013,7 +3765,9 @@
         "documento":"1011410285",
         "grupo":"SEXTO B",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"LEGARDA GIRALDO MATIAS"
     },
     {
         "codigo":"219061",
@@ -3021,7 +3775,9 @@
         "documento":"1013349020",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":181.0,
+        "lista_hermanos":"GAVIRIA CESPEDES BRENDA, GAVIRIA CESPEDES EVELYN"
     },
     {
         "codigo":"218020",
@@ -3029,7 +3785,9 @@
         "documento":"1034997693",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ZULUAGA GARCIA SARA"
     },
     {
         "codigo":"223046",
@@ -3037,7 +3795,9 @@
         "documento":"1021936799",
         "grupo":"SEXTO B",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"VELEZ MEJIA SARA"
     },
     {
         "codigo":"225035",
@@ -3045,7 +3805,9 @@
         "documento":"1025907973",
         "grupo":"PRIMERO B",
         "grado":"PRIMERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":62.0,
+        "lista_hermanos":"CALLE CASTAÑO EMMANUEL, CALLE CASTAÑO MARIANGEL"
     },
     {
         "codigo":"216033",
@@ -3053,7 +3815,9 @@
         "documento":"1022156003",
         "grupo":"OCTAVO A",
         "grado":"OCTAVO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":208.0,
+        "lista_hermanos":"GUZMAN HERRERA EMANUEL, GUZMAN HERRERA SUSANA, GUZMAN HERRERA JUANA"
     },
     {
         "codigo":"223045",
@@ -3061,7 +3825,9 @@
         "documento":"1021939327",
         "grupo":"QUINTO A",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PICO ARREDONDO SAMUEL DAVID"
     },
     {
         "codigo":"221051",
@@ -3069,7 +3835,9 @@
         "documento":"1032024288",
         "grupo":"OCTAVO B",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"HURTADO MORENO FAILYN LICETH"
     },
     {
         "codigo":"216063",
@@ -3077,7 +3845,9 @@
         "documento":"1013351247",
         "grupo":"OCTAVO A",
         "grado":"OCTAVO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":297.0,
+        "lista_hermanos":"MIRANDA FLOREZ MARIAJOSE, MIRANDA FLOREZ JOSUE DAVID"
     },
     {
         "codigo":"225036",
@@ -3085,7 +3855,9 @@
         "documento":"1025908376",
         "grupo":"PRIMERO B",
         "grado":"PRIMERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"LEÓN VERGARA JACOBO"
     },
     {
         "codigo":"221009",
@@ -3093,7 +3865,9 @@
         "documento":"1033192943",
         "grupo":"OCTAVO A",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CORREA CASTAÑO CHRISTOPHER"
     },
     {
         "codigo":"224021",
@@ -3101,7 +3875,9 @@
         "documento":"1023654324",
         "grupo":"TERCERO A",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PAREJA SALDARRIAGA MARIAM"
     },
     {
         "codigo":"221057",
@@ -3109,7 +3885,9 @@
         "documento":"1025667353",
         "grupo":"SEPTIMO B",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PONCE VARGAS SAYRA"
     },
     {
         "codigo":"224108",
@@ -3117,7 +3895,9 @@
         "documento":"1011230940",
         "grupo":"QUINTO B",
         "grado":"QUINTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":512.0,
+        "lista_hermanos":"VENEGAS OROZCO SAMUEL, VENEGAS OROZCO LYAM DARIO"
     },
     {
         "codigo":"224076",
@@ -3125,7 +3905,9 @@
         "documento":"1023657966",
         "grupo":"PRIMERO A",
         "grado":"PRIMERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":304.0,
+        "lista_hermanos":"MONTERO BERRIO VALERIE, MONTERO BERRIO ESTEBAN"
     },
     {
         "codigo":"218047",
@@ -3133,7 +3915,9 @@
         "documento":"1025897533",
         "grupo":"OCTAVO B",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"BOHORQUEZ VERA JUAN ESTEBAN"
     },
     {
         "codigo":"218025",
@@ -3141,7 +3925,9 @@
         "documento":"1192467267",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"BETANCUR CARDONA SAMUEL"
     },
     {
         "codigo":"222014",
@@ -3149,7 +3935,9 @@
         "documento":"1025904747",
         "grupo":"CUARTO A",
         "grado":"CUARTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":420.0,
+        "lista_hermanos":"RODRIGUEZ RIVERA PABLO, RODRIGUEZ RIVERA ANA"
     },
     {
         "codigo":"224020",
@@ -3157,7 +3945,9 @@
         "documento":"1023543332",
         "grupo":"TERCERO A",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CORREA GALLEGO SAMUEL"
     },
     {
         "codigo":"218031",
@@ -3165,7 +3955,9 @@
         "documento":"1033190800",
         "grupo":"NOVENO B",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"USUGA HIDALGO JUAN SEBASTIAN"
     },
     {
         "codigo":"225097",
@@ -3173,7 +3965,9 @@
         "documento":"1021931737",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GIRALDO PEREZ ANA ISABEL"
     },
     {
         "codigo":"221095",
@@ -3181,7 +3975,9 @@
         "documento":"1020125747",
         "grupo":"CUARTO A",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ARIAS VALENCIA VIOLET"
     },
     {
         "codigo":"221080",
@@ -3189,7 +3985,9 @@
         "documento":"1020320395",
         "grupo":"SEXTO A",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PARADA PINEDA JUAN DAVID"
     },
     {
         "codigo":"224039",
@@ -3197,7 +3995,9 @@
         "documento":"1013357048",
         "grupo":"QUINTO B",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"HERRERA HIGUITA ANTONIA"
     },
     {
         "codigo":"219076",
@@ -3205,7 +4005,9 @@
         "documento":"1025897161",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":244.0,
+        "lista_hermanos":"LARGO DIAZ JUAN SEBASTIAN, LARGO DIAZ STEPHANIE"
     },
     {
         "codigo":"225013",
@@ -3213,7 +4015,9 @@
         "documento":"1013466602",
         "grupo":"SEGUNDO A",
         "grado":"SEGUNDO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":113.0,
+        "lista_hermanos":"CORREA BOLAÑOS ISMAEL, CORREA BOLAÑOS JOSIAS"
     },
     {
         "codigo":"221077",
@@ -3221,7 +4025,9 @@
         "documento":"1043465872",
         "grupo":"SEXTO B",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MADERA MALDONADO LUCIANA"
     },
     {
         "codigo":"226109",
@@ -3229,7 +4035,9 @@
         "documento":"1018274619",
         "grupo":"TRANSICION A",
         "grado":"TRANSICIÓN",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"BEDOYA GARCIA JUANA VALENTINA"
     },
     {
         "codigo":"223025",
@@ -3237,7 +4045,9 @@
         "documento":"1035010800",
         "grupo":"TERCERO B",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MONTES AGUIRRE JERONIMO"
     },
     {
         "codigo":"226154",
@@ -3245,7 +4055,9 @@
         "documento":"1023646929",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"SANCHEZ VIDAL MARIANGEL"
     },
     {
         "codigo":"222027",
@@ -3253,7 +4065,9 @@
         "documento":"1020321755",
         "grupo":"QUINTO C",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"OROZCO VELEZ EMILIANO"
     },
     {
         "codigo":"220056",
@@ -3261,7 +4075,9 @@
         "documento":"1020227383",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GARZON MORENO CRISTIAN"
     },
     {
         "codigo":"226102",
@@ -3269,7 +4085,9 @@
         "documento":"1025678879",
         "grupo":"PRE-JARDIN",
         "grado":"PRE-JARDIN",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":328.0,
+        "lista_hermanos":"OROZCO BUSTAMANTE MARCOS, OROZCO BUSTAMANTE GABRIELA"
     },
     {
         "codigo":"224068",
@@ -3277,7 +4095,9 @@
         "documento":"1018249789",
         "grupo":"DECIMO A",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ARBOLEDA BASTOS XIMENA"
     },
     {
         "codigo":"224119",
@@ -3285,7 +4105,9 @@
         "documento":"1018250928",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RUEDA CARVAJAL GUADALUPE"
     },
     {
         "codigo":"224026",
@@ -3293,7 +4115,9 @@
         "documento":"1023539403",
         "grupo":"TERCERO A",
         "grado":"TERCERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":471.0,
+        "lista_hermanos":"SULBARAN VILORIA ANA SOFIA, SULBARAN VILORIA MARIANA"
     },
     {
         "codigo":"225003",
@@ -3301,7 +4125,9 @@
         "documento":"1022169517",
         "grupo":"JARDIN",
         "grado":"JARDIN",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RIOS MORALES LUCIANA"
     },
     {
         "codigo":"223038",
@@ -3309,7 +4135,9 @@
         "documento":"1035008500",
         "grupo":"CUARTO B",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"SANABRIA CARDONA SANTIAGO"
     },
     {
         "codigo":"226141",
@@ -3317,7 +4145,9 @@
         "documento":"1013353935",
         "grupo":"SEXTO A",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"LOPEZ LUNA MARIANGEL"
     },
     {
         "codigo":"225100",
@@ -3325,7 +4155,9 @@
         "documento":"1034403947",
         "grupo":"QUINTO A",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GIRALDO ESPINOSA VICTORIA"
     },
     {
         "codigo":"221063",
@@ -3333,7 +4165,9 @@
         "documento":"1020231885",
         "grupo":"SEXTO B",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"SANCHEZ OTALVARO GUADALUPE"
     },
     {
         "codigo":"222003",
@@ -3341,7 +4175,9 @@
         "documento":"1013369507",
         "grupo":"SEGUNDO B",
         "grado":"SEGUNDO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":177.0,
+        "lista_hermanos":"GARCIA VELEZ ISABELLA, GARCIA VELEZ LUCAS"
     },
     {
         "codigo":"225038",
@@ -3349,7 +4185,9 @@
         "documento":"1031948017",
         "grupo":"JARDIN",
         "grado":"JARDIN",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PEREZ TORO LUCIA"
     },
     {
         "codigo":"216001",
@@ -3357,7 +4195,9 @@
         "documento":"1186463402",
         "grupo":"DECIMO A",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"SANCHEZ HURTADO DANIEL"
     },
     {
         "codigo":"226180",
@@ -3365,7 +4205,9 @@
         "documento":"1023546148",
         "grupo":"TERCERO B",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"TABORDA JARAMILLO SAMUEL"
     },
     {
         "codigo":"226145",
@@ -3373,7 +4215,9 @@
         "documento":"1023661050",
         "grupo":"TRANSICION A",
         "grado":"TRANSICIÓN",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":196.0,
+        "lista_hermanos":"GOMEZ ACOSTA EMILY, GOMEZ ACOSTA GRACE"
     },
     {
         "codigo":"217121",
@@ -3381,7 +4225,9 @@
         "documento":"1021808935",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":487.0,
+        "lista_hermanos":"TORRES JIMENEZ JUAN SIMON, TORRES JIMENEZ BENJAMIN"
     },
     {
         "codigo":"226158",
@@ -3389,7 +4235,9 @@
         "documento":"1023560303",
         "grupo":"TRANSICION A",
         "grado":"TRANSICIÓN",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":342.0,
+        "lista_hermanos":"OSSA PERDOMO DANIEL, OSSA PERDOMO VICTORIA"
     },
     {
         "codigo":"222025",
@@ -3397,7 +4245,9 @@
         "documento":"1022160689",
         "grupo":"QUINTO C",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"JARAMILLO TOVIO VIOLETA"
     },
     {
         "codigo":"222034",
@@ -3405,7 +4255,9 @@
         "documento":"1105791653",
         "grupo":"SEXTO B",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ROJAS GÓMEZ SAMUEL MATIAS"
     },
     {
         "codigo":"225028",
@@ -3413,7 +4265,9 @@
         "documento":"1023547961",
         "grupo":"SEGUNDO B",
         "grado":"SEGUNDO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ARAQUE GOMEZ SAMANTHA"
     },
     {
         "codigo":"225096",
@@ -3421,7 +4275,9 @@
         "documento":"1038265883",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":387.0,
+        "lista_hermanos":"QUEZADA HENAO MIGUEL ANGEL, QUEZADA HENAO DYLAN"
     },
     {
         "codigo":"218075",
@@ -3429,7 +4285,9 @@
         "documento":"1035000502",
         "grupo":"OCTAVO B",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PARRA ISAZA SAMUEL"
     },
     {
         "codigo":"226166",
@@ -3437,7 +4295,9 @@
         "documento":"1011406122",
         "grupo":"SEPTIMO B",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RUIZ NIÑO MATIAS"
     },
     {
         "codigo":"222006",
@@ -3445,7 +4305,9 @@
         "documento":"1017941081",
         "grupo":"TERCERO B",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ZULUAGA PIMIENTA DAVID"
     },
     {
         "codigo":"218037",
@@ -3453,7 +4315,9 @@
         "documento":"1017935653",
         "grupo":"OCTAVO A",
         "grado":"OCTAVO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":327.0,
+        "lista_hermanos":"OCHOA HERRERA MICHELLE, OCHOA HERRERA SARA"
     },
     {
         "codigo":"223036",
@@ -3461,7 +4325,9 @@
         "documento":"1025903861",
         "grupo":"CUARTO A",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"BUSTAMANTE VILLEGAS SANTIAGO"
     },
     {
         "codigo":"218091",
@@ -3469,7 +4335,9 @@
         "documento":"1092540648",
         "grupo":"OCTAVO B",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"SIERRA PEÑARANDA MIGUEL ANGEL"
     },
     {
         "codigo":"224053",
@@ -3477,7 +4345,9 @@
         "documento":"1018252964",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GARCIA GONZALEZ JUAN MANUEL"
     },
     {
         "codigo":"226121",
@@ -3485,7 +4355,9 @@
         "documento":"1023547220",
         "grupo":"SEGUNDO B",
         "grado":"SEGUNDO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MURILLO ORTIZ MARIANGEL"
     },
     {
         "codigo":"220050",
@@ -3493,7 +4365,9 @@
         "documento":"1021935677",
         "grupo":"SEXTO A",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ZULUAGA SALGADO FELIPE"
     },
     {
         "codigo":"226160",
@@ -3501,7 +4375,9 @@
         "documento":"1021949022",
         "grupo":"JARDIN",
         "grado":"JARDIN",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RUIZ VIDAL EVA"
     },
     {
         "codigo":"218067",
@@ -3509,7 +4385,9 @@
         "documento":"1020313616",
         "grupo":"OCTAVO A",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"DUQUE BERMUDEZ JUAN ANDRES"
     },
     {
         "codigo":"220012",
@@ -3517,7 +4395,9 @@
         "documento":"1025901591",
         "grupo":"SEXTO A",
         "grado":"SEXTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":469.0,
+        "lista_hermanos":"SUAREZ RESTREPO LESLIE, SUAREZ RESTREPO LORENA"
     },
     {
         "codigo":"222066",
@@ -3525,7 +4405,9 @@
         "documento":"1097132180",
         "grupo":"QUINTO C",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MANCERA LONDOÑO JOSÚE"
     },
     {
         "codigo":"223035",
@@ -3533,7 +4415,9 @@
         "documento":"1025904194",
         "grupo":"CUARTO B",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"LOPEZ VIVAS EMMANUEL"
     },
     {
         "codigo":"217120",
@@ -3541,7 +4425,9 @@
         "documento":"1021809260",
         "grupo":"OCTAVO A",
         "grado":"OCTAVO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":487.0,
+        "lista_hermanos":"TORRES JIMENEZ JUAN SIMON, TORRES JIMENEZ BENJAMIN"
     },
     {
         "codigo":"219004",
@@ -3549,7 +4435,9 @@
         "documento":"1020228568",
         "grupo":"OCTAVO B",
         "grado":"OCTAVO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":385.0,
+        "lista_hermanos":"PUERTA VANEGAS ISABEL, PUERTA VANEGAS MARIA ANTONIA"
     },
     {
         "codigo":"224117",
@@ -3557,7 +4445,9 @@
         "documento":"1020126613",
         "grupo":"TERCERO B",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ARANGO MEJIA DULCE MARIA"
     },
     {
         "codigo":"224088",
@@ -3565,7 +4455,9 @@
         "documento":"1011415143",
         "grupo":"TERCERO A",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"SERNA LONGA SAHILYN"
     },
     {
         "codigo":"224102",
@@ -3573,7 +4465,9 @@
         "documento":"1192467418",
         "grupo":"NOVENO B",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CASTRO ECHEVERRY MARIAPAZ"
     },
     {
         "codigo":"220033",
@@ -3581,7 +4475,9 @@
         "documento":"1033267957",
         "grupo":"CUARTO B",
         "grado":"CUARTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":354.0,
+        "lista_hermanos":"PAYARES AGUSTIN BENJAMIN, PAYARES AGUSTIN JOSEPH ELIAS"
     },
     {
         "codigo":"222057",
@@ -3589,7 +4485,9 @@
         "documento":"1032188877",
         "grupo":"CUARTO A",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ARBOLEDA CORDOBA SAMUEL JOSUHA"
     },
     {
         "codigo":"223096",
@@ -3597,7 +4495,9 @@
         "documento":"1020235465",
         "grupo":"CUARTO B",
         "grado":"CUARTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":35.0,
+        "lista_hermanos":"ATEHORTUA QUINTERO MIGUEL ANGEL, ATEHORTUA QUINTERO SIMON"
     },
     {
         "codigo":"218011",
@@ -3605,7 +4505,9 @@
         "documento":"1011405057",
         "grupo":"NOVENO B",
         "grado":"NOVENO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":199.0,
+        "lista_hermanos":"GOMEZ SALDAÑA SARA, GOMEZ SALDAÑA MATIAS"
     },
     {
         "codigo":"223226",
@@ -3613,7 +4515,9 @@
         "documento":"1201230514",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":253.0,
+        "lista_hermanos":"LOPEZ GALVIS SAMUEL DE JESUS, LOPEZ GALVIS SOFIA"
     },
     {
         "codigo":"226172",
@@ -3621,7 +4525,9 @@
         "documento":"1025903142",
         "grupo":"QUINTO B",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RESTREPO CIFUENTES ISABEL SOFIA"
     },
     {
         "codigo":"225050",
@@ -3629,7 +4535,9 @@
         "documento":"1025898702",
         "grupo":"OCTAVO B",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ZAPATA CARO JOSE DAVID"
     },
     {
         "codigo":"224043",
@@ -3637,7 +4545,9 @@
         "documento":"1018261295",
         "grupo":"SEXTO A",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GONZALEZ MORA EMILY"
     },
     {
         "codigo":"223065",
@@ -3645,7 +4555,9 @@
         "documento":"1021929216",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"VILLEGAS VARGAS MARIANGEL"
     },
     {
         "codigo":"222035",
@@ -3653,7 +4565,9 @@
         "documento":"1020121735",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PERNETT TOBON DAVID"
     },
     {
         "codigo":"216006",
@@ -3661,7 +4575,9 @@
         "documento":"1021929020",
         "grupo":"DECIMO B1",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"SALDARRIAGA AGUIRRE HANNAH"
     },
     {
         "codigo":"223005",
@@ -3669,7 +4585,9 @@
         "documento":"1023656931",
         "grupo":"SEGUNDO A",
         "grado":"SEGUNDO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CEDILLO AGUDELO NICOLAS"
     },
     {
         "codigo":"217010",
@@ -3677,7 +4595,9 @@
         "documento":"1035002815",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"AGUSTIN VALENCIA OBED"
     },
     {
         "codigo":"224085",
@@ -3685,7 +4605,9 @@
         "documento":"1020234533",
         "grupo":"CUARTO B",
         "grado":"CUARTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":430.0,
+        "lista_hermanos":"RUIZ CASTRO JOSUE, RUIZ CASTRO ANA ISABELLA"
     },
     {
         "codigo":"226174",
@@ -3693,7 +4615,9 @@
         "documento":"1011518348",
         "grupo":"CUARTO B",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RAMIREZ ECHAVARRIA JACOBO"
     },
     {
         "codigo":"224001",
@@ -3701,7 +4625,9 @@
         "documento":"1033205457",
         "grupo":"PRIMERO A",
         "grado":"PRIMERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"DIAZ CASTAÑO EMILIA"
     },
     {
         "codigo":"226139",
@@ -3709,7 +4635,9 @@
         "documento":"1025910970",
         "grupo":"PRE-JARDIN",
         "grado":"PRE-JARDIN",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":132.0,
+        "lista_hermanos":"DE LOS SANTOS NEIRA HANNAH SALEM, DE LOS SANTOS NEIRA EVA MARIANA"
     },
     {
         "codigo":"224047",
@@ -3717,7 +4645,9 @@
         "documento":"1018257804",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ARIAS SANCHEZ VALERIA"
     },
     {
         "codigo":"224033",
@@ -3725,7 +4655,9 @@
         "documento":"1033203589",
         "grupo":"TERCERO B",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"HERRERA MONTOYA MARTIN"
     },
     {
         "codigo":"224028",
@@ -3733,7 +4665,9 @@
         "documento":"1035011133",
         "grupo":"TERCERO B",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RAMIREZ DIAZ ISABELLA"
     },
     {
         "codigo":"222021",
@@ -3741,7 +4675,9 @@
         "documento":"1155715569",
         "grupo":"QUINTO B",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ARANGO GOMEZ JULIETA"
     },
     {
         "codigo":"221069",
@@ -3749,7 +4685,9 @@
         "documento":"1021935485",
         "grupo":"SEXTO B",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CLAVIJO QUICENO SARA"
     },
     {
         "codigo":"218018",
@@ -3757,7 +4695,9 @@
         "documento":"1027662985",
         "grupo":"NOVENO B",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MACHADO MEJIA JULIETA"
     },
     {
         "codigo":"212110",
@@ -3765,7 +4705,9 @@
         "documento":"1034993527",
         "grupo":"ONCE B",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PEREZ POLO SOFIA"
     },
     {
         "codigo":"224086",
@@ -3773,7 +4715,9 @@
         "documento":"1023551408",
         "grupo":"SEGUNDO A",
         "grado":"SEGUNDO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":235.0,
+        "lista_hermanos":"JARAMILLO LONDOÑO NICOLAS, JARAMILLO LONDOÑO AARON"
     },
     {
         "codigo":"223024",
@@ -3781,7 +4725,9 @@
         "documento":"1025905458",
         "grupo":"TERCERO B",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ALVAREZ MANCILLA DAVID LUIZ"
     },
     {
         "codigo":"221052",
@@ -3789,7 +4735,9 @@
         "documento":"1021935958",
         "grupo":"SEXTO A",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MIRANDA ARRIETA JULIANA"
     },
     {
         "codigo":"218008",
@@ -3797,7 +4745,9 @@
         "documento":"1025897021",
         "grupo":"NOVENO B",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"SANCHEZ MEJIA KAREN"
     },
     {
         "codigo":"220003",
@@ -3805,7 +4755,9 @@
         "documento":"1021935307",
         "grupo":"SEXTO A",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CASTAÑO ZAPATA AMBAR"
     },
     {
         "codigo":"223052",
@@ -3813,7 +4765,9 @@
         "documento":"1025898492",
         "grupo":"OCTAVO A",
         "grado":"OCTAVO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":280.0,
+        "lista_hermanos":"MARTINEZ HERRERA LUCIANA, MARTINEZ HERRERA JUAN DIEGO"
     },
     {
         "codigo":"220037",
@@ -3821,7 +4775,9 @@
         "documento":"1025667898",
         "grupo":"OCTAVO A",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"TROYA RENDON EMANUEL"
     },
     {
         "codigo":"221008",
@@ -3829,7 +4785,9 @@
         "documento":"1020319550",
         "grupo":"SEXTO A",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ARROYAVE GONZALEZ ELISABET"
     },
     {
         "codigo":"221055",
@@ -3837,7 +4795,9 @@
         "documento":"1081058741",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"HERNANDEZ CORAL VALERY SOFIA"
     },
     {
         "codigo":"225065",
@@ -3845,7 +4805,9 @@
         "documento":"1015194725",
         "grupo":"QUINTO A",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"TORRES RAMIREZ CRISTIAN DAVID"
     },
     {
         "codigo":"216050",
@@ -3853,7 +4815,9 @@
         "documento":"1021930204",
         "grupo":"DECIMO A",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"DIAZ GONZALEZ MATIAS"
     },
     {
         "codigo":"222023",
@@ -3861,7 +4825,9 @@
         "documento":"1020233196",
         "grupo":"QUINTO A",
         "grado":"QUINTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":157.0,
+        "lista_hermanos":"FLOREZ GONZALEZ ISABEL, FLOREZ GONZALEZ SALOME"
     },
     {
         "codigo":"220090",
@@ -3869,7 +4835,9 @@
         "documento":"1020121599",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":244.0,
+        "lista_hermanos":"LARGO DIAZ JUAN SEBASTIAN, LARGO DIAZ STEPHANIE"
     },
     {
         "codigo":"220070",
@@ -3877,7 +4845,9 @@
         "documento":"1025897940",
         "grupo":"OCTAVO A",
         "grado":"OCTAVO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":1.0,
+        "lista_hermanos":"ACEVEDO MUÑOZ JUAN PABLO, ACEVEDO MUÑOZ VALERIA"
     },
     {
         "codigo":"224099",
@@ -3885,7 +4855,9 @@
         "documento":"1025675392",
         "grupo":"SEGUNDO A",
         "grado":"SEGUNDO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PRASCA FLOREZ EMILIA"
     },
     {
         "codigo":"224008",
@@ -3893,7 +4865,9 @@
         "documento":"1020237588",
         "grupo":"SEGUNDO A",
         "grado":"SEGUNDO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":120.0,
+        "lista_hermanos":"CORREA RIOS MARTIN, CORREA RIOS SIMÓN"
     },
     {
         "codigo":"223069",
@@ -3901,7 +4875,9 @@
         "documento":"1192463986",
         "grupo":"ONCE A",
         "grado":"ONCE",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":70.0,
+        "lista_hermanos":"CANO SEGURA ANTONIA, CANO SEGURA MARIANA"
     },
     {
         "codigo":"226149",
@@ -3909,7 +4885,9 @@
         "documento":"1022170843",
         "grupo":"PRE-JARDIN",
         "grado":"PRE-JARDIN",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RIOS CORREA CRISTIAN CAMILO"
     },
     {
         "codigo":"224087",
@@ -3917,7 +4895,9 @@
         "documento":"1023543480",
         "grupo":"TERCERO B",
         "grado":"TERCERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":235.0,
+        "lista_hermanos":"JARAMILLO LONDOÑO NICOLAS, JARAMILLO LONDOÑO AARON"
     },
     {
         "codigo":"226178",
@@ -3925,7 +4905,9 @@
         "documento":"1029864885",
         "grupo":"QUINTO B",
         "grado":"QUINTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":248.0,
+        "lista_hermanos":"LONDOÑO BERTHI ANTONELLA, LONDOÑO BERTHI ZAMAR"
     },
     {
         "codigo":"225049",
@@ -3933,7 +4915,9 @@
         "documento":"1015195741",
         "grupo":"SEPTIMO B",
         "grado":"SEPTIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":31.0,
+        "lista_hermanos":"ARIZA REINA DANA SOPHIE, ARIZA REINA ALESSIA PAULINE"
     },
     {
         "codigo":"222055",
@@ -3941,7 +4925,9 @@
         "documento":"1025673366",
         "grupo":"CUARTO B",
         "grado":"CUARTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":137.0,
+        "lista_hermanos":"DIAZ DURANGO DOMINICK, DIAZ DURANGO DANNAH ISABEL"
     },
     {
         "codigo":"217066",
@@ -3949,7 +4935,9 @@
         "documento":"1023642803",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":489.0,
+        "lista_hermanos":"TORRES VALENCIA EMILIANO, TORRES VALENCIA ANA SOFIA"
     },
     {
         "codigo":"219033",
@@ -3957,7 +4945,9 @@
         "documento":"1018253746",
         "grupo":"NOVENO B",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MARIN JARAMILLO NICOLAS"
     },
     {
         "codigo":"217080",
@@ -3965,7 +4955,9 @@
         "documento":"1021931357",
         "grupo":"NOVENO B",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MACHADO TABORDA MATEO"
     },
     {
         "codigo":"221075",
@@ -3973,7 +4965,9 @@
         "documento":"1022004383",
         "grupo":"ONCE A",
         "grado":"ONCE",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":445.0,
+        "lista_hermanos":"SANCHEZ BUSTAMANTE MANUELA, SANCHEZ BUSTAMANTE GENESIS, SANCHEZ BUSTAMANTE SARAH JOANN"
     },
     {
         "codigo":"221036",
@@ -3981,7 +4975,9 @@
         "documento":"1033199369",
         "grupo":"QUINTO A",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ALVARADO BUELVAS KALEET JOSE"
     },
     {
         "codigo":"224054",
@@ -3989,7 +4985,9 @@
         "documento":"1021933381",
         "grupo":"OCTAVO B",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CIPAMOCHA PEREIRA VALERIA"
     },
     {
         "codigo":"220015",
@@ -3997,7 +4995,9 @@
         "documento":"1020318629",
         "grupo":"SEXTO B",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ECHEVERRY BOLAÑO ANTONELLA"
     },
     {
         "codigo":"225074",
@@ -4005,7 +5005,9 @@
         "documento":"1020326446",
         "grupo":"SEGUNDO B",
         "grado":"SEGUNDO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ALVAREZ MEJIA JUAN MARTIN"
     },
     {
         "codigo":"220073",
@@ -4013,7 +5015,9 @@
         "documento":"1020227802",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"HIGUITA HURTADO MATIAS"
     },
     {
         "codigo":"219002",
@@ -4021,7 +5025,9 @@
         "documento":"1020232494",
         "grupo":"SEXTO A",
         "grado":"SEXTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":267.0,
+        "lista_hermanos":"MARIACA MONTAGUT MARIA CLARA, MARIACA MONTAGUT ALEJANDRA"
     },
     {
         "codigo":"226171",
@@ -4029,7 +5035,9 @@
         "documento":"1025902964",
         "grupo":"QUINTO A",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"HURTADO HURTADO SARA"
     },
     {
         "codigo":"217011",
@@ -4037,7 +5045,9 @@
         "documento":"1015076684",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"BAENA RODAS JUAN JOSE"
     },
     {
         "codigo":"225010",
@@ -4045,7 +5055,9 @@
         "documento":"1025906631",
         "grupo":"SEGUNDO B",
         "grado":"SEGUNDO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"DURANGO VASCO MARA"
     },
     {
         "codigo":"217029",
@@ -4053,7 +5065,9 @@
         "documento":"1020228682",
         "grupo":"OCTAVO A",
         "grado":"OCTAVO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":470.0,
+        "lista_hermanos":"SUESCUN YEPES LUCIANA, SUESCUN YEPES JUAN MANUEL"
     },
     {
         "codigo":"223224",
@@ -4061,7 +5075,9 @@
         "documento":"1038874283",
         "grupo":"CUARTO A",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MONROY GARCIA SHARON YISSEL"
     },
     {
         "codigo":"224122",
@@ -4069,7 +5085,9 @@
         "documento":"1150435397",
         "grupo":"DECIMO A",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"VARGAS ORTEGON JULIANA VALENTINA"
     },
     {
         "codigo":"222068",
@@ -4077,7 +5095,9 @@
         "documento":"1011517901",
         "grupo":"QUINTO B",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GIL ARROYO DAVID"
     },
     {
         "codigo":"223002",
@@ -4085,7 +5105,9 @@
         "documento":"1033205494",
         "grupo":"PRIMERO A",
         "grado":"PRIMERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":494.0,
+        "lista_hermanos":"VALERO AYALA MELANY, VALERO AYALA JEREMY"
     },
     {
         "codigo":"224110",
@@ -4093,7 +5115,9 @@
         "documento":"1019765902",
         "grupo":"NOVENO B",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GARAVITO CORONADO LAURA SOFIA"
     },
     {
         "codigo":"224042",
@@ -4101,7 +5125,9 @@
         "documento":"1022160001",
         "grupo":"QUINTO C",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"TAMAYO MIRANDA ISABELLA"
     },
     {
         "codigo":"224035",
@@ -4109,7 +5135,9 @@
         "documento":"1031943789",
         "grupo":"TERCERO B",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"DAVILA CALDERON DULCE MARIA"
     },
     {
         "codigo":"225023",
@@ -4117,7 +5145,9 @@
         "documento":"1021932032",
         "grupo":"OCTAVO A",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ZULETA DELGADO ALEX DANIEL"
     },
     {
         "codigo":"225077",
@@ -4125,7 +5155,9 @@
         "documento":"1033266392",
         "grupo":"QUINTO B",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GIRALDO GOMEZ JOEL"
     },
     {
         "codigo":"220084",
@@ -4133,7 +5165,9 @@
         "documento":"1020122061",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CANO AGUIRRE TOMAS"
     },
     {
         "codigo":"218026",
@@ -4141,7 +5175,9 @@
         "documento":"1031942380",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"HENAO MIRANDA SAMUEL STIVEN"
     },
     {
         "codigo":"217099",
@@ -4149,7 +5185,9 @@
         "documento":"1021934432",
         "grupo":"SEPTIMO B",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CERTUCHE ALVAREZ JOSUE"
     },
     {
         "codigo":"221086",
@@ -4157,7 +5195,9 @@
         "documento":"1013464926",
         "grupo":"SEXTO A",
         "grado":"SEXTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":79.0,
+        "lista_hermanos":"CARDONA MOSQUERA ROXANA, CARDONA MOSQUERA ISAAC"
     },
     {
         "codigo":"217030",
@@ -4165,7 +5205,9 @@
         "documento":"1025660702",
         "grupo":"DECIMO A",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"COSSIO BRAND MATIAS"
     },
     {
         "codigo":"216003",
@@ -4173,7 +5215,9 @@
         "documento":"1025894543",
         "grupo":"ONCE B",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"SALDARRIAGA ISAZA ANA SOFIA"
     },
     {
         "codigo":"224019",
@@ -4181,7 +5225,9 @@
         "documento":"1020236351",
         "grupo":"TERCERO A",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"BARRIOS LOZANO MARIA CELESTE"
     },
     {
         "codigo":"220011",
@@ -4189,7 +5235,9 @@
         "documento":"1025900123",
         "grupo":"SEPTIMO B",
         "grado":"SEPTIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":469.0,
+        "lista_hermanos":"SUAREZ RESTREPO LESLIE, SUAREZ RESTREPO LORENA"
     },
     {
         "codigo":"221076",
@@ -4197,7 +5245,9 @@
         "documento":"1011404208",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":445.0,
+        "lista_hermanos":"SANCHEZ BUSTAMANTE MANUELA, SANCHEZ BUSTAMANTE GENESIS, SANCHEZ BUSTAMANTE SARAH JOANN"
     },
     {
         "codigo":"226142",
@@ -4205,7 +5255,9 @@
         "documento":"1020308342",
         "grupo":"DECIMO A",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"VERGARA MARULANDA ELIA"
     },
     {
         "codigo":"220029",
@@ -4213,7 +5265,9 @@
         "documento":"1021934224",
         "grupo":"SEPTIMO B",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"JOVEL GOMEZ PEDRO MANUEL"
     },
     {
         "codigo":"219006",
@@ -4221,7 +5275,9 @@
         "documento":"1034998410",
         "grupo":"OCTAVO B",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"VASQUEZ VELASQUEZ MARIA"
     },
     {
         "codigo":"225027",
@@ -4229,7 +5285,9 @@
         "documento":"1035015636",
         "grupo":"PRIMERO B",
         "grado":"PRIMERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MARTINEZ USUGA DUNA HELENA"
     },
     {
         "codigo":"223037",
@@ -4237,7 +5295,9 @@
         "documento":"1021940064",
         "grupo":"CUARTO B",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RODRIGUEZ POSADA VIOLETA"
     },
     {
         "codigo":"225092",
@@ -4245,7 +5305,9 @@
         "documento":"1084058224",
         "grupo":"OCTAVO A",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GUILLOT JIMENEZ DANIELA SOFIA"
     },
     {
         "codigo":"226157",
@@ -4253,7 +5315,9 @@
         "documento":"1232824885",
         "grupo":"PRE-JARDIN",
         "grado":"PRE-JARDIN",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":342.0,
+        "lista_hermanos":"OSSA PERDOMO DANIEL, OSSA PERDOMO VICTORIA"
     },
     {
         "codigo":"224045",
@@ -4261,7 +5325,9 @@
         "documento":"1023645318",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"HURTADO VILLAMARIN VIOLETTA"
     },
     {
         "codigo":"223112",
@@ -4269,7 +5335,9 @@
         "documento":"1129244633",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RINCON MENDOZA HULIETH GABRIELA"
     },
     {
         "codigo":"226177",
@@ -4277,7 +5345,9 @@
         "documento":"1025678806",
         "grupo":"PRE-JARDIN",
         "grado":"PRE-JARDIN",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MORENO ZAPATA EMILIANO FRANCISCO"
     },
     {
         "codigo":"216018",
@@ -4285,7 +5355,9 @@
         "documento":"1020305224",
         "grupo":"ONCE A",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"TOBON GALLEGO SEBASTIAN"
     },
     {
         "codigo":"219011",
@@ -4293,7 +5365,9 @@
         "documento":"1022159439",
         "grupo":"QUINTO C",
         "grado":"QUINTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":208.0,
+        "lista_hermanos":"GUZMAN HERRERA EMANUEL, GUZMAN HERRERA SUSANA, GUZMAN HERRERA JUANA"
     },
     {
         "codigo":"226185",
@@ -4301,7 +5375,9 @@
         "documento":"1235255951",
         "grupo":"QUINTO C",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"BLANDON BARRAGAN JUAN DAVID"
     },
     {
         "codigo":"224135",
@@ -4309,7 +5385,9 @@
         "documento":"1031943787",
         "grupo":"TERCERO B",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CORREA GOMEZ DAVID ALEJANDRO"
     },
     {
         "codigo":"226114",
@@ -4317,7 +5395,9 @@
         "documento":"1023595605",
         "grupo":"PRIMERO A",
         "grado":"PRIMERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"BELANDO LONDOÑO JOSUE DAVID"
     },
     {
         "codigo":"222056",
@@ -4325,7 +5405,9 @@
         "documento":"1013359684",
         "grupo":"TERCERO A",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"BENITEZ VARELA MIGUEL ANGEL"
     },
     {
         "codigo":"223105",
@@ -4333,7 +5415,9 @@
         "documento":"1015079145",
         "grupo":"QUINTO B",
         "grado":"QUINTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":58.0,
+        "lista_hermanos":"BUSTOS SEPULVEDA EMANUEL, BUSTOS SEPULVEDA SAMUEL"
     },
     {
         "codigo":"224084",
@@ -4341,7 +5425,9 @@
         "documento":"1031943618",
         "grupo":"CUARTO A",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RUIZ VELASQUEZ ANTONIA"
     },
     {
         "codigo":"222016",
@@ -4349,7 +5435,9 @@
         "documento":"1023536842",
         "grupo":"CUARTO A",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GIRALDO RAMIREZ SUSANA"
     },
     {
         "codigo":"218051",
@@ -4357,7 +5445,9 @@
         "documento":"1021934176",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":403.0,
+        "lista_hermanos":"RIAÑO ALZATE SANTIAGO, RIAÑO ALZATE FELIPE"
     },
     {
         "codigo":"224024",
@@ -4365,7 +5455,9 @@
         "documento":"1035011470",
         "grupo":"TERCERO A",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MUÑOZ URREGO ISAAC"
     },
     {
         "codigo":"223041",
@@ -4373,7 +5465,9 @@
         "documento":"1034789732",
         "grupo":"CUARTO B",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RODRIGUEZ HERRERA JOAQUIN"
     },
     {
         "codigo":"225081",
@@ -4381,7 +5475,9 @@
         "documento":"1011414300",
         "grupo":"CUARTO B",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ECHAVARRIA MENA EMANUEL"
     },
     {
         "codigo":"224128",
@@ -4389,7 +5485,9 @@
         "documento":"1013368206",
         "grupo":"SEGUNDO B",
         "grado":"SEGUNDO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MORENO HIGUITA ABIGAIL"
     },
     {
         "codigo":"226181",
@@ -4397,7 +5495,9 @@
         "documento":"1023555460",
         "grupo":"PRIMERO B",
         "grado":"PRIMERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CARDENAS ROJAS VIOLETA"
     },
     {
         "codigo":"218016",
@@ -4405,7 +5505,9 @@
         "documento":"1025896090",
         "grupo":"NOVENO B",
         "grado":"NOVENO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":420.0,
+        "lista_hermanos":"RODRIGUEZ RIVERA PABLO, RODRIGUEZ RIVERA ANA"
     },
     {
         "codigo":"224073",
@@ -4413,7 +5515,9 @@
         "documento":"1036954386",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"BEDOYA AREVALO ESTEFANY"
     },
     {
         "codigo":"225088",
@@ -4421,7 +5525,9 @@
         "documento":"1023565210",
         "grupo":"JARDIN",
         "grado":"JARDIN",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":494.0,
+        "lista_hermanos":"VALERO AYALA MELANY, VALERO AYALA JEREMY"
     },
     {
         "codigo":"226164",
@@ -4429,7 +5535,9 @@
         "documento":"1205964537",
         "grupo":"QUINTO C",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ZAMBRANO BLANCO LUIS FELIPE"
     },
     {
         "codigo":"219034",
@@ -4437,7 +5545,9 @@
         "documento":"1020316746",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":217.0,
+        "lista_hermanos":"HERNANDEZ MONTAÑO MARIANA, HERNANDEZ MONTAÑO ANDREA"
     },
     {
         "codigo":"223109",
@@ -4445,7 +5555,9 @@
         "documento":"1020127780",
         "grupo":"PRIMERO B",
         "grado":"PRIMERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"AYERS LEON DAVID TIMOTHY"
     },
     {
         "codigo":"223013",
@@ -4453,7 +5565,9 @@
         "documento":"1025905995",
         "grupo":"TERCERO B",
         "grado":"TERCERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":1.0,
+        "lista_hermanos":"ACEVEDO MUÑOZ JUAN PABLO, ACEVEDO MUÑOZ VALERIA"
     },
     {
         "codigo":"225002",
@@ -4461,7 +5575,9 @@
         "documento":"1033272114",
         "grupo":"JARDIN",
         "grado":"JARDIN",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":254.0,
+        "lista_hermanos":"LOPEZ GOMEZ JUAN FELIPE, LOPEZ GOMEZ LUCAS DAVID"
     },
     {
         "codigo":"217043",
@@ -4469,7 +5585,9 @@
         "documento":"1025896359",
         "grupo":"NOVENO B",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MINA ANDRADE SARA LUCIA"
     },
     {
         "codigo":"219030",
@@ -4477,7 +5595,9 @@
         "documento":"1022157352",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RIOS ALARCON VALENTINA"
     },
     {
         "codigo":"223113",
@@ -4485,7 +5605,9 @@
         "documento":"1084474489",
         "grupo":"QUINTO B",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"TENORIO MAYA LIAM"
     },
     {
         "codigo":"224112",
@@ -4493,7 +5615,9 @@
         "documento":"1023545929",
         "grupo":"SEGUNDO A",
         "grado":"SEGUNDO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":74.0,
+        "lista_hermanos":"CARDENAS PIÑA EZEQUIEL, CARDENAS PIÑA ANNA MARIA"
     },
     {
         "codigo":"225006",
@@ -4501,7 +5625,9 @@
         "documento":"1011417494",
         "grupo":"PRIMERO A",
         "grado":"PRIMERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PATIÑO ECHAVARRIA GABRIELA"
     },
     {
         "codigo":"224018",
@@ -4509,7 +5635,9 @@
         "documento":"1015079466",
         "grupo":"TERCERO B",
         "grado":"TERCERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":401.0,
+        "lista_hermanos":"RESTREPO CORTES JUAN MANUEL, RESTREPO CORTES ISABELLA"
     },
     {
         "codigo":"222031",
@@ -4517,7 +5645,9 @@
         "documento":"1155715450",
         "grupo":"QUINTO A",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ZULETA MACHADO JERONIMO"
     },
     {
         "codigo":"224081",
@@ -4525,7 +5655,9 @@
         "documento":"1015079561",
         "grupo":"TERCERO A",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GALINDEZ FLOREZ MARIA PAZ"
     },
     {
         "codigo":"221074",
@@ -4533,7 +5665,9 @@
         "documento":"1011410559",
         "grupo":"SEXTO B",
         "grado":"SEXTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":445.0,
+        "lista_hermanos":"SANCHEZ BUSTAMANTE MANUELA, SANCHEZ BUSTAMANTE GENESIS, SANCHEZ BUSTAMANTE SARAH JOANN"
     },
     {
         "codigo":"224034",
@@ -4541,7 +5675,9 @@
         "documento":"1023655274",
         "grupo":"TERCERO A",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ZAMBRANO MEJIA MARIANGEL"
     },
     {
         "codigo":"225076",
@@ -4549,7 +5685,9 @@
         "documento":"1020327607",
         "grupo":"TRANSICION A",
         "grado":"TRANSICIÓN",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":33.0,
+        "lista_hermanos":"ARTUNDUAGA BURGOS SARAHY, ARTUNDUAGA BURGOS EMMANUEL, ARTUNDUAGA BURGOS ISAAC"
     },
     {
         "codigo":"218040",
@@ -4557,7 +5695,9 @@
         "documento":"1025899136",
         "grupo":"SEPTIMO B",
         "grado":"SEPTIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":62.0,
+        "lista_hermanos":"CALLE CASTAÑO EMMANUEL, CALLE CASTAÑO MARIANGEL"
     },
     {
         "codigo":"215055",
@@ -4565,7 +5705,9 @@
         "documento":"1017934602",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GAVIRIA MORENO JUAN JOSE"
     },
     {
         "codigo":"221029",
@@ -4573,7 +5715,9 @@
         "documento":"1039311523",
         "grupo":"SEXTO B",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GARCIA ARIAS JHEREMY DAVID"
     },
     {
         "codigo":"222009",
@@ -4581,7 +5725,9 @@
         "documento":"1020236655",
         "grupo":"TERCERO B",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CORREA BERRIO EMILIANO"
     },
     {
         "codigo":"223053",
@@ -4589,7 +5735,9 @@
         "documento":"1196968248",
         "grupo":"OCTAVO A",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"TERÁN FIGUEROA SOFIA JIMENA"
     },
     {
         "codigo":"225040",
@@ -4597,7 +5745,9 @@
         "documento":"1155718620",
         "grupo":"TRANSICION A",
         "grado":"TRANSICIÓN",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PARADA BARCO MAXIMILIANO"
     },
     {
         "codigo":"226130",
@@ -4605,7 +5755,9 @@
         "documento":"1017283173",
         "grupo":"PRIMERO B",
         "grado":"PRIMERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"JARVIS ESTRADA ARYA ELOWIN"
     },
     {
         "codigo":"222062",
@@ -4613,7 +5765,9 @@
         "documento":"1069756765",
         "grupo":"SEXTO A",
         "grado":"SEXTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":465.0,
+        "lista_hermanos":"SORZA HERNANDEZ MARIA JULIANA, SORZA HERNANDEZ JUAN MARTIN"
     },
     {
         "codigo":"223033",
@@ -4621,7 +5775,9 @@
         "documento":"1011411862",
         "grupo":"CUARTO B",
         "grado":"CUARTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":199.0,
+        "lista_hermanos":"GOMEZ SALDAÑA SARA, GOMEZ SALDAÑA MATIAS"
     },
     {
         "codigo":"224136",
@@ -4629,7 +5785,9 @@
         "documento":"1013354699",
         "grupo":"SEXTO A",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CANO GIRALDO NISSI MARIA BELEN"
     },
     {
         "codigo":"225016",
@@ -4637,7 +5795,9 @@
         "documento":"1219213288",
         "grupo":"QUINTO A",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"SAULS PEÑA JOSHUA"
     },
     {
         "codigo":"225060",
@@ -4645,7 +5805,9 @@
         "documento":"1023546876",
         "grupo":"SEGUNDO A",
         "grado":"SEGUNDO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":423.0,
+        "lista_hermanos":"ROJAS MORALES ISAAC, ROJAS MORALES ISABEL"
     },
     {
         "codigo":"224107",
@@ -4653,7 +5815,9 @@
         "documento":"1025665738",
         "grupo":"OCTAVO A",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"BETANCUR ZAPATA EMANUEL"
     },
     {
         "codigo":"226167",
@@ -4661,7 +5825,9 @@
         "documento":"1025896997",
         "grupo":"NOVENO B",
         "grado":"NOVENO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":497.0,
+        "lista_hermanos":"VANEGAS OLAYA SIMON, VANEGAS OLAYA CRISTOPHER"
     },
     {
         "codigo":"214094",
@@ -4669,7 +5835,9 @@
         "documento":"1202213225",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"DE LUQUEZ BERNAL MABEL SARAI"
     },
     {
         "codigo":"222060",
@@ -4677,7 +5845,9 @@
         "documento":"1069762747",
         "grupo":"QUINTO B",
         "grado":"QUINTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":465.0,
+        "lista_hermanos":"SORZA HERNANDEZ MARIA JULIANA, SORZA HERNANDEZ JUAN MARTIN"
     },
     {
         "codigo":"223086",
@@ -4685,7 +5855,9 @@
         "documento":"1032030571",
         "grupo":"TERCERO B",
         "grado":"TERCERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":525.0,
+        "lista_hermanos":"ZAPATA GIL SAMUEL DAVID, ZAPATA GIL LIAM EMMANUEL"
     },
     {
         "codigo":"220042",
@@ -4693,7 +5865,9 @@
         "documento":"1020317344",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ORTIZ MONTOYA MATIAS"
     },
     {
         "codigo":"222017",
@@ -4701,7 +5875,9 @@
         "documento":"1036521142",
         "grupo":"CUARTO A",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ALZATE MONSALVE DAVID"
     },
     {
         "codigo":"217017",
@@ -4709,7 +5885,9 @@
         "documento":"1020228922",
         "grupo":"OCTAVO B",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CORREA LONDOÑO SAMUEL DAVID"
     },
     {
         "codigo":"219041",
@@ -4717,7 +5895,9 @@
         "documento":"1020312315",
         "grupo":"OCTAVO A",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PÉREZ HERNÁNDEZ SALOMÉ"
     },
     {
         "codigo":"223072",
@@ -4725,7 +5905,9 @@
         "documento":"1025656859",
         "grupo":"ONCE B",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"TOBON GAVIRIA CARLA"
     },
     {
         "codigo":"223062",
@@ -4733,7 +5915,9 @@
         "documento":"1023641253",
         "grupo":"NOVENO B",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RAMIREZ MORALES SALOME"
     },
     {
         "codigo":"226110",
@@ -4741,7 +5925,9 @@
         "documento":"1021946955",
         "grupo":"PRIMERO B",
         "grado":"PRIMERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CUADROS AGUDELO VALENTINO"
     },
     {
         "codigo":"223098",
@@ -4749,7 +5935,9 @@
         "documento":"1011519725",
         "grupo":"PRIMERO B",
         "grado":"PRIMERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"JIMENEZ PARRA JACOBO"
     },
     {
         "codigo":"225084",
@@ -4757,7 +5945,9 @@
         "documento":"1025910071",
         "grupo":"PRIMERO A",
         "grado":"PRIMERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":132.0,
+        "lista_hermanos":"DE LOS SANTOS NEIRA HANNAH SALEM, DE LOS SANTOS NEIRA EVA MARIANA"
     },
     {
         "codigo":"225001",
@@ -4765,7 +5955,9 @@
         "documento":"1018276681",
         "grupo":"JARDIN",
         "grado":"JARDIN",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CARDONA MONTOYA HELENA"
     },
     {
         "codigo":"221050",
@@ -4773,7 +5965,9 @@
         "documento":"1094062535",
         "grupo":"QUINTO B",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"SANCHEZ PEÑARANDA HERNAN ENRIQUE"
     },
     {
         "codigo":"225099",
@@ -4781,7 +5975,9 @@
         "documento":"1127538441",
         "grupo":"SEPTIMO B",
         "grado":"SEPTIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":340.0,
+        "lista_hermanos":"OSPINA PEREZ SAMUEL, OSPINA PEREZ ISABELLA"
     },
     {
         "codigo":"220069",
@@ -4789,7 +5985,9 @@
         "documento":"1021937001",
         "grupo":"SEXTO A",
         "grado":"SEXTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":371.0,
+        "lista_hermanos":"PEÑA ISAZA RAFAEL, PEÑA ISAZA MIGUEL ANGEL"
     },
     {
         "codigo":"225047",
@@ -4797,7 +5995,9 @@
         "documento":"1141352259",
         "grupo":"QUINTO A",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"FONSECA RIVERA EMILY SOFIA"
     },
     {
         "codigo":"219003",
@@ -4805,7 +6005,9 @@
         "documento":"1020231131",
         "grupo":"SEXTO A",
         "grado":"SEXTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":385.0,
+        "lista_hermanos":"PUERTA VANEGAS ISABEL, PUERTA VANEGAS MARIA ANTONIA"
     },
     {
         "codigo":"223049",
@@ -4813,7 +6015,9 @@
         "documento":"1017938288",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MARIN CORREA MATIAS"
     },
     {
         "codigo":"224132",
@@ -4821,7 +6025,9 @@
         "documento":"1013383991",
         "grupo":"CUARTO A",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ZORRILLA JARAMILLO SANTIAGO"
     },
     {
         "codigo":"226176",
@@ -4829,7 +6035,9 @@
         "documento":"1143251015",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RODRIGUEZ PINTO MIKE ANDRES"
     },
     {
         "codigo":"226175",
@@ -4837,7 +6045,9 @@
         "documento":"1020235910",
         "grupo":"TERCERO A",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"TANGARIFE AGUDELO LUCIANA"
     },
     {
         "codigo":"224031",
@@ -4845,7 +6055,9 @@
         "documento":"1023654563",
         "grupo":"TERCERO B",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"YEPES MURILLO MARIANGEL"
     },
     {
         "codigo":"218023",
@@ -4853,7 +6065,9 @@
         "documento":"1011401352",
         "grupo":"ONCE B",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MONCADA PATIÑO AILYN SOFIA"
     },
     {
         "codigo":"222041",
@@ -4861,7 +6075,9 @@
         "documento":"1025896458",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PACHECO GIRALDO SANTIAGO"
     },
     {
         "codigo":"225079",
@@ -4869,7 +6085,9 @@
         "documento":"1222255030",
         "grupo":"JARDIN",
         "grado":"JARDIN",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":512.0,
+        "lista_hermanos":"VENEGAS OROZCO SAMUEL, VENEGAS OROZCO LYAM DARIO"
     },
     {
         "codigo":"220001",
@@ -4877,7 +6095,9 @@
         "documento":"1025900903",
         "grupo":"SEXTO B",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PEREZ FERRARO JULIETA"
     },
     {
         "codigo":"223006",
@@ -4885,7 +6105,9 @@
         "documento":"1020238201",
         "grupo":"SEGUNDO A",
         "grado":"SEGUNDO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":285.0,
+        "lista_hermanos":"MAYORGA VALIENTE MIGUEL, MAYORGA VALIENTE EMILIANO"
     },
     {
         "codigo":"217108",
@@ -4893,7 +6115,9 @@
         "documento":"1025663772",
         "grupo":"NOVENO B",
         "grado":"NOVENO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":438.0,
+        "lista_hermanos":"RUIZ URQUIJO VIOLETA, RUIZ URQUIJO MARTIN"
     },
     {
         "codigo":"217126",
@@ -4901,7 +6125,9 @@
         "documento":"1025898446",
         "grupo":"OCTAVO A",
         "grado":"OCTAVO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":122.0,
+        "lista_hermanos":"CORTES CORREA SALOME, CORTES CORREA REBECA"
     },
     {
         "codigo":"217067",
@@ -4909,7 +6135,9 @@
         "documento":"1093600920",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":332.0,
+        "lista_hermanos":"ORTEGA ZABALA ABIGAIL, ORTEGA ZABALA HERI THOMAS"
     },
     {
         "codigo":"225015",
@@ -4917,7 +6145,9 @@
         "documento":"1015195742",
         "grupo":"CUARTO A",
         "grado":"CUARTO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":31.0,
+        "lista_hermanos":"ARIZA REINA DANA SOPHIE, ARIZA REINA ALESSIA PAULINE"
     },
     {
         "codigo":"224010",
@@ -4925,7 +6155,9 @@
         "documento":"1020326265",
         "grupo":"SEGUNDO A",
         "grado":"SEGUNDO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PUERTA LEON ISAAC"
     },
     {
         "codigo":"219021",
@@ -4933,7 +6165,9 @@
         "documento":"1023595113",
         "grupo":"QUINTO A",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"TABARES MARTINEZ MARTINA"
     },
     {
         "codigo":"226140",
@@ -4941,7 +6175,9 @@
         "documento":"1023560064",
         "grupo":"TRANSICION A",
         "grado":"TRANSICIÓN",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"QUINTANA GOMEZ MATIAS"
     },
     {
         "codigo":"224056",
@@ -4949,7 +6185,9 @@
         "documento":"1023531513",
         "grupo":"OCTAVO B",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"ARBOLEDA OTALVARO JUAN JOSE"
     },
     {
         "codigo":"223054",
@@ -4957,7 +6195,9 @@
         "documento":"1013464793",
         "grupo":"OCTAVO A",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"PALACIOS MENA JAMAL JOEL"
     },
     {
         "codigo":"224104",
@@ -4965,7 +6205,9 @@
         "documento":"1020226946",
         "grupo":"DECIMO B",
         "grado":"DÉCIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MOLINA JARAMILLO SALOME"
     },
     {
         "codigo":"225052",
@@ -4973,7 +6215,9 @@
         "documento":"1018271477",
         "grupo":"PRIMERO A",
         "grado":"PRIMERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MARIN VERGARA NICOLAS"
     },
     {
         "codigo":"223111",
@@ -4981,7 +6225,9 @@
         "documento":"1011518603",
         "grupo":"CUARTO B",
         "grado":"CUARTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"OSPINA CIFUENTES ANTONELLA"
     },
     {
         "codigo":"224130",
@@ -4989,7 +6235,9 @@
         "documento":"1023527907",
         "grupo":"ONCE B",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"SEPULVEDA SANTIAGO MATIAS"
     },
     {
         "codigo":"224059",
@@ -4997,7 +6245,9 @@
         "documento":"1021929918",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"TAMAYO SALDARRIAGA SALOME"
     },
     {
         "codigo":"222047",
@@ -5005,7 +6255,9 @@
         "documento":"1013366022",
         "grupo":"SEGUNDO B",
         "grado":"SEGUNDO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":181.0,
+        "lista_hermanos":"GAVIRIA CESPEDES BRENDA, GAVIRIA CESPEDES EVELYN"
     },
     {
         "codigo":"225089",
@@ -5013,7 +6265,9 @@
         "documento":"1023556728",
         "grupo":"PRIMERO A",
         "grado":"PRIMERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":74.0,
+        "lista_hermanos":"CARDENAS PIÑA EZEQUIEL, CARDENAS PIÑA ANNA MARIA"
     },
     {
         "codigo":"221092",
@@ -5021,7 +6275,9 @@
         "documento":"1011519079",
         "grupo":"TERCERO A",
         "grado":"TERCERO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":330.0,
+        "lista_hermanos":"ORREGO JIMENEZ BENJAMIN, ORREGO JIMENEZ ANALUCIA"
     },
     {
         "codigo":"224098",
@@ -5029,7 +6285,9 @@
         "documento":"1035004228",
         "grupo":"SEXTO A",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"HOYOS BARRERA MAXIMILIANO"
     },
     {
         "codigo":"223010",
@@ -5037,7 +6295,9 @@
         "documento":"1020235950",
         "grupo":"TERCERO B",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MONTOYA RESTREPO MARIA CAMILA"
     },
     {
         "codigo":"225053",
@@ -5045,7 +6305,9 @@
         "documento":"1023550049",
         "grupo":"SEGUNDO B",
         "grado":"SEGUNDO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":138.0,
+        "lista_hermanos":"DIAZ GAMBOA ISAAC, DIAZ GAMBOA MOISES UZZIEL"
     },
     {
         "codigo":"225018",
@@ -5053,7 +6315,9 @@
         "documento":"1036457627",
         "grupo":"SEXTO B",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"RAMIREZ RAMIREZ LUCIANA"
     },
     {
         "codigo":"221023",
@@ -5061,7 +6325,9 @@
         "documento":"1034924450",
         "grupo":"SEXTO B",
         "grado":"SEXTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"VASQUEZ RODAS JOSUE"
     },
     {
         "codigo":"223020",
@@ -5069,7 +6335,9 @@
         "documento":"1018268373",
         "grupo":"TERCERO A",
         "grado":"TERCERO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"SANCHEZ LOPEZ SAMUEL"
     },
     {
         "codigo":"226173",
@@ -5077,7 +6345,9 @@
         "documento":"1123633095",
         "grupo":"OCTAVO B",
         "grado":"OCTAVO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MENDEZ OSPINA SALOME"
     },
     {
         "codigo":"215066",
@@ -5085,7 +6355,9 @@
         "documento":"1025658262",
         "grupo":"ONCE A",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"TAMAYO RAMIREZ MANUELA"
     },
     {
         "codigo":"225017",
@@ -5093,7 +6365,9 @@
         "documento":"1036458174",
         "grupo":"QUINTO C",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"CASTAÑO RAMIREZ MATIAS"
     },
     {
         "codigo":"220094",
@@ -5101,7 +6375,9 @@
         "documento":"1025899613",
         "grupo":"SEPTIMO B",
         "grado":"SEPTIMO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":277.0,
+        "lista_hermanos":"MARTINEZ ALVAREZ DANIELLA, MARTINEZ ALVAREZ THIAGO"
     },
     {
         "codigo":"223043",
@@ -5109,7 +6385,9 @@
         "documento":"1011517846",
         "grupo":"QUINTO B",
         "grado":"QUINTO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GIRALDO LOZANO EMMA"
     },
     {
         "codigo":"218033",
@@ -5117,7 +6395,9 @@
         "documento":"1192467245",
         "grupo":"NOVENO B",
         "grado":"NOVENO",
-        "hermanos":true
+        "hermanos":true,
+        "grupo_hermanos":69.0,
+        "lista_hermanos":"CANO MUÑOZ AGUSTIN, CANO MUÑOZ EMILIA"
     },
     {
         "codigo":"217073",
@@ -5125,7 +6405,9 @@
         "documento":"1031941930",
         "grupo":"ONCE B",
         "grado":"ONCE",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"LEAL OSPINA SUSANA"
     },
     {
         "codigo":"224049",
@@ -5133,7 +6415,9 @@
         "documento":"1025900102",
         "grupo":"SEPTIMO B",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"GIRALDO CANO EMILIANO"
     },
     {
         "codigo":"219012",
@@ -5141,7 +6425,9 @@
         "documento":"1127606063",
         "grupo":"SEPTIMO A",
         "grado":"SEPTIMO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"MUÑOZ ORTEGA SANTIAGO DE JESUS"
     },
     {
         "codigo":"218001",
@@ -5149,7 +6435,9 @@
         "documento":"1021930683",
         "grupo":"NOVENO A",
         "grado":"NOVENO",
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":"SALAZAR BERMUDEZ PAULINA"
     },
     {
         "codigo":null,
@@ -5157,6 +6445,8 @@
         "documento":null,
         "grupo":null,
         "grado":null,
-        "hermanos":false
+        "hermanos":false,
+        "grupo_hermanos":null,
+        "lista_hermanos":" "
     }
 ]
