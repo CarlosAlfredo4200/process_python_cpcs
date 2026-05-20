@@ -17,7 +17,7 @@ lugar = input("Ingrese el lugar de la cita : ").strip()
 
 
 input_columns =[0,2,5,7,22]
-archivo = pd.read_excel('./MOROSOS AL 06 DE ABRIL 2026.xls', usecols=input_columns)
+archivo = pd.read_excel('./MOROSOS AL 10 DE MAYO 2026.xls', usecols=input_columns)
 df = pd.DataFrame(archivo)
 
 input_columns_global = [6,57,58,59,61]
@@ -88,7 +88,7 @@ df_fintro_50 = df
 
 # ✅ Filtro: solo registros con deuda > 800.000
 df['deuda total'] = pd.to_numeric(df['deuda total'], errors='coerce')
-df = df[df['deuda total'] > 800000].reset_index(drop=True)
+df = df[df['deuda total'] > 10000].reset_index(drop=True)
 
 # ✅ Filtro: solo registros con deuda > 50.000
 df['deuda total'] = pd.to_numeric(df['deuda total'], errors='coerce')

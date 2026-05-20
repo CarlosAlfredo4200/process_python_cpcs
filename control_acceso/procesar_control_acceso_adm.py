@@ -175,7 +175,7 @@ top_tardanzas = reporte.sort_values(
 # =========================
 # EXPORTAR
 # =========================
-with pd.ExcelWriter("./reporte llegadas cpcs abril administrativos.xlsx",
+with pd.ExcelWriter("./reportellegadasAdministrativos.xlsx",
                     engine="openpyxl") as writer:
 
     # =========================
@@ -194,24 +194,24 @@ with pd.ExcelWriter("./reporte llegadas cpcs abril administrativos.xlsx",
     workbook = writer.book
     worksheet = writer.sheets["Reporte General"]
 
-    # =========================
-    # TITULO PRINCIPAL
-    # =========================
-    worksheet.merge_cells("A1:F1")
+    # # =========================
+    # # TITULO PRINCIPAL
+    # # =========================
+    # worksheet.merge_cells("A1:F1")
 
-    worksheet["A1"] = "REPORTE LLEGADAS EMPLEADOS CPCS"
+    # worksheet["A1"] = "REPORTE LLEGADAS EMPLEADOS CPCS"
 
-    # =========================
-    # OBSERVACIÓN
-    # =========================
-    worksheet.merge_cells("A2:F3")
+    # # =========================
+    # # OBSERVACIÓN
+    # # =========================
+    # worksheet.merge_cells("A2:F3")
 
-    worksheet["A2"] = (
-        "Los registros incluyen algunos valores negativos debido a que el sistema "
-        "no discrimina automáticamente días no laborales, periodos de Semana Santa, "
-        "festivos y permisos previamente autorizados, lo que puede generar "
-        "diferencias temporales en los resultados reportados."
-    )
+    # worksheet["A2"] = (
+    #     "Los registros incluyen algunos valores negativos debido a que el sistema "
+    #     "no discrimina automáticamente días no laborales, periodos de Semana Santa, "
+    #     "festivos y permisos previamente autorizados, lo que puede generar "
+    #     "diferencias temporales en los resultados reportados."
+    # )
 
     # =========================
     # ESTILOS

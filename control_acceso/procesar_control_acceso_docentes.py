@@ -170,78 +170,32 @@ top_tardanzas = reporte.sort_values(
 # =========================
 # EXPORTAR
 # =========================
-with pd.ExcelWriter("./reporte llegadas cpcs abril docentes.xlsx",
-                    engine="openpyxl") as writer:
+# =========================
+# EXPORTAR SOLO TABLA
+# =========================
 
-    # =========================
-    # EXPORTAR REPORTE
-    # =========================
+with pd.ExcelWriter(
+    "./reportellegadasDocentes.xlsx",
+    engine="openpyxl"
+) as writer:
+
     reporte.to_excel(
         writer,
         sheet_name="Reporte General",
-        startrow=4,   # 👈 deja espacio para títulos
         index=False
     )
 
-    # =========================
-    # ACCEDER A LA HOJA
-    # =========================
-    workbook = writer.book
+    # Ajustar ancho columnas
     worksheet = writer.sheets["Reporte General"]
 
-    # =========================
-    # TITULO PRINCIPAL
-    # =========================
-    worksheet.merge_cells("A1:F1")
-
-    worksheet["A1"] = "REPORTE LLEGADAS DOCENTES CPCS"
-
-    # =========================
-    # OBSERVACIÓN
-    # =========================
-    worksheet.merge_cells("A2:F3")
-
-    worksheet["A2"] = (
-        "Los registros incluyen algunos valores negativos debido a que el sistema "
-        "no discrimina automáticamente días no laborales, periodos de Semana Santa, "
-        "festivos y permisos previamente autorizados, lo que puede generar "
-        "diferencias temporales en los resultados reportados."
-    )
-
-    # =========================
-    # ESTILOS
-    # =========================
-    from openpyxl.styles import Font, Alignment
-
-    # Título
-    worksheet["A1"].font = Font(
-        bold=True,
-        size=16
-    )
-
-    worksheet["A1"].alignment = Alignment(
-        horizontal="center",
-        vertical="center"
-    )
-
-    # Observación
-    worksheet["A2"].alignment = Alignment(
-        wrap_text=True,
-        vertical="top"
-    )
-
-    # Altura filas
-    worksheet.row_dimensions[1].height = 28
-    worksheet.row_dimensions[2].height = 60
-
-    # Ajustar ancho columnas
     columnas = {
         "A": 40,
         "B": 18,
         "C": 18,
         "D": 22,
         "E": 15,
-        "F": 18
+        "F": 18,
+        "G": 18
     }
 
     for col, width in columnas.items():
