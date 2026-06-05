@@ -3,7 +3,7 @@ import pandas as pd
 input_columns = [1, 3]
 
 data_empleados = pd.read_excel(
-    './data/Control_de_acceso_docentes_y_administrativos.xlsx',
+    './data/Control_de_acceso_administrativos.xlsx',
     usecols=input_columns
 )
 
@@ -184,7 +184,7 @@ with pd.ExcelWriter("./reportellegadasAdministrativos.xlsx",
     reporte.to_excel(
         writer,
         sheet_name="Reporte General",
-        startrow=4,   # 👈 deja espacio para títulos
+        # startrow=4,   # 👈 deja espacio para títulos
         index=False
     )
 
@@ -215,29 +215,7 @@ with pd.ExcelWriter("./reportellegadasAdministrativos.xlsx",
 
     # =========================
     # ESTILOS
-    # =========================
-    from openpyxl.styles import Font, Alignment
-
-    # Título
-    worksheet["A1"].font = Font(
-        bold=True,
-        size=16
-    )
-
-    worksheet["A1"].alignment = Alignment(
-        horizontal="center",
-        vertical="center"
-    )
-
-    # Observación
-    worksheet["A2"].alignment = Alignment(
-        wrap_text=True,
-        vertical="top"
-    )
-
-    # Altura filas
-    worksheet.row_dimensions[1].height = 28
-    worksheet.row_dimensions[2].height = 60
+ 
 
     # Ajustar ancho columnas
     columnas = {

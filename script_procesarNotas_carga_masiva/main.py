@@ -28,16 +28,16 @@ df_data_concatenado = pd.concat([
 
 # print(df_data_concatenado.info())
 # Exportar a Excel
-ruta_salida = "./Notas_Periodos_ac.xlsx"
+ruta_salida = "./Notas_Periodos_ac_2026.xlsx"
 df_data_concatenado.to_excel(ruta_salida, index=False)
 print(f"Archivo Excel creado en: {ruta_salida}")
  
-# # Convertir el DataFrame a JSON (sin secuencias de escape)
-# df_data_concatenado = df_data_concatenado.to_json(orient='records', lines=False, force_ascii=False)
+# Convertir el DataFrame a JSON (sin secuencias de escape)
+df_data_concatenado = df_data_concatenado.to_json(orient='records', lines=False, force_ascii=False)
 
-# # Guardar el archivo JSON en UTF-8
-# with open('consolidado_informe.json', 'w', encoding='utf-8') as json_file:
-#     json.dump(json.loads(df_data_concatenado), json_file, ensure_ascii=False, indent=4)
+# Guardar el archivo JSON en UTF-8
+with open('consolidado_informe_ac_2026.json', 'w', encoding='utf-8') as json_file:
+    json.dump(json.loads(df_data_concatenado), json_file, ensure_ascii=False, indent=4)
     
 
  

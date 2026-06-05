@@ -17,7 +17,7 @@ lugar = input("Ingrese el lugar de la cita : ").strip()
 
 
 input_columns =[0,2,5,7,22]
-archivo = pd.read_excel('./MOROSOS AL 10 DE MAYO 2026.xls', usecols=input_columns)
+archivo = pd.read_excel('./MOROSOS AL 02 DE JUNIO 2026.xls', usecols=input_columns)
 df = pd.DataFrame(archivo)
 
 input_columns_global = [6,57,58,59,61]

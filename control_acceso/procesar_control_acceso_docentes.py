@@ -2,10 +2,7 @@ import pandas as pd
 
 input_columns = [1, 3]
 
-data_empleados = pd.read_excel(
-    './data/Control_de_acceso_docentes.xlsx',
-    usecols=input_columns
-)
+data_empleados = pd.read_excel('./data/Control_de_acceso_docentes.xlsx',usecols=input_columns)
 
 data_empleados = data_empleados.rename(columns={
     'Unnamed: 1': 'Nombre empleado',
@@ -189,8 +186,8 @@ with pd.ExcelWriter(
     worksheet = writer.sheets["Reporte General"]
 
     columnas = {
-        "A": 40,
-        "B": 18,
+        "A": 50,
+        "B": 16,
         "C": 18,
         "D": 22,
         "E": 15,
@@ -200,3 +197,57 @@ with pd.ExcelWriter(
 
     for col, width in columnas.items():
         worksheet.column_dimensions[col].width = width
+        
+    from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
+
+# =========================
+# KPI DINÁMICO
+# =========================
+total_tardanzas = int(reporte["llegadas_tarde"].sum())
+promedio_cumplimiento = round(reporte["cumplimiento"].mean(), 2)
+total_sin_marcar = int(reporte["sin_marcar"].sum())
+
+# Insertar filas arriba para las tarjetas
+worksheet.insert_rows(1, 4)
+
+# Tarjeta 1
+worksheet.merge_cells("A1:B3")
+cell = worksheet["A1"]
+cell.value = f"TOTAL LLEGADAS TARDE\n{total_tardanzas}"
+cell.font = Font(size=16, bold=True, color="FFFFFF")
+cell.fill = PatternFill("solid", fgColor="1A74A8")
+cell.alignment = Alignment(horizontal="center", vertical="center", wrap_text=True)
+
+# Tarjeta 2
+worksheet.merge_cells("C1:D3")
+cell = worksheet["C1"]
+cell.value = f"CUMPLIMIENTO PROMEDIO\n{promedio_cumplimiento}%"
+cell.font = Font(size=16, bold=True, color="000000")
+cell.fill = PatternFill("solid", fgColor="FCFF4C")
+cell.alignment = Alignment(horizontal="center", vertical="center", wrap_text=True)
+
+# Tarjeta 3
+worksheet.merge_cells("E1:F3")
+cell = worksheet["E1"]
+cell.value = f"SIN MARCAR\n{total_sin_marcar}"
+cell.font = Font(size=16, bold=True, color="FFFFFF")
+cell.fill = PatternFill("solid", fgColor="000000")
+cell.alignment = Alignment(horizontal="center", vertical="center", wrap_text=True)
+
+# Bordes
+borde = Border(
+    left=Side(style="thin"),
+    right=Side(style="thin"),
+    top=Side(style="thin"),
+    bottom=Side(style="thin")
+)
+
+for rango in ["A1:B3", "C1:D3", "E1:F3"]:
+    for row in worksheet[rango]:
+        for celda in row:
+            celda.border = borde
+
+# Alto de filas para que parezca tarjeta
+worksheet.row_dimensions[1].height = 25
+worksheet.row_dimensions[2].height = 25
+worksheet.row_dimensions[3].height = 25
