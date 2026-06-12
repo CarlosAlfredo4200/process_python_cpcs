@@ -69,7 +69,7 @@ def procesarNotas_1_9(archivo):
 
     # Ahora filtra
     filtro_periodo = data_sin_cabecera[
-        data_sin_cabecera["periodo"].isin(["PRIMER PERIODO"])
+        data_sin_cabecera["periodo"].isin(["SEGUNDO PERIODO"])
     ].copy()
 
     # --- Cambio de tipo de datos ---

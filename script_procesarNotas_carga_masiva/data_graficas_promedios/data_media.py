@@ -1,24 +1,11 @@
-import pandas as pd
+import pandas as pd  
 
-def procesarNotas(archivo):
-    """
-    Procesa el archivo de notas:
-    - Quita filas y columnas innecesarias
-    - Renombra columnas
-    - Filtra por periodo
-    - Ajusta tipos de datos
-    - Reemplaza nombres de grados
-    Retorna un DataFrame limpio
-    """
-
-    # --- Cargar archivo ---
-    data_PI = pd.read_excel(archivo)
-
-    # --- Elimina las primeras 8 filas ---
-    data_sin_cabecera = data_PI.iloc[8:].reset_index(drop=True)
-
-    # --- Eliminar columnas innecesarias ---
-    data_sin_cabecera = data_sin_cabecera.drop(columns=[
+def procesar_data_media(data):
+    data_media = pd.read_excel(data)
+    
+    data_media = data_media.iloc[8:].reset_index(drop=True)
+    
+    data_media = data_media.drop(columns=[
         'Unnamed: 0',
         'Unnamed: 7',
         'Unnamed: 8', 
@@ -34,10 +21,9 @@ def procesarNotas(archivo):
         'Unnamed: 32',
         'Unnamed: 34',
         'Unnamed: 35'
-    ])
-
-    # --- Renombrar columnas ---
-    data_sin_cabecera = data_sin_cabecera.rename(columns={
+    ], errors="ignore")
+    
+    data_media = data_media.rename(columns={
         "Unnamed: 1": "grupo",
         "Unnamed: 2": "codigo",
         "Unnamed: 3": "nombre",
@@ -60,30 +46,27 @@ def procesarNotas(archivo):
         "Unnamed: 31": "matematicas",
         "Unnamed: 33": "tecnologia"
     })
-
-    # Limpiar espacios y convertir a mayúsculas
-    data_sin_cabecera["periodo"] = data_sin_cabecera["periodo"].str.strip().str.upper()
     
-    # Ahora filtra
-    filtro_periodo = data_sin_cabecera[
-        data_sin_cabecera["periodo"].isin(["SEGUNDO PERIODO"])
-    ].copy()
+    data_media["periodo"] = data_media["periodo"].astype(str).str.strip().str.upper()
+    
+    data_media = data_media[
+        data_media["periodo"].isin(["1 PERIODO", "SEGUNDO PERIODO"])
+    ]
 
-
-    # --- Cambio de tipo de datos ---
-    filtro_periodo[["grupo", "codigo", "nombre", "periodo"]] = (
-        filtro_periodo[["grupo", "codigo", "nombre", "periodo"]].astype(str)
+    data_media[["grupo", "codigo", "nombre", "periodo"]] = (
+        data_media[["grupo", "codigo", "nombre", "periodo"]].astype(str)
     )
     
-    # --- Limpiar espacios en grupo ---
-    filtro_periodo["grupo"] = (
-        filtro_periodo["grupo"]
-        .astype(str)
-        .str.strip()                  # elimina espacios al inicio y final
-        .str.replace(r"\s+", " ", regex=True)  # elimina espacios dobles internos
+    data_media["grupo"] = (
+        data_media["grupo"]
+        .str.strip()
+        .str.upper()
+        .str.replace(r"\s+", " ", regex=True)
     )
 
-    filtro_periodo["puesto"] = pd.to_numeric(filtro_periodo["puesto"], errors="coerce").astype("Int64")
+    data_media["puesto"] = pd.to_numeric(
+        data_media["puesto"], errors="coerce"
+    ).astype("Int64")
 
     cols_numericas = [
         "promedio",
@@ -105,21 +88,22 @@ def procesarNotas(archivo):
     ]
 
     for col in cols_numericas:
-        filtro_periodo[col] = (
-            filtro_periodo[col]
-            
+        data_media[col] = (
+            data_media[col]
             .astype(str)
             .str.replace(",", ".", regex=False)
-            .astype(float)
         )
 
-    # --- Diccionario de reemplazos ---
+        data_media[col] = pd.to_numeric(data_media[col], errors="coerce")
+
     reemplazos = {
         "ONCE": "11.",
         "DECIMO": "10.",
+        "DÉCIMO": "10.",
         "NOVENO": "9.",
         "OCTAVO": "8.",
         "SEPTIMO": "7.",
+        "SÉPTIMO": "7.",
         "SEXTO": "6.",
         "QUINTO": "5.",
         "CUARTO": "4.",
@@ -129,8 +113,46 @@ def procesarNotas(archivo):
     }
 
     for palabra, numero in reemplazos.items(): 
-        filtro_periodo['grupo'] = filtro_periodo['grupo'].str.replace(palabra, numero, regex=False)
-        
-        
-   
-    return filtro_periodo.reset_index(drop=True)
+        data_media["grupo"] = data_media["grupo"].str.replace(
+            palabra, numero, regex=False
+        )
+
+    data_media = data_media.rename(columns={
+        "ciencias_naturales": "CN",
+        "ciencias_sociales": "CS",
+        "civica_y_constitucion": "CC",
+        "educacion_artistica": "ED-Art",
+        "educacion_cristiana": "ED-Cris",
+        "educacion_etica": "ED-Etica",
+        "educacion_fisica": "ED-Fis",
+        "idioma_extranjero": "ING",
+        "lengua_castellana": "LENG-Cast",
+        "matematicas": "MAT",
+        "tecnologia": "TEC",
+        "ciencias_politicas_economicas": "CPE"
+    })
+
+    areas = [
+        "CN",
+        "CS",
+        "CC",
+        "ED-Art",
+        "ED-Cris",
+        "ED-Etica",
+        "ED-Fis",
+        "ING",
+        "LENG-Cast",
+        "MAT",
+        "TEC",
+        "CPE"
+    ]
+
+    promedios_areas = (
+        data_media
+        .groupby(["grupo", "periodo"])[areas]
+        .mean()
+        .round(2)
+        .reset_index()
+    )
+
+    return promedios_areas
