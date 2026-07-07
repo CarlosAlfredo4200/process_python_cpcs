@@ -17,7 +17,7 @@ lugar = input("Ingrese el lugar de la cita : ").strip()
 
 
 input_columns =[0,2,5,7,22]
-archivo = pd.read_excel('./MOROSOS AL 02 DE JUNIO 2026.xls', usecols=input_columns)
+archivo = pd.read_excel('./CARTAS MOROSOS AL 05 DE JULIO 2026- DE 2 PENSIONES EN ADELANTE.xls', usecols=input_columns)
 df = pd.DataFrame(archivo)
 
 input_columns_global = [6,57,58,59,61]
@@ -88,7 +88,7 @@ df_fintro_50 = df
 
 # ✅ Filtro: solo registros con deuda > 800.000
 df['deuda total'] = pd.to_numeric(df['deuda total'], errors='coerce')
-df = df[df['deuda total'] > 10000].reset_index(drop=True)
+df = df[df['deuda total'] > 800000].reset_index(drop=True)
 
 # ✅ Filtro: solo registros con deuda > 50.000
 df['deuda total'] = pd.to_numeric(df['deuda total'], errors='coerce')
@@ -139,7 +139,7 @@ print(f"Archivo Excel creado en: {ruta_salida}")
 
 # Exportar a Excel
 print("")
-ruta_salida = "./informe_reporte_morosos.xlsx"
+ruta_salida = "./informe_reporte_morosos_5_julio.xlsx"
 informe_reporte_morosos.to_excel(ruta_salida, index=False)
 print(f"Archivo Excel creado en: {ruta_salida}")
 # Exportar a Excel

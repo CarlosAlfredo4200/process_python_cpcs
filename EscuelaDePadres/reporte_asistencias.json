@@ -1,0 +1,3174 @@
+[
+    {
+        "estudiante": {
+            "nombre": "MONTOYA CRUMB AVIVA FAITH",
+            "documento": "1013377365",
+            "grupo": "TRANSICION A"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "0 de 7",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "DIAZ GAMBOA MOISES UZZIEL",
+            "documento": "1023550049",
+            "grupo": "SEGUNDO B"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "5 de 7",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ZABALA MONTOYA EMILIANO",
+            "documento": "1025769353",
+            "grupo": "OCTAVO B"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "5 de 7",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "VELEZ ROJAS ISAAC",
+            "documento": "1035012208",
+            "grupo": "TERCERO A"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "5 de 7",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "CORREA BOLAÑOS ISMAEL",
+            "documento": "1013465070",
+            "grupo": "SEPTIMO B"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "6 de 7",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "CORREA BOLAÑOS JOSIAS",
+            "documento": "1013466602",
+            "grupo": "SEGUNDO A"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "6 de 7",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ALVAREZ MEJIA JUAN MARTIN",
+            "documento": "1020326446",
+            "grupo": "SEGUNDO B"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "6 de 7",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "CORREA GALLEGO SAMUEL",
+            "documento": "1023543332",
+            "grupo": "TERCERO A"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "7 de 7",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "BARRIOS LOZANO MARIA CELESTE",
+            "documento": "1020236351",
+            "grupo": "TERCERO A"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "6 de 7",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "PARADA BARCO MAXIMILIANO",
+            "documento": "1155718620",
+            "grupo": "TRANSICION A"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "7 de 7",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ZULETA DELGADO ALEX DANIEL",
+            "documento": "1021932032",
+            "grupo": "OCTAVO A"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "7 de 7",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "MORENO CARDOZO LUCIANA",
+            "documento": "1032028527",
+            "grupo": "QUINTO C"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "5 de 7",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "SAYAGO ACEVEDO ISABELLA",
+            "documento": "1018271176",
+            "grupo": "SEGUNDO B"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "2 de 7",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "SAYAGO ACEVEDO SAMUEL",
+            "documento": "1018254757",
+            "grupo": "OCTAVO B"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "2 de 7",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "LONDOÑO JARAMILLO SAMUEL",
+            "documento": "1013369943",
+            "grupo": "PRIMERO A"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "5 de 7",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "LONDOÑO JARAMILLO EZEQUIEL",
+            "documento": "1023538982",
+            "grupo": "TERCERO B"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "5 de 7",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "GOMEZ SALDAÑA SARA",
+            "documento": "1011405057",
+            "grupo": "NOVENO B"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "7 de 7",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "GOMEZ SALDAÑA MATIAS",
+            "documento": "1011411862",
+            "grupo": "CUARTO B"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "7 de 7",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ARANGO MEJIA DULCE MARIA",
+            "documento": "1020126613",
+            "grupo": "TERCERO B"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "5 de 7",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ALVAREZ TERAN JOSUE",
+            "documento": "1015194657",
+            "grupo": "QUINTO C"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "0 de 7",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "DIAZ GAMBOA ISAAC",
+            "documento": "1025678788",
+            "grupo": "PRE-JARDIN"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "5 de 7",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "VILLANUEVA JULIO SAMUEL",
+            "documento": "1020308975",
+            "grupo": "DECIMO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "LEAL OSPINA SUSANA",
+            "documento": "1031941930",
+            "grupo": "ONCE B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "RUIZ CARVAJAL SAMUEL",
+            "documento": "1031942217",
+            "grupo": "DECIMO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "GALLO MIRANDA MATHIAS",
+            "documento": "1025896754",
+            "grupo": "NOVENO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ESPINAL GIRALDO BENJAMIN",
+            "documento": "1020228343",
+            "grupo": "OCTAVO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "SALAZAR BERMUDEZ PAULINA",
+            "documento": "1021930683",
+            "grupo": "NOVENO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "DUQUE BERMUDEZ JUAN ANDRES",
+            "documento": "1020313616",
+            "grupo": "OCTAVO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "SUAREZ BAYONA MARTINA",
+            "documento": "1011106856",
+            "grupo": "SEPTIMO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ZULUAGA JARAMILLO SAMUEL",
+            "documento": "1034998992",
+            "grupo": "NOVENO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "PEÑA ISAZA MIGUEL ANGEL",
+            "documento": "1021937001",
+            "grupo": "SEXTO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "PEÑA ISAZA RAFAEL",
+            "documento": "1013371011",
+            "grupo": "PRIMERO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "VELASQUEZ OQUENDO LUCIANA",
+            "documento": "1023544888",
+            "grupo": "TERCERO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "QUIROZ SEÑA IVANA",
+            "documento": "1025896033",
+            "grupo": "DECIMO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "MONTERO BERRIO VALERIE",
+            "documento": "1023646449",
+            "grupo": "SEPTIMO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "TAMAYO RAMIREZ MANUELA",
+            "documento": "1025658262",
+            "grupo": "ONCE A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "MONTERO BERRIO ESTEBAN",
+            "documento": "1023657966",
+            "grupo": "PRIMERO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "CANO SEGURA MARIANA",
+            "documento": "1192463986",
+            "grupo": "ONCE A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "SIBAJA RICO JOSE DAVID",
+            "documento": "1035978062",
+            "grupo": "ONCE A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "CANO SEGURA ANTONIA",
+            "documento": "1035002463",
+            "grupo": "SEPTIMO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "LUJAN GARCIA MATHIAS",
+            "documento": "1011594330",
+            "grupo": "DECIMO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "RUIZ ARISTIZABAL NICOLAS",
+            "documento": "1025895823",
+            "grupo": "DECIMO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "GIRALDO CUELLO JUAN ALEJANDRO",
+            "documento": "1020317316",
+            "grupo": "SEPTIMO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ROJAS GÓMEZ SAMUEL MATIAS",
+            "documento": "1105791653",
+            "grupo": "SEXTO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "CALLEJAS TAMAYO LUCIANA",
+            "documento": "1020304197",
+            "grupo": "ONCE A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ORTIZ MONSALVE SEBASTIAN",
+            "documento": "1022150058",
+            "grupo": "ONCE A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "PATIÑO ECHAVARRIA GABRIELA",
+            "documento": "1011417494",
+            "grupo": "PRIMERO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "BETANCUR ORTIZ ISABELLA",
+            "documento": "1035006417",
+            "grupo": "QUINTO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "OCHOA HERRERA SARA",
+            "documento": "1017935653",
+            "grupo": "OCTAVO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "OCHOA HERRERA MICHELLE",
+            "documento": "1013356816",
+            "grupo": "QUINTO C"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "CHICA MARTINEZ MARIA ANTONIA",
+            "documento": "1020234259",
+            "grupo": "CUARTO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ARBOLEDA BASTOS XIMENA",
+            "documento": "1018249789",
+            "grupo": "DECIMO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ARCIA PEREZ MARIA ANTONIA",
+            "documento": "1025770917",
+            "grupo": "QUINTO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "GARCIA ARIAS JHEREMY DAVID",
+            "documento": "1039311523",
+            "grupo": "SEXTO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "RUIZ HINCAPIE GERALDIN",
+            "documento": "1108339053",
+            "grupo": "QUINTO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "MUÑOZ ORTEGA SANTIAGO DE JESUS",
+            "documento": "1127606063",
+            "grupo": "SEPTIMO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "LOPEZ VIVAS EMMANUEL",
+            "documento": "1025904194",
+            "grupo": "CUARTO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "VARGAS BEDOYA JULIETA",
+            "documento": "1020322388",
+            "grupo": "QUINTO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "MUNIVE ECHEVERRI ARIADNA",
+            "documento": "1192465340",
+            "grupo": "DECIMO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "CERTUCHE ALVAREZ JOSUE",
+            "documento": "1021934432",
+            "grupo": "SEPTIMO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "MARIN JIMENEZ LUCIANA",
+            "documento": "1033198229",
+            "grupo": "SEXTO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ZULUAGA SALGADO FELIPE",
+            "documento": "1021935677",
+            "grupo": "SEXTO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "SALDARRIAGA ISAZA ANA SOFIA",
+            "documento": "1025894543",
+            "grupo": "ONCE B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "VELEZ MEDINA DANIELA",
+            "documento": "1034924334",
+            "grupo": "SEPTIMO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "GUETTE ORTIZ ASHLEY CAROLINA",
+            "documento": "1042587012",
+            "grupo": "ONCE A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "GUETTE ORTIZ NORAH ISABELLA",
+            "documento": "1018269052",
+            "grupo": "TERCERO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "VELEZ MEJIA SARA",
+            "documento": "1021936799",
+            "grupo": "SEXTO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "GUZMAN HERRERA EMANUEL",
+            "documento": "1022152321",
+            "grupo": "DECIMO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "MEZA TOBON DEBANY ITZAYANA",
+            "documento": "1021930946",
+            "grupo": "NOVENO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "GUZMAN HERRERA SUSANA",
+            "documento": "1022156003",
+            "grupo": "OCTAVO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "GUZMAN HERRERA JUANA",
+            "documento": "1022159439",
+            "grupo": "QUINTO C"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "MUNERA CEBALLOS ISABEL",
+            "documento": "1036457845",
+            "grupo": "QUINTO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "FLOREZ HENAO STEFANY",
+            "documento": "1020319583",
+            "grupo": "SEXTO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "HERNANDEZ MONTAÑO MARIANA",
+            "documento": "1020304860",
+            "grupo": "ONCE A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "HERNANDEZ MONTAÑO ANDREA",
+            "documento": "1020316746",
+            "grupo": "SEPTIMO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "SEPULVEDA SANTIAGO MATIAS",
+            "documento": "1023527907",
+            "grupo": "ONCE B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "TERÁN FIGUEROA SOFIA JIMENA",
+            "documento": "1196968248",
+            "grupo": "OCTAVO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "MORALES GARCIA JHONATAN",
+            "documento": "1027662364",
+            "grupo": "ONCE B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "CORREA HENAO SOFIA",
+            "documento": "1020314407",
+            "grupo": "OCTAVO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "BOHÓRQUEZ ISAZA ISABELLA",
+            "documento": "1033202718",
+            "grupo": "TERCERO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "VALERO AYALA MELANY",
+            "documento": "1033205494",
+            "grupo": "PRIMERO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "DUQUE QUICENO MAHELET",
+            "documento": "1025904915",
+            "grupo": "TERCERO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "DUQUE QUICENO MAIARA",
+            "documento": "1025906936",
+            "grupo": "SEGUNDO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "JIMENEZ PARRA JACOBO",
+            "documento": "1011519725",
+            "grupo": "PRIMERO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "MARTINEZ CIRO JOSUE",
+            "documento": "1035005666",
+            "grupo": "SEXTO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "PEÑA GONZÁLEZ SOPHIA",
+            "documento": "1018261585",
+            "grupo": "QUINTO C"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ROJAS MORALES ISAAC",
+            "documento": "1020230893",
+            "grupo": "SEXTO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ROJAS MORALES ISABEL",
+            "documento": "1023546876",
+            "grupo": "SEGUNDO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ESTRADA ARANGO EMANUEL",
+            "documento": "1033204705",
+            "grupo": "SEGUNDO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "PEREZ TAMAYO SOFIA",
+            "documento": "1025900115",
+            "grupo": "SEXTO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "URIBE PINEDA REBECCA",
+            "documento": "1020319585",
+            "grupo": "SEXTO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "TABARES MARTINEZ MARTINA",
+            "documento": "1023595113",
+            "grupo": "QUINTO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "URIBE PINEDA RENATTA",
+            "documento": "1020327400",
+            "grupo": "PRIMERO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ZAPATA MARIN ANTHONY",
+            "documento": "1031945501",
+            "grupo": "PRIMERO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "PINEDA PEREZ EMILY MARIAN",
+            "documento": "1201471037",
+            "grupo": "CUARTO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "HENAO SERNA CELESTE",
+            "documento": "1033193469",
+            "grupo": "OCTAVO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "RUEDA ALVAREZ JULIETA",
+            "documento": "1035001646",
+            "grupo": "OCTAVO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "JARAMILLO GIRALDO JUANA",
+            "documento": "1022163975",
+            "grupo": "SEGUNDO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "PALACIOS ORTIZ CELESTE",
+            "documento": "1021809371",
+            "grupo": "SEPTIMO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "FLOREZ GONZALEZ ISABEL",
+            "documento": "1020227324",
+            "grupo": "NOVENO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "FLOREZ GONZALEZ SALOME",
+            "documento": "1020233196",
+            "grupo": "QUINTO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ZULUAGA GARCIA SARA",
+            "documento": "1034997693",
+            "grupo": "DECIMO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "JARAMILLO CARRANZA SANTIAGO",
+            "documento": "1018248468",
+            "grupo": "ONCE B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "CORTES MARIN ISABELLA",
+            "documento": "1032018082",
+            "grupo": "ONCE B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "TORRES GAITAN JOSABETH",
+            "documento": "1025676306",
+            "grupo": "PRIMERO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "SANCHEZ MEJIA KAREN",
+            "documento": "1025897021",
+            "grupo": "NOVENO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "MONTES AGUIRRE JERONIMO",
+            "documento": "1035010800",
+            "grupo": "TERCERO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "MANCERA LONDOÑO JOSÚE",
+            "documento": "1097132180",
+            "grupo": "QUINTO C"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "OSSA PERDOMO DANIEL",
+            "documento": "1023560303",
+            "grupo": "TRANSICION A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "OSSA PERDOMO VICTORIA",
+            "documento": "1232824885",
+            "grupo": "PRE-JARDIN"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "HERRERA HIGUITA ANTONIA",
+            "documento": "1013357048",
+            "grupo": "QUINTO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "MEJIA ALVAREZ ISABELLA",
+            "documento": "1023544303",
+            "grupo": "TERCERO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "CARDENAS MARTINEZ CRISTIAN MATHIAS",
+            "documento": "1037130310",
+            "grupo": "QUINTO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ORREGO ROJAS MIGUEL ANGEL",
+            "documento": "1023647320",
+            "grupo": "SEXTO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ZAPATA OCHOA MARIANGEL",
+            "documento": "1042153354",
+            "grupo": "DECIMO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "GIRALDO PEREZ ANA ISABEL",
+            "documento": "1021931737",
+            "grupo": "NOVENO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "OROZCO VELEZ EMILIANO",
+            "documento": "1020321755",
+            "grupo": "QUINTO C"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "OSPINA PEREZ SAMUEL",
+            "documento": "1127538440",
+            "grupo": "NOVENO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "MORCILLO VELASQUEZ SOFIA",
+            "documento": "1020306631",
+            "grupo": "ONCE A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "POSADA ALZATE ABRAHAM",
+            "documento": "1020321827",
+            "grupo": "QUINTO C"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "GAVIRIA MORENO JUAN JOSE",
+            "documento": "1017934602",
+            "grupo": "DECIMO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ORTIZ PIZARRO JUAN PABLO",
+            "documento": "1033188147",
+            "grupo": "ONCE B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "CASTAÑO VILORIA SARA",
+            "documento": "1011514095",
+            "grupo": "ONCE A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "VILORIA QUICENO ISAAC",
+            "documento": "1020226620",
+            "grupo": "DECIMO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "MURILLO ORTIZ MARIANGEL",
+            "documento": "1023547220",
+            "grupo": "SEGUNDO B"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "8 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "PEREZ RAIGOZA ELENA",
+            "documento": "1192469988",
+            "grupo": "TRANSICION A"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "7 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "MOSQUERA MURIEL SALOME",
+            "documento": "1015197774",
+            "grupo": "TRANSICION A"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "1 de 9",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "JIMENEZ OSORIO KAROLINE LOHANNA",
+            "documento": "1125350283",
+            "grupo": "TERCERO A"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "8 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ZAMBRANO BLANCO LUIS FELIPE",
+            "documento": "1205964537",
+            "grupo": "QUINTO C"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "4 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "TANGARIFE AGUDELO LUCIANA",
+            "documento": "1020235910",
+            "grupo": "TERCERO A"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "7 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "LONDOÑO BERTHI ZAMAR",
+            "documento": "1029864885",
+            "grupo": "QUINTO B"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "8 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "CUADROS AGUDELO VALENTINO",
+            "documento": "1021946955",
+            "grupo": "PRIMERO B"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "8 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "LONDOÑO BERTHI ANTONELLA",
+            "documento": "1029862845",
+            "grupo": "NOVENO B"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "8 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "LOPEZ MARROQUIN JOAQUIN",
+            "documento": "1023561258",
+            "grupo": "TRANSICION A"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "8 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "MONSALVE ARANGO HELENA",
+            "documento": "1011416997",
+            "grupo": "PRIMERO A"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "8 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "CARTAGENA ALVAREZ NICOLAS",
+            "documento": "1035008064",
+            "grupo": "CUARTO A"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "7 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "CHACON CAROM ANGELO DE JESUS",
+            "documento": "1051450977",
+            "grupo": "OCTAVO B"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "8 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "FLOREZ PUERTA SOFIA",
+            "documento": "1011412933",
+            "grupo": "CUARTO A"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "6 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "BEDOYA GARCIA JUANA VALENTINA",
+            "documento": "1018274619",
+            "grupo": "TRANSICION A"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "6 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "GARRO CUARTAS JERONIMO",
+            "documento": "1036950965",
+            "grupo": "OCTAVO A"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "6 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "CORDOBA VELASQUEZ EMMA",
+            "documento": "1031947374",
+            "grupo": "TRANSICION A"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "8 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "PEREZ PEÑA DANIEL",
+            "documento": "1020232647",
+            "grupo": "SEXTO A"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "8 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "GARCIA DIAZ SAMUEL",
+            "documento": "1018272478",
+            "grupo": "PRIMERO B"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "8 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "MUÑOZ ORREGO JULIETA",
+            "documento": "1020226306",
+            "grupo": "DECIMO A"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "7 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "MONTOYA ECHAVARRIA SALVADOR",
+            "documento": "1025909412",
+            "grupo": "TRANSICION A"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "6 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "QUINTANA GOMEZ MATIAS",
+            "documento": "1023560064",
+            "grupo": "TRANSICION A"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "6 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ESCALANTE MARTINEZ SARA",
+            "documento": "1038873057",
+            "grupo": "SEPTIMO B"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "5 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "MIRANDA CARDENAS JUAN ALEJANDRO",
+            "documento": "1023595858",
+            "grupo": "TRANSICION A"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "8 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ESCALANTE MARTINEZ SAMUEL",
+            "documento": "1038872200",
+            "grupo": "NOVENO B"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "5 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "JARVIS ESTRADA ARYA ELOWIN",
+            "documento": "1017283173",
+            "grupo": "PRIMERO B"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "2 de 9",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "HENAO CESPEDES ANA SOFIA",
+            "documento": "1021948318",
+            "grupo": "TRANSICION A"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "6 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "MENDEZ OSPINA SALOME",
+            "documento": "1123633095",
+            "grupo": "OCTAVO B"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "7 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "BALLADARES LOAYZA MATHIAS ALEJANDRO",
+            "documento": "7718937",
+            "grupo": "SEXTO A"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "4 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "VILLEGAS VARGAS MARIANGEL",
+            "documento": "1021929216",
+            "grupo": "DECIMO B"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "6 de 7",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "PELAEZ ECHAVARRIA VALERY",
+            "documento": "1035013843",
+            "grupo": "SEGUNDO B"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "5 de 7",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "RAMIREZ RAMIREZ LUCIANA",
+            "documento": "1036457627",
+            "grupo": "SEXTO B"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "5 de 7",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "CASTAÑO RAMIREZ MATIAS",
+            "documento": "1036458174",
+            "grupo": "QUINTO C"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "5 de 7",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ORTIZ CANO SARA",
+            "documento": "1020239882",
+            "grupo": "PRIMERO A"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "7 de 7",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "COSSIO LOPEZ JULIETA",
+            "documento": "1034929374",
+            "grupo": "JARDIN"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "4 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ISAZA ESPAÑA GUADALUPE",
+            "documento": "1023595038",
+            "grupo": "SEXTO B"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "5 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "VERGARA MARULANDA ELIA",
+            "documento": "1020308342",
+            "grupo": "DECIMO A"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "5 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "YEPES MURILLO MARIANGEL",
+            "documento": "1023654563",
+            "grupo": "TERCERO B"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "2 de 9",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "BENITEZ ZAPATA CALEB",
+            "documento": "1023556336",
+            "grupo": "PRIMERO A"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "5 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "BENITEZ ZAPATA ABIGAIL",
+            "documento": "1020241729",
+            "grupo": "PRE-JARDIN"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "5 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "HENAO YEPES SAMUEL",
+            "documento": "1021933088",
+            "grupo": "OCTAVO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "2 de 4",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "BETANCUR BUENAÑO VALERIA",
+            "documento": "1032187811",
+            "grupo": "SEXTO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ARAQUE GOMEZ SAMANTHA",
+            "documento": "1023547961",
+            "grupo": "SEGUNDO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "JARAMILLO LONDOÑO NICOLAS",
+            "documento": "1023551408",
+            "grupo": "SEGUNDO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "2 de 4",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "JARAMILLO LONDOÑO AARON",
+            "documento": "1023543480",
+            "grupo": "TERCERO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "2 de 4",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "RUEDA ALVAREZ JOSUE",
+            "documento": "1035011673",
+            "grupo": "TERCERO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "GALLEGO VELASQUEZ CELESTE",
+            "documento": "1023551022",
+            "grupo": "SEGUNDO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ARTUNDUAGA BURGOS SARAHY",
+            "documento": "1020317655",
+            "grupo": "SEPTIMO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "2 de 4",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ARTUNDUAGA BURGOS EMMANUEL",
+            "documento": "1020322501",
+            "grupo": "QUINTO C"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "2 de 4",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ARTUNDUAGA BURGOS ISAAC",
+            "documento": "1020327607",
+            "grupo": "TRANSICION A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "2 de 4",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "CARDONA CAICEDO MATEO",
+            "documento": "1023550159",
+            "grupo": "SEGUNDO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "SAYAGO ACEVEDO ISABELLA",
+            "documento": "1018271176",
+            "grupo": "SEGUNDO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "2 de 4",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "SAYAGO ACEVEDO SAMUEL",
+            "documento": "1018254757",
+            "grupo": "OCTAVO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "2 de 4",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ALVAREZ TERAN JOSUE",
+            "documento": "1015194657",
+            "grupo": "QUINTO C"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "CARDONA BAENA AMELIA",
+            "documento": "1031946360",
+            "grupo": "PRIMERO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "CALLE RAMIREZ ANA SOFIA",
+            "documento": "1018247480",
+            "grupo": "ONCE A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "SOTO MEJIA RACHEL",
+            "documento": "1033188845",
+            "grupo": "DECIMO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ALARCON ALZATE ISABELLA",
+            "documento": "1021930575",
+            "grupo": "NOVENO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ALARCON ALZATE SIMON",
+            "documento": "1021938249",
+            "grupo": "QUINTO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ZAPATA GIL LIAM EMMANUEL",
+            "documento": "1032030571",
+            "grupo": "TERCERO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ZAPATA GIL SAMUEL DAVID",
+            "documento": "1011417543",
+            "grupo": "PRIMERO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "AYERS LEON DAVID TIMOTHY",
+            "documento": "1020127780",
+            "grupo": "PRIMERO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "2 de 4",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "MARIACA MONTAGUT MARIA CLARA",
+            "documento": "1020228828",
+            "grupo": "OCTAVO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "MONTAGUT IBAÑEZ SARA",
+            "documento": "1022007379",
+            "grupo": "SEXTO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "GIL BETANCUR TOMAS",
+            "documento": "1021939602",
+            "grupo": "CUARTO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "2 de 4",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "GIL BETANCUR MARCOS",
+            "documento": "1021947937",
+            "grupo": "PRIMERO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "2 de 4",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "MARIACA MONTAGUT ALEJANDRA",
+            "documento": "1020232494",
+            "grupo": "SEXTO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "SANCHEZ JUSTINIANO JOSE DAVID",
+            "documento": "1025904957",
+            "grupo": "TERCERO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ORREGO JIMENEZ ANALUCIA",
+            "documento": "1011519079",
+            "grupo": "TERCERO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ORREGO JIMENEZ BENJAMIN",
+            "documento": "1011516886",
+            "grupo": "SEPTIMO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "GIRALDO GOMEZ JOEL",
+            "documento": "1033266392",
+            "grupo": "QUINTO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "0 de 4",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ECHAVARRIA MENA EMANUEL",
+            "documento": "1011414300",
+            "grupo": "CUARTO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "JARAMILLO CARRANZA CAMILA",
+            "documento": "1018258929",
+            "grupo": "SEXTO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "MEJIA ALVAREZ JOSÚE",
+            "documento": "1023544302",
+            "grupo": "TERCERO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "MONTOYA RESTREPO MARIA CAMILA",
+            "documento": "1020235950",
+            "grupo": "TERCERO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "CORREA CASTAÑO CHRISTOPHER",
+            "documento": "1033192943",
+            "grupo": "OCTAVO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "RAMIREZ DIAZ ISABELLA",
+            "documento": "1035011133",
+            "grupo": "TERCERO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "2 de 4",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "OSPINA PEREZ ISABELLA",
+            "documento": "1127538441",
+            "grupo": "SEPTIMO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "TORRES VALENCIA ANA SOFIA",
+            "documento": "1023642803",
+            "grupo": "NOVENO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "TORRES VALENCIA EMILIANO",
+            "documento": "1023646368",
+            "grupo": "SEPTIMO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ROJAS PALACIOS MIGUEL ANGEL",
+            "documento": "1020117709",
+            "grupo": "ONCE B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "2 de 4",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "GARCIA VELEZ ISABELLA",
+            "documento": "1020225453",
+            "grupo": "ONCE A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "GARCIA VELEZ LUCAS",
+            "documento": "1013369507",
+            "grupo": "SEGUNDO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "BRAN ARRIETA SARAY",
+            "documento": "1033198496",
+            "grupo": "QUINTO C"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "SUAREZ RESTREPO LORENA",
+            "documento": "1025900123",
+            "grupo": "SEPTIMO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "SUAREZ RESTREPO LESLIE",
+            "documento": "1025901591",
+            "grupo": "SEXTO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "VARGAS WILCHES MARIA JOSE",
+            "documento": "1021929142",
+            "grupo": "DECIMO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "2 de 4",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "VENEGAS OROZCO LYAM DARIO",
+            "documento": "1222255030",
+            "grupo": "JARDIN"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "2 de 4",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "VENEGAS OROZCO SAMUEL",
+            "documento": "1011230940",
+            "grupo": "QUINTO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "2 de 4",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ZULUAGA PIMIENTA DAVID",
+            "documento": "1017941081",
+            "grupo": "TERCERO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "PRIETO ALBÁN ISAAC",
+            "documento": "1027664379",
+            "grupo": "TERCERO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "PRIETO ALBÁN MATHÍAS",
+            "documento": "1027663704",
+            "grupo": "SEXTO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "PARADA PINEDA JUAN DAVID",
+            "documento": "1020320395",
+            "grupo": "SEXTO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "MADERA MALDONADO LUCIANA",
+            "documento": "1043465872",
+            "grupo": "SEXTO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "2 de 4",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "MEDINA ALZATE EMMANUEL",
+            "documento": "1027810014",
+            "grupo": "NOVENO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "1 de 4",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "CORTES BEDOYA SUSANA",
+            "documento": "1011515364",
+            "grupo": "NOVENO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ARENAS CALDERON EVOLETH",
+            "documento": "1020229348",
+            "grupo": "OCTAVO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "2 de 4",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ARENAS CALDERON SALOMON",
+            "documento": "1011519538",
+            "grupo": "SEGUNDO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "2 de 4",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "GOMEZ CASTIBLANCO MATIAS",
+            "documento": "1022161347",
+            "grupo": "CUARTO A"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "5 de 7",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "SORZA HERNANDEZ JUAN MARTIN",
+            "documento": "1069762747",
+            "grupo": "QUINTO B"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "1 de 7",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "SORZA HERNANDEZ MARIA JULIANA",
+            "documento": "1069756765",
+            "grupo": "SEXTO A"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "1 de 7",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "MARTINEZ USUGA DUNA HELENA",
+            "documento": "1035015636",
+            "grupo": "PRIMERO B"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "5 de 7",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ACOSTA OTERO JERONIMO",
+            "documento": "1029302745",
+            "grupo": "CUARTO A"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "4 de 7",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "CORREA GOMEZ DAVID ALEJANDRO",
+            "documento": "1031943787",
+            "grupo": "TERCERO B"
+        },
+        "escuela": {
+            "nombre": "CIBERFAMILIAS 3D"
+        },
+        "asistencias_resumen": "4 de 7",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "CADAVID PULGARIN LUIS MIGUEL",
+            "documento": "1036460396",
+            "grupo": "PRIMERO A"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "5 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "TEJADA GARCIA SUSANA",
+            "documento": "1192469644",
+            "grupo": "PRIMERO A"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "6 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "MORENO HIGUITA ABIGAIL",
+            "documento": "1013368206",
+            "grupo": "SEGUNDO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "3 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "KRIM GOMEZ JULIANA",
+            "documento": "1018253395",
+            "grupo": "NOVENO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "2 de 4",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "KRIM GOMEZ SUSANA SOFIA",
+            "documento": "1023543254",
+            "grupo": "TERCERO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "2 de 4",
+        "certificadoOtorgado": false,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "VALERO AYALA JEREMY",
+            "documento": "1023565210",
+            "grupo": "JARDIN"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "PONCE VARGAS SAYRA",
+            "documento": "1025667353",
+            "grupo": "SEPTIMO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "CARDENAS FRANCO DAVID",
+            "documento": "1025664447",
+            "grupo": "NOVENO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "CARDENAS FRANCO FELIPE",
+            "documento": "1025664448",
+            "grupo": "NOVENO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "HURTADO MORENO FAILYN LICETH",
+            "documento": "1032024288",
+            "grupo": "OCTAVO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "GARCIA HERNANDEZ EMILIANO",
+            "documento": "1131226492",
+            "grupo": "SEPTIMO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "ARBOLEDA CORDOBA SAMUEL JOSUHA",
+            "documento": "1032188877",
+            "grupo": "CUARTO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "DIAZ DURANGO DOMINICK",
+            "documento": "1032035184",
+            "grupo": "JARDIN"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "BENITEZ VARELA MIGUEL ANGEL",
+            "documento": "1013359684",
+            "grupo": "TERCERO A"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "DIAZ DURANGO DANNAH ISABEL",
+            "documento": "1025673366",
+            "grupo": "CUARTO B"
+        },
+        "escuela": {
+            "nombre": "HABLANDO DE SEXUALIDAD EN CASA"
+        },
+        "asistencias_resumen": "4 de 4",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    },
+    {
+        "estudiante": {
+            "nombre": "CAICEDO MARTINEZ EMMANUEL",
+            "documento": "1023552316",
+            "grupo": "PRIMERO A"
+        },
+        "escuela": {
+            "nombre": "EL ARTE DE SER PADRES PRESENCIAL"
+        },
+        "asistencias_resumen": "5 de 9",
+        "certificadoOtorgado": true,
+        "año": "2026-A"
+    }
+]
