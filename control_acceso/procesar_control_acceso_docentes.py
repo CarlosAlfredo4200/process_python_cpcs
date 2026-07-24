@@ -2,7 +2,7 @@ import pandas as pd
 
 input_columns = [1, 3]
 
-data_empleados = pd.read_excel('./data/Control_de_acceso_docentes.xlsx',usecols=input_columns)
+data_empleados = pd.read_excel('./data/Control_de_acceso_docentes.xlsx  ',usecols=input_columns)
 
 data_empleados = data_empleados.rename(columns={
     'Unnamed: 1': 'Nombre empleado',

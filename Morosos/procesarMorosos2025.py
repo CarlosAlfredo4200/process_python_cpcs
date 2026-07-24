@@ -17,7 +17,7 @@ lugar = input("Ingrese el lugar de la cita : ").strip()
 
 
 input_columns =[0,2,5,7,22]
-archivo = pd.read_excel('./CARTAS MOROSOS AL 05 DE JULIO 2026- DE 2 PENSIONES EN ADELANTE.xls', usecols=input_columns)
+archivo = pd.read_excel('./MOROSOS AL 20 DE JULIO 2026.xls', usecols=input_columns)
 df = pd.DataFrame(archivo)
 
 input_columns_global = [6,57,58,59,61]
@@ -139,7 +139,7 @@ print(f"Archivo Excel creado en: {ruta_salida}")
 
 # Exportar a Excel
 print("")
-ruta_salida = "./informe_reporte_morosos_5_julio.xlsx"
+ruta_salida = "./informe_reporte_morosos_20_julio.xlsx"
 informe_reporte_morosos.to_excel(ruta_salida, index=False)
 print(f"Archivo Excel creado en: {ruta_salida}")
 # Exportar a Excel
