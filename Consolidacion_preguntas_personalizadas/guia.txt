@@ -1,0 +1,3 @@
+Descargar los archivos de Q10 de preguntas frecuentes
+Guardarlos en Datos_base modificando sus nombres
+Desde la carpeta Datos_base se carga 
