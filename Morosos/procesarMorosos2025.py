@@ -1,158 +1,494 @@
 import pandas as pd
 from datetime import datetime
 
-"""NOTA: el archivo global debe descargarse : familiares y codeudores
-        fechas matriculas :todos
-        Incluir informacion acudiente
-        Estado: todos
-        todos los campos
-        """
 
-# entrada de datos
-print("")
-dia_cita = input("Ingrese el dia de la cita (eje. 9): ").strip()
-mes_cita = input("Ingrese el mes de la cita (eje. Agosto): ").strip()
-hora = input("Ingrese la hora de la cita (eje. 9 am): ").strip()
-lugar = input("Ingrese el lugar de la cita : ").strip()
+"""
+NOTA: El archivo global debe descargarse con:
+- Familiares y codeudores
+- Fechas de matrícula: todos
+- Incluir información del acudiente
+- Estado: todos
+- Todos los campos
+"""
 
 
-input_columns =[0,2,5,7,22]
-archivo = pd.read_excel('./MOROSOS AL 20 DE JULIO 2026.xls', usecols=input_columns)
-df = pd.DataFrame(archivo)
+# ============================================================
+# DATOS DE LA CITA
+# ============================================================
 
-input_columns_global = [6,57,58,59,61]
-data_global_cpcs = pd.read_excel('./Estudiantes__Informacion_familiar.xlsx', usecols=input_columns_global)
-df_global = pd.DataFrame(data_global_cpcs)
+print()
 
-df_global = df_global.rename(columns={
-    "Número de identificación": "identificacion",
-})
+dia_cita = input(
+    "Ingrese el día de la cita (ej. 9): "
+).strip()
 
-df_global['identificacion'] = df_global['identificacion'].astype(str).str.extract(r"(\d{8,12})")
- 
- 
+mes_cita = input(
+    "Ingrese el mes de la cita (ej. Agosto): "
+).strip()
 
-# Cortar filas desde la 16 en adelante
-df = df.iloc[16:].reset_index(drop=True)
+hora = input(
+    "Ingrese la hora de la cita (ej. 9 a.m.): "
+).strip()
 
- 
- 
-
-
-# Eliminar filas con NaN en la columna 'Unnamed: 7'
-df = df.dropna(subset=['Unnamed: 7']).reset_index(drop=True)
-
-# llenar hacia abajo
-pd.set_option('future.no_silent_downcasting', True)
-df = df.ffill().infer_objects(copy=False)
-
- 
+lugar = input(
+    "Ingrese el lugar de la cita: "
+).strip()
 
 
-# limpiar columas y extraer solo el nombre 
-df['Nombre estudiante'] = df['Unnamed: 0'].astype(str).str.split("\n").str[0]
-df['acudiente'] = df['Unnamed: 2'].astype(str).str.split("\n").str[0]
-df['grado'] = df['Unnamed: 5'].astype(str).str.split(" ").str[0]
-df['identificacion'] = df['Unnamed: 0'].astype(str).str.extract(r"(\d{8,12})")
+# ============================================================
+# LEER ARCHIVO DE MOROSOS
+# ============================================================
 
-# Renombrar columna
-df['deuda total'] = df['Unnamed: 22']
-df['pensiones pendientes'] = df['Unnamed: 7']
+columnas_morosos = [0, 2, 5, 7, 22]
 
-# configurar la fecha actual 
-meses = {
-    1: "enero",2: "febrero",3: "marzo",4: "abril",5: "mayo",6: "junio",
-    7: "julio",8: "agosto",9: "septiembre",10: "octubre",11: "noviembre",12: "diciembre"
-}
-
-hoy = datetime.now()
-fecha_actual = f"{hoy.day} {meses[hoy.month]} de {hoy.year}"
-
-# columnas adicionales 
-df['dia_cita'] = dia_cita
-df['mes_cita'] = mes_cita
-df['año_cita'] = 2026
-df['administrador'] = "Liliana María García Marín"
-df['fecha actual'] = fecha_actual
-df['lugar'] = lugar
-df['hora'] = hora 
-
-df = df[['dia_cita', 'mes_cita','año_cita','administrador','fecha actual','lugar','hora','Nombre estudiante','identificacion', 'acudiente','grado','pensiones pendientes','deuda total']]
-
-# Limpiar columna grado 
-df = df[df['grado'] !='Grado']
-
-
-# Copia en paralelo para el filtro de 50
-df_fintro_50 = df
-
-# ✅ Filtro: solo registros con deuda > 800.000
-df['deuda total'] = pd.to_numeric(df['deuda total'], errors='coerce')
-df = df[df['deuda total'] > 800000].reset_index(drop=True)
-
-# ✅ Filtro: solo registros con deuda > 50.000
-df['deuda total'] = pd.to_numeric(df['deuda total'], errors='coerce')
-df_fintro_50 = df_fintro_50[df_fintro_50['deuda total'] > 50000].reset_index(drop=True)
-
-
-df_listado_grupo = (
-    df[['Nombre estudiante','acudiente','grado']]
-    .drop_duplicates(subset=['Nombre estudiante'])   # elimina repetidos en estudiante
-    .sort_values(by='grado')                        # ordena por grado
-    .reset_index(drop=True)                         # limpia índices
+df = pd.read_excel(
+    "./MOROSOS AL 21 DE SEPTIEMBRE 2026.xls",
+    usecols=columnas_morosos
 )
 
 
+# ============================================================
+# LEER ARCHIVO GLOBAL DE ESTUDIANTES
+# ============================================================
 
-# Agrupar
-df_final = df.groupby(
-    ['dia_cita', 'mes_cita','año_cita','administrador','fecha actual','lugar','hora','Nombre estudiante','identificacion', 'acudiente', 'grado', 'deuda total'], as_index=False
-).agg({
-    'pensiones pendientes': lambda x: " - ".join(sorted(set(x), key=list(x).index))
-})
+columnas_global = [6, 57, 58, 59, 61]
 
-
-# Agrupar
-df_final_50 = df_fintro_50.groupby(
-    ['dia_cita', 'mes_cita','año_cita','administrador','fecha actual','lugar','hora','Nombre estudiante','identificacion', 'acudiente', 'grado', 'deuda total'], as_index=False
-).agg({
-    'pensiones pendientes': lambda x: " - ".join(sorted(set(x), key=list(x).index))
-})
+df_global = pd.read_excel(
+    "./Estudiantes__Informacion_familiar.xlsx",
+    usecols=columnas_global
+)
 
 
-uni_dfs= pd.merge(df_final,df_global, on='identificacion', how="left")
-
-uni_dfs_50= pd.merge(df_final_50,df_global, on='identificacion', how="left")
-
-informe_cartas_y_juntas = uni_dfs[['dia_cita', 'mes_cita','año_cita','administrador','fecha actual','lugar','hora','Nombre estudiante','identificacion', 'acudiente', 'grado', 'deuda total','pensiones pendientes']]
-
-informe_reporte_morosos = uni_dfs[['identificacion','Nombre estudiante','grado', 'acudiente','Parentesco', 'Teléfono acudiente', 'Celular acudiente', 'Correo electrónico acudiente',  'deuda total']]
-
-informe_reporte_morosos_50 = uni_dfs_50[['identificacion','Nombre estudiante','grado', 'acudiente','Parentesco', 'Teléfono acudiente', 'Celular acudiente', 'Correo electrónico acudiente',  'deuda total']]
-
-# Exportar a Excel
-print("")
-ruta_salida = "./informe_cartas_y_juntas.xlsx"
-informe_cartas_y_juntas.to_excel(ruta_salida, index=False)
-print(f"Archivo Excel creado en: {ruta_salida}")
-# Exportar a Excel
-
-# Exportar a Excel
-print("")
-ruta_salida = "./informe_reporte_morosos_20_julio.xlsx"
-informe_reporte_morosos.to_excel(ruta_salida, index=False)
-print(f"Archivo Excel creado en: {ruta_salida}")
-# Exportar a Excel
+# Renombrar la identificación
+df_global = df_global.rename(
+    columns={
+        "Número de identificación": "identificacion"
+    }
+)
 
 
-print("")
-ruta_salida = "./morosos_listado.xlsx"
-df_listado_grupo.to_excel(ruta_salida, index=False)
-print(f"Archivo Excel creado en: {ruta_salida}")
+# Extraer únicamente identificaciones de 8 a 12 dígitos
+df_global["identificacion"] = (
+    df_global["identificacion"]
+    .astype(str)
+    .str.extract(r"(\d{8,12})", expand=False)
+)
 
-print("")
-ruta_salida = "./informe_reporte_morosos_50.xlsx"
-informe_reporte_morosos_50.to_excel(ruta_salida, index=False)
-print(f"Archivo Excel creado en: {ruta_salida}")
 
- 
+# Eliminar registros sin identificación en el archivo global
+df_global = (
+    df_global
+    .dropna(subset=["identificacion"])
+    .drop_duplicates(subset=["identificacion"])
+    .reset_index(drop=True)
+)
+
+
+# ============================================================
+# LIMPIAR ARCHIVO DE MOROSOS
+# ============================================================
+
+# Eliminar las primeras 16 filas
+df = df.iloc[16:].reset_index(drop=True)
+
+
+# Limpiar los nombres de las columnas por seguridad
+df.columns = df.columns.astype(str).str.strip()
+
+
+# Verificar que las columnas necesarias existan
+columnas_necesarias = [
+    "Unnamed: 0",
+    "Unnamed: 2",
+    "Unnamed: 5",
+    "Unnamed: 7",
+    "Unnamed: 22"
+]
+
+columnas_faltantes = [
+    columna
+    for columna in columnas_necesarias
+    if columna not in df.columns
+]
+
+if columnas_faltantes:
+    raise KeyError(
+        "No se encontraron estas columnas en el archivo: "
+        + ", ".join(columnas_faltantes)
+    )
+
+
+# ============================================================
+# CONSERVAR LA COLUMNA 7 ORIGINAL
+# ============================================================
+
+# La columna 7 contiene los meses.
+# No se debe aplicar ffill() sobre esta columna porque los NaN
+# se convertirían incorrectamente en meses repetidos.
+pensiones_originales = df["Unnamed: 7"].copy()
+
+
+# ============================================================
+# LLENAR DATOS DEL ESTUDIANTE HACIA ABAJO
+# ============================================================
+
+# Estas columnas sí se rellenan porque las filas de meses
+# adicionales tienen vacíos los datos del estudiante.
+columnas_rellenar = [
+    "Unnamed: 0",
+    "Unnamed: 2",
+    "Unnamed: 5",
+    "Unnamed: 22"
+]
+
+pd.set_option("future.no_silent_downcasting", True)
+
+df[columnas_rellenar] = (
+    df[columnas_rellenar]
+    .ffill()
+    .infer_objects(copy=False)
+)
+
+
+# Restaurar la columna 7 con sus valores originales
+df["Unnamed: 7"] = pensiones_originales
+
+
+# Eliminar filas que realmente no tienen información en la columna 7
+df = df.dropna(subset=["Unnamed: 7"]).reset_index(drop=True)
+
+
+# ============================================================
+# LIMPIAR LA COLUMNA DE PENSIONES
+# ============================================================
+
+df["pensiones pendientes"] = (
+    df["Unnamed: 7"]
+    .astype(str)
+    .str.strip()
+    .str.title()
+)
+
+
+# Eliminar valores vacíos, puntos o textos que representan nulos
+valores_invalidos = [
+    "",
+    ".",
+    "Nan",
+    "None",
+    "N/A"
+]
+
+df = df[
+    ~df["pensiones pendientes"].isin(valores_invalidos)
+].reset_index(drop=True)
+
+
+# ============================================================
+# EXTRAER DATOS DEL ESTUDIANTE
+# ============================================================
+
+df["Nombre estudiante"] = (
+    df["Unnamed: 0"]
+    .astype(str)
+    .str.split("\n")
+    .str[0]
+    .str.strip()
+)
+
+
+df["acudiente"] = (
+    df["Unnamed: 2"]
+    .astype(str)
+    .str.split("\n")
+    .str[0]
+    .str.strip()
+)
+
+
+df["grado"] = (
+    df["Unnamed: 5"]
+    .astype(str)
+    .str.split()
+    .str[0]
+    .str.strip()
+)
+
+
+df["identificacion"] = (
+    df["Unnamed: 0"]
+    .astype(str)
+    .str.extract(r"(\d{8,12})", expand=False)
+)
+
+
+df["deuda total"] = df["Unnamed: 22"]
+
+
+# Eliminar filas sin identificación
+df = df.dropna(subset=["identificacion"]).reset_index(drop=True)
+
+
+# Eliminar encabezados repetidos dentro del Excel
+df = df[
+    df["grado"].str.lower() != "grado"
+].reset_index(drop=True)
+
+
+# ============================================================
+# FILTRAR ESTUDIANTES CON DOS O MÁS REGISTROS
+# ============================================================
+
+# Cuenta cuántas filas con pensión tiene cada estudiante
+df["cantidad_pensiones"] = (
+    df.groupby("identificacion")["pensiones pendientes"]
+    .transform("count")
+)
+
+
+# Conservar únicamente estudiantes con dos o más registros
+df = df[
+    df["cantidad_pensiones"] >= 2
+].reset_index(drop=True)
+
+
+# Mostrar resultado del filtro en la terminal
+print()
+print("Registros encontrados después del filtro:")
+
+print(
+    df[
+        [
+            "Nombre estudiante",
+            "identificacion",
+            "pensiones pendientes",
+            "deuda total",
+            "cantidad_pensiones"
+        ]
+    ].to_string(index=False)
+)
+
+print()
+print(
+    "Estudiantes con dos o más registros:",
+    df["identificacion"].nunique()
+)
+
+
+# ============================================================
+# CONFIGURAR FECHA ACTUAL
+# ============================================================
+
+meses = {
+    1: "enero",
+    2: "febrero",
+    3: "marzo",
+    4: "abril",
+    5: "mayo",
+    6: "junio",
+    7: "julio",
+    8: "agosto",
+    9: "septiembre",
+    10: "octubre",
+    11: "noviembre",
+    12: "diciembre"
+}
+
+hoy = datetime.now()
+
+fecha_actual = (
+    f"{hoy.day} de {meses[hoy.month]} de {hoy.year}"
+)
+
+
+# ============================================================
+# AGREGAR DATOS DE LA CITA
+# ============================================================
+
+df["dia_cita"] = dia_cita
+df["mes_cita"] = mes_cita
+df["año_cita"] = 2026
+df["administrador"] = "Liliana María García Marín"
+df["fecha actual"] = fecha_actual
+df["lugar"] = lugar
+df["hora"] = hora
+
+
+# ============================================================
+# CREAR LISTADO POR GRUPO
+# ============================================================
+
+df_listado_grupo = (
+    df[
+        [
+            "Nombre estudiante",
+            "acudiente",
+            "grado"
+        ]
+    ]
+    .drop_duplicates(subset=["Nombre estudiante"])
+    .sort_values(
+        by=["grado", "Nombre estudiante"]
+    )
+    .reset_index(drop=True)
+)
+
+
+# ============================================================
+# AGRUPAR LOS MESES POR ESTUDIANTE
+# ============================================================
+
+columnas_agrupacion = [
+    "dia_cita",
+    "mes_cita",
+    "año_cita",
+    "administrador",
+    "fecha actual",
+    "lugar",
+    "hora",
+    "Nombre estudiante",
+    "identificacion",
+    "acudiente",
+    "grado",
+    "deuda total"
+]
+
+
+def unir_pensiones(valores):
+    """
+    Une los meses sin repetirlos y conserva
+    el orden en que aparecen en el archivo.
+    """
+
+    pensiones = []
+
+    for valor in valores:
+        valor = str(valor).strip()
+
+        if valor and valor not in pensiones:
+            pensiones.append(valor)
+
+    return " - ".join(pensiones)
+
+
+df_final = (
+    df.groupby(
+        columnas_agrupacion,
+        as_index=False,
+        dropna=False
+    )
+    .agg({
+        "pensiones pendientes": unir_pensiones
+    })
+)
+
+
+# ============================================================
+# UNIR CON EL ARCHIVO GLOBAL
+# ============================================================
+
+uni_dfs = pd.merge(
+    df_final,
+    df_global,
+    on="identificacion",
+    how="left"
+)
+
+
+# ============================================================
+# CREAR INFORME DE CARTAS Y JUNTAS
+# ============================================================
+
+informe_cartas_y_juntas = uni_dfs[
+    [
+        "dia_cita",
+        "mes_cita",
+        "año_cita",
+        "administrador",
+        "fecha actual",
+        "lugar",
+        "hora",
+        "Nombre estudiante",
+        "identificacion",
+        "acudiente",
+        "grado",
+        "deuda total",
+        "pensiones pendientes"
+    ]
+]
+
+
+# ============================================================
+# CREAR INFORME GENERAL DE MOROSOS
+# ============================================================
+
+informe_reporte_morosos = uni_dfs[
+    [
+        "identificacion",
+        "Nombre estudiante",
+        "grado",
+        "acudiente",
+        "Parentesco",
+        "Teléfono acudiente",
+        "Celular acudiente",
+        "Correo electrónico acudiente",
+        "deuda total",
+        "pensiones pendientes"
+    ]
+]
+
+
+# ============================================================
+# EXPORTAR INFORME DE CARTAS Y JUNTAS
+# ============================================================
+
+print()
+
+ruta_cartas = "./informe_cartas_y_juntas_21_sep.xlsx"
+
+informe_cartas_y_juntas.to_excel(
+    ruta_cartas,
+    index=False
+)
+
+print(f"Archivo Excel creado en: {ruta_cartas}")
+
+
+# ============================================================
+# EXPORTAR INFORME GENERAL DE MOROSOS
+# ============================================================
+
+print()
+
+ruta_morosos = "./MOROSOS_AL_21_sep_2026_filtrados.xlsx"
+
+informe_reporte_morosos.to_excel(
+    ruta_morosos,
+    index=False
+)
+
+print(f"Archivo Excel creado en: {ruta_morosos}")
+
+
+# ============================================================
+# EXPORTAR LISTADO POR GRUPO
+# ============================================================
+
+print()
+
+ruta_listado = "./morosos_listado_21_sep_filtrados.xlsx"
+
+df_listado_grupo.to_excel(
+    ruta_listado,
+    index=False
+)
+
+print(f"Archivo Excel creado en: {ruta_listado}")
+
+
+# ============================================================
+# RESUMEN
+# ============================================================
+
+print()
+print(f"Total de estudiantes exportados: {len(df_final)}")

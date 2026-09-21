@@ -69,3 +69,26 @@ Concatena todos los grados en un único DataFrame.
 Exporta los resultados a un archivo consolidado.json.
 
 Inserta los datos en MongoDB Atlas en la base test, colección studentnotes.
+
+
+--------------------------------------- 
+
+Ejemplo de Actualización desde mongodb
+
+Filtrar:
+
+{
+  grupo: { $in: ["7. A", "7. B"] },
+  periodo: "TERCER PERIODO",
+  tecnologia: { $gte: 3, $lte: 4 }
+}
+
+despues cambiar texto:
+
+{
+  $set: {
+    observaciones_tecnologia: "Debe mejorar sus hábitos de estudio, organización y responsabilidad frente a los compromisos académicos.\n\n- A pesar de las orientaciones y oportunidades de recuperación, no logra demostrar el nivel de desempeño esperado en el área.\n- Presenta dificultades para relacionar los contenidos teóricos con situaciones prácticas y proyectos tecnológicos.\n- Necesita fortalecer la capacidad para trabajar de manera autónoma, seguir procesos y buscar soluciones a problemas tecnológicos.",
+
+    metas_tecnologia: "Fortalecer su participación, iniciativa y disposición frente a las actividades de aprendizaje y mejorar sus hábitos de estudio, organización y cumplimiento de los compromisos académicos.\n\n- Aprovechar las oportunidades de recuperación para superar dificultades y alcanzar los desempeños esperados.\n- Relacionar los conocimientos teóricos con su aplicación en actividades prácticas y proyectos tecnológicos.\n- Fortalecer la autonomía, el seguimiento de procesos y la búsqueda de soluciones a situaciones tecnológicas."
+  }
+}

@@ -26,7 +26,7 @@ df_data_concatenado = pd.concat([
     ])
 
 # Exportar a Excel
-ruta_salida = "./Notas_Periodos_informe.xlsx"
+ruta_salida = "./Notas_Periodos_informe_3_periodo.xlsx"
 df_data_concatenado.to_excel(ruta_salida, index=False)
 print(f"Archivo Excel creado en: {ruta_salida}")
  
@@ -34,7 +34,7 @@ print(f"Archivo Excel creado en: {ruta_salida}")
 df_data_concatenado = df_data_concatenado.to_json(orient='records', lines=False, force_ascii=False)
 
 # Guardar el archivo JSON en UTF-8
-with open('consolidado_informe.json', 'w', encoding='utf-8') as json_file:
+with open('consolidado_informe_3_periodo.json', 'w', encoding='utf-8') as json_file:
     json.dump(json.loads(df_data_concatenado), json_file, ensure_ascii=False, indent=4)
     
 
