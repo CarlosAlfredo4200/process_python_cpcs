@@ -42,7 +42,7 @@ lugar = input(
 columnas_morosos = [0, 2, 5, 7, 22]
 
 df = pd.read_excel(
-    "./MOROSOS AL 21 DE SEPTIEMBRE 2026.xls",
+    "./MOROSOS AL 12 DE OCTUBRE 2026.xls",
     usecols=columnas_morosos
 )
 
@@ -248,7 +248,7 @@ df["cantidad_pensiones"] = (
 
 # Conservar únicamente estudiantes con dos o más registros
 df = df[
-    df["cantidad_pensiones"] >= 2
+    df["cantidad_pensiones"] >= 1
 ].reset_index(drop=True)
 
 
@@ -444,7 +444,7 @@ informe_reporte_morosos = uni_dfs[
 
 print()
 
-ruta_cartas = "./informe_cartas_y_juntas_21_sep.xlsx"
+ruta_cartas = "./informe_cartas_y_juntas_12_oct.xlsx"
 
 informe_cartas_y_juntas.to_excel(
     ruta_cartas,
@@ -460,7 +460,7 @@ print(f"Archivo Excel creado en: {ruta_cartas}")
 
 print()
 
-ruta_morosos = "./MOROSOS_AL_21_sep_2026_filtrados.xlsx"
+ruta_morosos = "./MOROSOS_AL_12_oct_2026_filtrados.xlsx"
 
 informe_reporte_morosos.to_excel(
     ruta_morosos,
@@ -476,7 +476,7 @@ print(f"Archivo Excel creado en: {ruta_morosos}")
 
 print()
 
-ruta_listado = "./morosos_listado_21_sep_filtrados.xlsx"
+ruta_listado = "./morosos_listado_12_oct_filtrados.xlsx"
 
 df_listado_grupo.to_excel(
     ruta_listado,
