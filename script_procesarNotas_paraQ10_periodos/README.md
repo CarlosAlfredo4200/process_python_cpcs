@@ -78,25 +78,25 @@ Ejemplo de Actualización desde mongodb
 Filtrar:
 
 {
-  grupo: { $in: ["7. A", "7. B"] },
+  grupo: { $in: ["7. A", "6. B"] },
   periodo: "TERCER PERIODO",
   tecnologia: { $gte: 3, $lte: 4 }         // cambiar el área
 }
 
 {
-  grupo: { $in: ["6. A", "6. B"] },
-  periodo: "SEGUNDO PERIODO",
+  grupo: { $in: ["6. B"] },
+  periodo: "TERCER PERIODO",
   $expr: {
     $and: [
       {
         $gte: [
-          { $convert: { input: "$idioma_extranjero", to: "double", onError: null, onNull: null } },
+          { $convert: { input: "$ciencias_naturales", to: "double", onError: null, onNull: null } },
           3
         ]
       },
       {
         $lte: [
-          { $convert: { input: "$idioma_extranjero", to: "double", onError: null, onNull: null } },
+          { $convert: { input: "$ciencias_naturales", to: "double", onError: null, onNull: null } },
           3.95
         ]
       }
@@ -108,9 +108,11 @@ despues cambiar texto:
 
 {
   $set: {
-    observaciones_idioma_extranjero: "El estudiante logró reconocer y trabajar algunas de las estructuras gramaticales abordadas durante el período, especialmente en las actividades relacionadas con Present Perfect y Past Simple. Sin embargo, la falta recurrente de presentación de trabajos y actividades limitó las oportunidades para evidenciar de manera completa y constante sus aprendizajes.\nEl estudiante tuvo la oportunidad de fortalecer sus habilidades de inglés mediante el trabajo autónomo en Rosetta, herramienta destinada al desarrollo progresivo de sus competencias lingüísticas. No obstante, el incumplimiento de las unidades y actividades requeridas en la plataforma afectó la continuidad de su proceso y el cumplimiento de los objetivos establecidos para el período.\nEl estudiante contó con espacios para participar en actividades de lectura, escritura, expresión oral y en el proyecto de Misiones, en los cuales podía demostrar responsabilidad, respeto y compromiso. Sin embargo, algunas actitudes y comportamientos durante las clases dificultaron el desarrollo adecuado de las actividades y el aprovechamiento de los espacios de aprendizaje, por lo que requiere fortalecer su disposición y compromiso frente al trabajo académico.",
-    metas_idioma_extranjero: "Fortalecer la responsabilidad académica, presentando oportunamente los trabajos, actividades y proyectos asignados.\nCumplir de manera constante con las unidades establecidas en Rosetta, siguiendo el cronograma y organizando espacios de trabajo autónomo.\nMejorar su actitud y comportamiento durante las clases, demostrando respeto por docentes y compañeros, disposición para aprender y cumplimiento de las normas establecidas.\nParticipar activamente en las actividades de inglés, especialmente en aquellas que involucran lectura, escritura, producción oral y proyectos, aprovechando estos espacios para demostrar sus aprendizajes.",
-    rep_eva_idioma_extranjero: "Durante el período se realizó seguimiento al proceso académico y actitudinal del estudiante mediante el acompañamiento en las actividades desarrolladas en clase, recordatorios de los compromisos y del cronograma de trabajo en Rosetta, así como espacios destinados al desarrollo y entrega de las actividades propuestas. Se brindaron orientaciones para favorecer la comprensión de los temas y el cumplimiento de los trabajos asignados.\nA pesar del acompañamiento realizado, persistieron algunas dificultades relacionadas con la presentación oportuna de trabajos, el cumplimiento de las actividades requeridas en Rosetta y la actitud asumida durante determinados espacios de clase. Para favorecer su avance, se recomienda continuar fortaleciendo la responsabilidad, el trabajo autónomo, el seguimiento de instrucciones y una actitud respetuosa y comprometida frente al proceso de aprendizaje."
+    observaciones_ciencias_naturales: "El estudiante obtuvo un desempeño básico en el área de Matemáticas. Necesita fortalecer la comprensión y aplicación de los conceptos relacionados con los números racionales. 2. Requiere afianzar la identificación, representación, comparación y ubicación de números racionales, así como el desarrollo de operaciones con fracciones y números decimales. 3. Es importante fortalecer sus hábitos de estudio y repaso en casa, practicar los procedimientos matemáticos y prestar mayor atención a las explicaciones e instrucciones dadas en clase.",
+    
+    metas_ciencias_naturales: "Reconocer, representar, comparar y ubicar correctamente los números racionales en diferentes situaciones matemáticas. 2. Fortalecer el manejo de las operaciones básicas con fracciones y números decimales, aplicando correctamente los procedimientos y propiedades. 3. Desarrollar habilidades para resolver situaciones problema que involucren números racionales, mediante la práctica constante y el repaso de los contenidos en casa, buscando superar el promedio obtenido.",
+
+    rep_eva_ciencias_naturales: "Durante el tercer periodo, Isaac Cardona obtuvo un promedio de 3.9 en el área de Matemáticas, alcanzando los desempeños básicos propuestos en el tema de números racionales. Necesita continuar fortaleciendo la comprensión de los conceptos, el manejo de las operaciones con fracciones y números decimales, y la resolución de situaciones problema. Se recomienda dedicar mayor tiempo al repaso en casa, practicar los ejercicios desarrollados en clase y fortalecer su autonomía en los procedimientos matemáticos. Cuenta con las capacidades para alcanzar mejores resultados si mantiene la constancia, la atención y el compromiso con su aprendizaje."
   }
 }
 
