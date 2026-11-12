@@ -1,0 +1,12 @@
+Descargar desde comunidad excel Estudiante con estodos datos:
+Primer nombre	
+Segundo nombre	
+Primer apellido	
+Segundo apellido	
+Número de identificación	
+Grupo	
+Grado	
+Año lectivo
+
+colocarlo en la carpera actual
+

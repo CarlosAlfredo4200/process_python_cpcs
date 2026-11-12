@@ -1,10 +1,9 @@
-result = 0
+texto = "Dios"
 
-for item in [3,3,5]:
-    if item > 3:
-        result = result - item
-    else:
-        result =  result + item
-        
+resultado = (c for c in texto.upper())
 
-print(result)
+for item in resultado:
+        print('Letra:', item)
+ 
+ 
+ 
