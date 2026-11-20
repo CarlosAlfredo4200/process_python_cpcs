@@ -78,25 +78,25 @@ Ejemplo de Actualización desde mongodb
 Filtrar:
 
 {
-  grupo: { $in: ["7. A", "6. B"] },
+  grupo: { $in: ["10. A", "10. B"] },
   periodo: "TERCER PERIODO",
   tecnologia: { $gte: 3, $lte: 4 }         // cambiar el área
 }
 
 {
-  grupo: { $in: ["6. B"] },
+  grupo: { $in: ["11. A", "11. B"] },
   periodo: "TERCER PERIODO",
   $expr: {
     $and: [
       {
         $gte: [
-          { $convert: { input: "$ciencias_naturales", to: "double", onError: null, onNull: null } },
+          { $convert: { input: "$quimica", to: "double", onError: null, onNull: null } },
           3
         ]
       },
       {
         $lte: [
-          { $convert: { input: "$ciencias_naturales", to: "double", onError: null, onNull: null } },
+          { $convert: { input: "$quimica", to: "double", onError: null, onNull: null } },
           3.95
         ]
       }
@@ -108,11 +108,11 @@ despues cambiar texto:
 
 {
   $set: {
-    observaciones_ciencias_naturales: "El estudiante obtuvo un desempeño básico en el área de Matemáticas. Necesita fortalecer la comprensión y aplicación de los conceptos relacionados con los números racionales. 2. Requiere afianzar la identificación, representación, comparación y ubicación de números racionales, así como el desarrollo de operaciones con fracciones y números decimales. 3. Es importante fortalecer sus hábitos de estudio y repaso en casa, practicar los procedimientos matemáticos y prestar mayor atención a las explicaciones e instrucciones dadas en clase.",
+    observaciones_quimica: "El estudiante demuestra una comprensión básica de los compuestos oxigenados de la química orgánica, reconociendo algunas de sus características y grupos funcionales. Sin embargo, necesita fortalecer la identificación, diferenciación y aplicación de las reglas de nomenclatura de estos compuestos.",
     
-    metas_ciencias_naturales: "Reconocer, representar, comparar y ubicar correctamente los números racionales en diferentes situaciones matemáticas. 2. Fortalecer el manejo de las operaciones básicas con fracciones y números decimales, aplicando correctamente los procedimientos y propiedades. 3. Desarrollar habilidades para resolver situaciones problema que involucren números racionales, mediante la práctica constante y el repaso de los contenidos en casa, buscando superar el promedio obtenido.",
+    metas_quimica: "Fortalecer la identificación y clasificación de los principales compuestos oxigenados (alcoholes, éteres, aldehídos, cetonas, ácidos carboxílicos y ésteres), aplicando correctamente las reglas de nomenclatura IUPAC y relacionando sus estructuras con sus respectivos grupos funcionales.",
 
-    rep_eva_ciencias_naturales: "Durante el tercer periodo, Isaac Cardona obtuvo un promedio de 3.9 en el área de Matemáticas, alcanzando los desempeños básicos propuestos en el tema de números racionales. Necesita continuar fortaleciendo la comprensión de los conceptos, el manejo de las operaciones con fracciones y números decimales, y la resolución de situaciones problema. Se recomienda dedicar mayor tiempo al repaso en casa, practicar los ejercicios desarrollados en clase y fortalecer su autonomía en los procedimientos matemáticos. Cuenta con las capacidades para alcanzar mejores resultados si mantiene la constancia, la atención y el compromiso con su aprendizaje."
+    
   }
 }
 
